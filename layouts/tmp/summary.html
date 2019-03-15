@@ -1,0 +1,16 @@
+<div class="service service-summary">
+  <div class="service-image">
+    <time class="icon">
+      <em>{{.Params.wochentag}}</em>
+      <strong>{{.Params.monat}}</strong>
+      <span>{{.Params.tag}}</span>
+    </time>
+  </div>
+
+  <div class="service-content">
+    <h2 class="service-title">
+      <a href="{{ .Permalink }}">{{ .Title }}</a>
+    </h2>
+    {{ .Content | truncate 80 "..." }}
+  </div>
+</div>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ausbildung on JGV Diepholz</title>
+    <link>/ausbildung/</link>
+    <description>Recent content in Ausbildung on JGV Diepholz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Thu, 28 Feb 2019 21:52:18 +0700</lastBuildDate>
+    
+	<atom:link href="/ausbildung/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hundekurs BP</title>
+      <link>/ausbildung/brauchbarkeit/</link>
+      <pubDate>Thu, 28 Feb 2019 22:33:46 +1000</pubDate>
+      
+      <guid>/ausbildung/brauchbarkeit/</guid>
+      <description>Seit 100 Jahren macht Heiner das jetzt &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Hundekurs VGP</title>
+      <link>/ausbildung/vgp/</link>
+      <pubDate>Thu, 28 Feb 2019 23:14:54 +1000</pubDate>
+      
+      <guid>/ausbildung/vgp/</guid>
+      <description>Alle Hunde die das schaffen sind toll und dürfen auf das Sofa !!!!
+Für alle die sich schon mal anschauen wollen was auf sie zu kommt, hier ein Video von der Deutschen Jagdzeitung.   </description>
+    </item>
+    
+  </channel>
+</rss>

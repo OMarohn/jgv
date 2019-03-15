@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pruefung on JGV Diepholz</title>
+    <link>/tags/pruefung/</link>
+    <description>Recent content in Pruefung on JGV Diepholz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Fri, 15 Mar 2019 13:13:22 +0100</lastBuildDate>
+    
+	<atom:link href="/tags/pruefung/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bringtreue 2019</title>
+      <link>/pruefungen/bt2019/</link>
+      <pubDate>Fri, 15 Mar 2019 13:13:22 +0100</pubDate>
+      
+      <guid>/pruefungen/bt2019/</guid>
+      <description>Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.</description>
+    </item>
+    
+    <item>
+      <title>Bringtreue 2019</title>
+      <link>/tmp/bt2019/</link>
+      <pubDate>Fri, 15 Mar 2019 13:13:22 +0100</pubDate>
+      
+      <guid>/tmp/bt2019/</guid>
+      <description>Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.</description>
+    </item>
+    
+    <item>
+      <title>Brauchbarkeit 2019</title>
+      <link>/pruefungen/bp2019/</link>
+      <pubDate>Fri, 08 Mar 2019 15:15:34 +1000</pubDate>
+      
+      <guid>/pruefungen/bp2019/</guid>
+      <description>Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.</description>
+    </item>
+    
+    <item>
+      <title>Brauchbarkeit 2019</title>
+      <link>/tmp/bp2019/</link>
+      <pubDate>Fri, 08 Mar 2019 15:15:34 +1000</pubDate>
+      
+      <guid>/tmp/bp2019/</guid>
+      <description>Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.</description>
+    </item>
+    
+    <item>
+      <title>VGP 2019</title>
+      <link>/tmp/vgp2019/</link>
+      <pubDate>Fri, 08 Mar 2019 15:15:34 +1000</pubDate>
+      
+      <guid>/tmp/vgp2019/</guid>
+      <description>Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.</description>
+    </item>
+    
+    <item>
+      <title>VGP 2018</title>
+      <link>/pruefungen/2018/vgp2018/</link>
+      <pubDate>Wed, 12 Dec 2018 15:15:34 +1000</pubDate>
+      
+      <guid>/pruefungen/2018/vgp2018/</guid>
+      <description>Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.</description>
+    </item>
+    
+    <item>
+      <title>Brauchbarkeit 2018</title>
+      <link>/pruefungen/2018/bp2018/</link>
+      <pubDate>Mon, 01 Oct 2018 15:15:34 +1000</pubDate>
+      
+      <guid>/pruefungen/2018/bp2018/</guid>
+      <description>Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.</description>
+    </item>
+    
+    <item>
+      <title>Bringtreue 2018</title>
+      <link>/pruefungen/2018/bt2018/</link>
+      <pubDate>Wed, 14 Mar 2018 13:13:22 +0100</pubDate>
+      
+      <guid>/pruefungen/2018/bt2018/</guid>
+      <description>Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.</description>
+    </item>
+    
+  </channel>
+</rss>

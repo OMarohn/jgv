@@ -1,0 +1,43 @@
+baseURL = "/"
+languageCode = "de-DE"
+title = "JGV Diepholz"
+themesDir = "themes"
+theme = "hugo-hero-theme-master"
+
+[params]
+  google_analytics_id=""
+
+  [params.homepage_meta_tags]
+    meta_description = "Der JGV Diepholz ...."
+    meta_og_title = "JGV Diepholz"
+    meta_og_type = "website"
+    meta_og_url = "https://hugo-hero.netlify.com"
+    meta_og_image = "https://raw.githubusercontent.com/JugglerX/hugo-hero-theme/master/images/tn.png"
+    meta_og_description = "Der JGV Diepholz.."
+    meta_twitter_card = "summary"
+    meta_twitter_site = "@zerostaticio"
+    meta_twitter_creator = "@zerostaticio"
+
+[[menu.main]]
+	  name = "Der Verein"
+    url = "/verein/"
+    weight = 1
+
+[[menu.main]]
+  name = "Ausbildung"
+	url = "/ausbildung/"
+    weight = 2
+
+[[menu.main]]
+    name = "Prüfungen"
+    url = "/pruefungen/"
+    weight = 3
+
+[[menu.main]]
+    name = "Kontakt"
+    url = "/kontakt/"
+    weight = 4
+
+[permalinks]
+  post = "/:year/:month/:day/:slug/"
+  pages = "/:filename/"

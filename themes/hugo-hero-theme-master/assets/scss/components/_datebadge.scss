@@ -1,0 +1,113 @@
+.date {
+	width: 130px; height: 160px; 
+	background: #fcfcfc; 
+	background: linear-gradient(top, #fcfcfc 0%,#dad8d8 100%); 
+	background: -moz-linear-gradient(top, #fcfcfc 0%, #dad8d8 100%); 
+	background: -webkit-linear-gradient(top, #fcfcfc 0%,#dad8d8 100%); 
+	border: 1px solid #d2d2d2;
+	border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	box-shadow: 0px 0px 15px rgba(0,0,0,0.1);
+	-moz-box-shadow: 0px 0px 15px rgba(0,0,0,0.1);
+	-webkit-box-shadow: 0px 0px 15px rgba(0,0,0,0.1);
+}
+
+.date p {
+	font-family: Helvetica, sans-serif; 
+	font-size: 100px; text-align: center; color: #9e9e9e; 
+}
+
+.date p span {
+	background: $primary; 
+	background: linear-gradient(top,$primary 0%, $secondary 100%);
+	background: -moz-linear-gradient(top, $primary 0%, $secondary 100%);
+	background: -webkit-linear-gradient(top, $primary 0%, $secondary 100%);
+	font-size: 45px; font-weight: bold; color: #fff; text-transform: uppercase; 	
+	display: block;
+	border-top: 3px solid $secondary;
+	border-radius: 0 0 10px 10px;
+	-moz-border-radius: 0 0 10px 10px;
+	-webkit-border-radius: 0 0 10px 10px;
+	padding: 6px 0 6px 0;
+}
+
+/* Der Datumsbadge */
+
+time.icon
+{
+  font-size: 1rem; /* change icon size */
+  display: block;
+  position: relative;
+  width: 6rem;
+  height: 7rem;
+  background-color: #fff;
+  margin: 2rem;
+  margin-top: 0;
+  border-radius: 0.6rem;
+  box-shadow: 0 1px 0 #bdbdbd, 0 2px 0 #fff, 0 3px 0 #bdbdbd, 0 4px 0 #fff, 0 5px 0 #bdbdbd, 0 0 0 1px #bdbdbd;
+  overflow: hidden;
+  -webkit-backface-visibility: hidden;
+  -webkit-transform: rotate(0deg) skewY(0deg);
+  -webkit-transform-origin: 50% 10%;
+  transform-origin: 50% 10%;
+}
+
+time.icon *
+{
+  display: block;
+  width: 100%;
+  font-size: 1rem;
+  font-weight: bold;
+  font-style: normal;
+  text-align: center;
+}
+
+time.icon strong
+{
+  position: absolute;
+  top: 0;
+  padding: 0.4rem 0;
+  color: #fff;
+  background-color: $primary;
+  border-bottom: 1px dashed $secondary;
+  box-shadow: 0 2px 0 $primary;
+}
+
+time.icon em
+{
+  position: absolute;
+  bottom: 0.1rem;
+  color: $primary;
+}
+
+time.icon span
+{
+  width: 100%;
+  font-size: 2.8rem;
+  letter-spacing: -0.05rem;
+  padding-top: 1.6rem;
+  color: #2f2f2f;
+}
+
+time.icon:hover, time.icon:focus
+{
+  -webkit-animation: swing 0.6s ease-out;
+  animation: swing 0.6s ease-out;
+}
+
+@-webkit-keyframes swing {
+  0%   { -webkit-transform: rotate(0deg)  skewY(0deg); }
+  20%  { -webkit-transform: rotate(12deg) skewY(4deg); }
+  60%  { -webkit-transform: rotate(-9deg) skewY(-3deg); }
+  80%  { -webkit-transform: rotate(6deg)  skewY(-2deg); }
+  100% { -webkit-transform: rotate(0deg)  skewY(0deg); }
+}
+
+@keyframes swing {
+  0%   { transform: rotate(0deg)  skewY(0deg); }
+  20%  { transform: rotate(12deg) skewY(4deg); }
+  60%  { transform: rotate(-9deg) skewY(-3deg); }
+  80%  { transform: rotate(6deg)  skewY(-2deg); }
+  100% { transform: rotate(0deg)  skewY(0deg); }
+}

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on JGV Diepholz</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on JGV Diepholz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Fri, 08 Mar 2019 15:15:34 +1000</lastBuildDate>
+    
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bp</title>
+      <link>/tags/bp/</link>
+      <pubDate>Fri, 08 Mar 2019 15:15:34 +1000</pubDate>
+      
+      <guid>/tags/bp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bt</title>
+      <link>/tags/bt/</link>
+      <pubDate>Fri, 15 Mar 2019 13:13:22 +0100</pubDate>
+      
+      <guid>/tags/bt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pruefung</title>
+      <link>/tags/pruefung/</link>
+      <pubDate>Fri, 15 Mar 2019 13:13:22 +0100</pubDate>
+      
+      <guid>/tags/pruefung/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vgp</title>
+      <link>/tags/vgp/</link>
+      <pubDate>Fri, 08 Mar 2019 15:15:34 +1000</pubDate>
+      
+      <guid>/tags/vgp/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
