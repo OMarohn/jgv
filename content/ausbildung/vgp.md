@@ -1,7 +1,7 @@
 ---
 title: 'Hundekurs VGP'
 date: 2019-02-28T23:14:54+10:00
-icon: 'services/service-icon-5.png'
+icon: 'ausbildung/setter.svg'
 featured: true
 draft: false
 heroHeading: 'VGP Kurs'

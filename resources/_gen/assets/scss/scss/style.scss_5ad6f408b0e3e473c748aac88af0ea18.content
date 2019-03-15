@@ -6222,7 +6222,7 @@ time.icon:hover, time.icon:focus {
     flex: 0 0 40px;
     margin-right: 10px; }
     .service-summary .service-image img {
-      max-width: 100%;
+      width: 80px;
       height: auto; }
   .service-summary .service-content {
     flex: 1; }
