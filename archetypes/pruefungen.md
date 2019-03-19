@@ -4,7 +4,7 @@ date: {{ .Date }}
 icon: 'services/service-icon-4.png'
 featured: true
 draft: false
-tags: ["pruefung", "????"]
+tags: ["termin","pruefung", "????"]
 heroHeading: 'VGP 2019'
 heroSubHeading: ''
 heroBackground: 'services/service2.jpg'
