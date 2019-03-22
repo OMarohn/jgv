@@ -10,7 +10,7 @@
 	-webkit-border-radius: 10px;
 	box-shadow: 0px 0px 15px rgba(0,0,0,0.1);
 	-moz-box-shadow: 0px 0px 15px rgba(0,0,0,0.1);
-	-webkit-box-shadow: 0px 0px 15px rgba(0,0,0,0.1);
+  -webkit-box-shadow: 0px 0px 15px rgba(0,0,0,0.1);
 }
 
 .date p {
@@ -51,6 +51,13 @@ time.icon
   -webkit-transform: rotate(0deg) skewY(0deg);
   -webkit-transform-origin: 50% 10%;
   transform-origin: 50% 10%;
+  @include media-breakpoint-down(sm) {
+    font-size: 0.5rem; /* change icon size */
+    width: 3rem;
+    height: 3.5rem;
+    margin: 1rem;
+    border-radius: 0.6rem;
+  }
 }
 
 time.icon *
@@ -61,6 +68,9 @@ time.icon *
   font-weight: bold;
   font-style: normal;
   text-align: center;
+  @include media-breakpoint-down(sm) {
+    font-size: 0.5rem; /* change icon size */
+  }
 }
 
 time.icon strong
@@ -72,6 +82,9 @@ time.icon strong
   background-color: $primary;
   border-bottom: 1px dashed $secondary;
   box-shadow: 0 2px 0 $primary;
+  @include media-breakpoint-down(sm) {
+    padding: 0.1rem 0;
+  }
 }
 
 time.icon em
@@ -88,6 +101,10 @@ time.icon span
   letter-spacing: -0.05rem;
   padding-top: 1.6rem;
   color: #2f2f2f;
+  @include media-breakpoint-down(sm) {
+    font-size: 1.4rem;
+    padding-top: 0.8rem;
+  }
 }
 
 time.icon:hover, time.icon:focus
