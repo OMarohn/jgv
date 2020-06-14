@@ -37,11 +37,16 @@ theme = "hugo-hero-theme-master"
     name = "Prüfungen"
     url = "/pruefungen/"
     weight = 4
+    
+[[menu.main]]
+    name = "Service"
+    url = "/services/"
+    weight = 5
 
 [[menu.main]]
     name = "Kontakt"
     url = "/kontakt/"
-    weight = 5
+    weight = 6
 
 [permalinks]
   post = "/:year/:month/:day/:slug/"

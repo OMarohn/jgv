@@ -12,6 +12,13 @@
         </div>
     </div>
     {{ end }}
+    {{ if isset .Params "onlinemeldung" }} 
+    <div class="row ergebnis">
+        <div class="col-10 offset-2">
+          <a class="button" href="{{ .Params.onlinemeldung }}">Anmeldung</a>
+        </div>
+    </div>
+    {{ end }}
   <div class="row ">
       <div class="col-2">
         <time class="icon">

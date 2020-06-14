@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Prüfungen on JGV Diepholz</title>
@@ -12,33 +12,33 @@
     
     
     <item>
-      <title>Bringtreue 2019</title>
-      <link>/pruefungen/bt2019/</link>
-      <pubDate>Fri, 15 Mar 2019 13:13:22 +0100</pubDate>
+      <title>Bringtreue 2020</title>
+      <link>/pruefungen/bt2020/</link>
+      <pubDate>Sun, 15 Mar 2020 13:13:22 +0100</pubDate>
       
-      <guid>/pruefungen/bt2019/</guid>
+      <guid>/pruefungen/bt2020/</guid>
       <description>Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.</description>
     </item>
     
     <item>
-      <title>Brauchbarkeit 2019</title>
-      <link>/pruefungen/bp2019/</link>
-      <pubDate>Fri, 08 Mar 2019 15:15:34 +1000</pubDate>
+      <title>Brauchbarkeit 2020</title>
+      <link>/pruefungen/bp2020/</link>
+      <pubDate>Sun, 08 Mar 2020 15:15:34 +1000</pubDate>
       
-      <guid>/pruefungen/bp2019/</guid>
+      <guid>/pruefungen/bp2020/</guid>
       <description>Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.</description>
     </item>
     
     <item>
-      <title>VGP 2019</title>
-      <link>/pruefungen/vgp2019/</link>
+      <title>VGP 2020</title>
+      <link>/pruefungen/vgp2020/</link>
       <pubDate>Fri, 08 Mar 2019 15:15:34 +1000</pubDate>
       
-      <guid>/pruefungen/vgp2019/</guid>
+      <guid>/pruefungen/vgp2020/</guid>
       <description>Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.
                                4 w9 a7802
       4 w9 a7808
-      4 w9 a7812</description>
+      4 w9 a7817</description>
     </item>
     
   </channel>

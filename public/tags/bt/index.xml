@@ -1,31 +1,31 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Bt on JGV Diepholz</title>
+    <title>BT on JGV Diepholz</title>
     <link>/tags/bt/</link>
-    <description>Recent content in Bt on JGV Diepholz</description>
+    <description>Recent content in BT on JGV Diepholz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
-    <lastBuildDate>Fri, 15 Mar 2019 13:13:22 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 15 Mar 2020 13:13:22 +0100</lastBuildDate>
     
 	<atom:link href="/tags/bt/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Bringtreue 2019</title>
-      <link>/pruefungen/bt2019/</link>
-      <pubDate>Fri, 15 Mar 2019 13:13:22 +0100</pubDate>
+      <title>Bringtreue 2020</title>
+      <link>/pruefungen/bt2020/</link>
+      <pubDate>Sun, 15 Mar 2020 13:13:22 +0100</pubDate>
       
-      <guid>/pruefungen/bt2019/</guid>
+      <guid>/pruefungen/bt2020/</guid>
       <description>Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.</description>
     </item>
     
     <item>
       <title>Bringtreue 2019</title>
-      <link>/tmp/bt2019/</link>
+      <link>/pruefungen/2019/bt2019/</link>
       <pubDate>Fri, 15 Mar 2019 13:13:22 +0100</pubDate>
       
-      <guid>/tmp/bt2019/</guid>
+      <guid>/pruefungen/2019/bt2019/</guid>
       <description>Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.</description>
     </item>
     
