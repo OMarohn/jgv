@@ -1,26 +1,32 @@
 ---
-title: "Bringtreue 2020"
+title: "HZP 2020"
 date: 2020-03-15T13:13:22+01:00
 icon: 'services/service-icon-4.png'
 featured: true
 draft: false
-tags: ["termin","pruefung", "BT"]
-heroHeading: 'Bringtreue 2020'
+tags: ["termin","pruefung","HZP"]
+heroHeading: 'Verbands Herbstzuchtprüfung'
 heroSubHeading: ''
 heroBackground: 'services/service2.jpg'
 
-termin: "2020-10-25"
-tag: 25
-wochentag: Sonntag
-monat: Oktober
+termin: "2020-11-12"
+tag: 12
+wochentag: Samstag
+monat: September
 ---
 
-#### Bringtreue-Prüfung
-am Sonntag, den **25.10.** Treffpunkt wird noch bekannt gegeben.  
+#### Verbands-Herbstzuchtprüfung 
+ohne Spurarbeit
 
-Nenngeld = Reuegeld 40 Euro  
+am Samstag, den **12. September** in Groß Lessen.  
 
-**Nennschluss 06.10.**
+Treffpunkt:  
+Gasthaus Husmann,  
+Groß Lessen um **7.30 Uhr**.  
+
+Nenngeld = Reuegeld 80 Euro/100 Euro für Mitglieder/Nichtmitglieder  
+
+**Nennschluss 25.08.**
 
 Die Nennungen ist auf [Formblatt 1](https://www.jghv.de/images/Dokumente/2019/formblatt_1_2019_1.pdf) an die JGV-Geschäftsstelle, 
 
@@ -37,3 +43,4 @@ Sollte eine Überweisung bis zum Nennschluss nicht eingegangen sein, so hat der 
 Das Nenngeld ist gleichzeitig mit der Nennung auf das Konto bei der Volksbank eG  
 IBAN DE51256916333588070800  
 BIC GENODEF1SUL zu überweisen. 
+bv

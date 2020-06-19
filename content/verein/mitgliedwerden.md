@@ -4,17 +4,19 @@ date: 2018-11-28T15:15:34+10:00
 icon: 'services/service-icon-4.png'
 featured: true
 draft: false
+weight: 2
 heroHeading: 'Mitglied'
 heroSubHeading: ''
 heroBackground: 'services/service2.jpg'
 ---
+Herzlich Willkommen!
 
-Mitglied kann jeder werden der ...
--> Anmeldung
+Wir freuen uns sehr, wenn wir Sie als neues Mitglied in unseren Verein aufnehmen dürfen. Die Aufnahme in unseren Verein ist in Paragraph …… unserer
+[Satzung](#satung) geregelt.
 
-Jahresbeitrag 10€
+Der Jahresbeitrag beträgt nur **10€**, außerdem ist eine einmalige Aufnahmegebühr in Höhe von **100€** für Einwohner des Landkreis Grafschaft Diepholz bzw. **250€** für Personen, die außerhalb unseres Landkreises wohnen, zu entrichten.
 
-Einmalige Aufnahmegebügr 100 €, Wohnort im Kreis Diepholz<br>
-                         250 €, außerhalb des Kreises Diepholz
-...
+[Aufnahmeantrag]()
+
+
 

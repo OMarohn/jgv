@@ -3,6 +3,7 @@ title: 'Impressum'
 date: 2019-03-08T15:14:54+10:00
 icon: 'services/service-icon-5.png'
 featured: true
+weight: 30
 draft: false
 heroHeading: 'Impressum'
 heroSubHeading: 'Das Impressum'
@@ -10,8 +11,17 @@ heroBackground: 'services/impressum.jpg'
 ---
 
 Betreiber dieser Webseite
+##### Jagdgebrauchshundvereins Grafschaft Diepholz e.V. von 1904 
 
-lalallallal
+Vertreten durch den Vorsitzenden  
+
+Herr Heinrich Tiedemann  
+Heerde 57  
+
+27245 Kirchdorf  
+
+Tel: (04273) 553  
+Email: vorsitzender@jgv-diepholz.de
 
 ## Haftungsausschluss
 

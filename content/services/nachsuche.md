@@ -10,5 +10,5 @@ heroSubHeading:
 heroBackground: 'services/service1.jpg'
 ---
 
-Im JGV- Diepholz ist Herr ??? als bestätigter Nachsucheführer tätig
-Sie erreichen Ihn unter ....
+Im JGV- Diepholz ist Frau Silke Funk-Schmitdke als bestätigte Nachsucheführerin tätig
+Sie erreichen Sie unter +49 162 795 3348

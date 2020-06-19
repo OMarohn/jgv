@@ -1,26 +1,25 @@
 ---
-title: "Bringtreue 2020"
+title: "Notlösung Spurarbeit Corona"
 date: 2020-03-15T13:13:22+01:00
 icon: 'services/service-icon-4.png'
 featured: true
 draft: false
-tags: ["termin","pruefung", "BT"]
-heroHeading: 'Bringtreue 2020'
+tags: ["termin","pruefung"]
+heroHeading: 'Spurarbeit 2020'
 heroSubHeading: ''
 heroBackground: 'services/service2.jpg'
 
-termin: "2020-10-25"
-tag: 25
-wochentag: Sonntag
-monat: Oktober
+termin: "2020-07-18"
+tag: 18
+wochentag: Samstag
+monat: Juli
 ---
 
-#### Bringtreue-Prüfung
-am Sonntag, den **25.10.** Treffpunkt wird noch bekannt gegeben.  
+#### Notlösung Spurarbeit – Corona 2020
+am Samstag, den **18. Juli** in Kirchdorf. Treffpunkt wird noch bekannt gegeben.   
+Nenngeld = Reuegeld 50 Euro/70 Euro für Mitglieder/Nichtmitglieder  
 
-Nenngeld = Reuegeld 40 Euro  
-
-**Nennschluss 06.10.**
+**Nennschluss 10.07.**
 
 Die Nennungen ist auf [Formblatt 1](https://www.jghv.de/images/Dokumente/2019/formblatt_1_2019_1.pdf) an die JGV-Geschäftsstelle, 
 

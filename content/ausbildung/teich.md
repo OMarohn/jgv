@@ -10,8 +10,8 @@ heroBackground: 'services/teich.jpg'
 ---
 
 Wir verfügen über zwei eigene Teichanlagen eine für die Ausbildung und eine weitere die ausschließlich für Prüfungen verwendet wird.
-.....
 
+Fotos
 
 Teichordnung
 

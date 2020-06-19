@@ -11,12 +11,11 @@ theme = "hugo-hero-theme-master"
     meta_description = "Der JGV Diepholz ...."
     meta_og_title = "JGV Diepholz"
     meta_og_type = "website"
-    meta_og_url = "https://hugo-hero.netlify.com"
+    meta_og_url = "https://jgv-diepholz.de"
     meta_og_image = "https://raw.githubusercontent.com/JugglerX/hugo-hero-theme/master/images/tn.png"
     meta_og_description = "Der JGV Diepholz.."
-    meta_twitter_card = "summary"
-    meta_twitter_site = "@zerostaticio"
-    meta_twitter_creator = "@zerostaticio"
+    meta_twitter_card = "JGV Diepholz"
+
 
 [[menu.main]]
 	  name = "Der Verein"
@@ -37,7 +36,7 @@ theme = "hugo-hero-theme-master"
     name = "Prüfungen"
     url = "/pruefungen/"
     weight = 4
-    
+
 [[menu.main]]
     name = "Service"
     url = "/services/"
@@ -47,6 +46,11 @@ theme = "hugo-hero-theme-master"
     name = "Kontakt"
     url = "/kontakt/"
     weight = 6
+
+[[menu.main]]
+    name = "Links"
+    url = "/links/"
+    weight = 7
 
 [permalinks]
   post = "/:year/:month/:day/:slug/"
