@@ -11,12 +11,13 @@ heroBackground: 'services/service2.jpg'
 ---
 Herzlich Willkommen!
 
-Wir freuen uns sehr, wenn wir Sie als neues Mitglied in unseren Verein aufnehmen dürfen. Die Aufnahme in unseren Verein ist in Paragraph …… unserer
+Wir freuen uns sehr, wenn wir Sie als neues Mitglied in unseren Verein aufnehmen dürfen. Die Aufnahme in unseren Verein ist in Paragraph 4 unserer
 [Satzung](/verein/satzung/) geregelt.
 
-Der Jahresbeitrag beträgt nur **10€**, außerdem ist eine einmalige Aufnahmegebühr in Höhe von **100€** für Einwohner des Landkreis Grafschaft Diepholz bzw. **250€** für Personen, die außerhalb unseres Landkreises wohnen, zu entrichten.
+Der Jahresbeitrag beträgt nur **10€**, außerdem ist eine einmalige Aufnahmegebühr in Höhe von **100€** zu entrichten.  
+Jugendliche bis zum 18. Lebensjahr zahlen keine Aufnahmegebühr.
 
-[Aufnahmeantrag]()
+[Aufnahmeantrag](mitgliedwerden.pdf "Der Antrag") 
 
 
 

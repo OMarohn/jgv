@@ -76,3 +76,45 @@ Der geschäftsführende Vorstand befindet über die jeweiligen Aufgabenverteilun
 Vorstand und erweiterte Vorstand werden auf der Jahreshauptversammlung für die Dauer von 3 Jahren gewählt. Für die vor Ablauf der Wahlperiode ausgeschiedenen Vorstandsmitglieder muß in der nächsten Jahreshauptversammlung ein Ersatz-Vorstandsmitglied für den verbleibenden Zeitraum gewählt werden. Eine Wiederwahl von Vorstandsmitgliedern ist zulässig.
  
 
+§ 10 Die Kassenführung
+
+Der Kassenführer ist verpflichtet, alle Einnahmen und Ausgaben, getrennt nach Belegen, laufend zu verbuchen. Aus den Belegen müssen der Zweck der Zahlung sowie der Zahltag ersichtlich sein. Die Jahreshauptabrechnung ist jeweils vor Genehmigung durch die Jahreshauptversammlung von den zwei gewählten Kassenprüfern zu prüfen, abzuzeichnen und das Ergebnis der Jahreshauptversammlung bekanntzugeben.
+
+	§ 11 Vereinsversammlungen
+
+Jede ordnungsgemäß einberufene Mitgliederversammlung ist beschlussfähig, ohne Rücksicht auf die Zahl der Erschienenen. Alle Beschlüsse werden durch einfache Mehrheit gefasst. Die Hauptversammlungen finden alljährlich im 1. Quartal statt. Zu ihr ist vom Vorstand mindestens 10 Tage vorher schriftlich einzuladen. Sie hat die grundsätzliche Aufgabe, die Rechenschaftsberichte des Vorstandes und den Bericht der Kassenprüfer entgegenzunehmen, den neuen Vorstand zu wählen, die Beiträge und die Prüfungstermine, sowie Lehrgänge im laufenden Jahr zu beraten und festzulegen. Eine außerordentliche Hauptversammlung muß innerhalb von 14 Tagen einberufen werden, wenn es der Vorstand beschließt oder mindestens ein Drittel der Mitglieder es schriftlich unter Angabe der Gründe beim Vorstand beantragt.
+
+	§ 12 Niederschrift
+
+Über jede Versammlung ist eine Niederschrift anzufertigen, die bei der nächsten Sitzung zu verlesen und zu genehmigen und anschließend vom 1. Vorsitzenden und vom Schriftführer zu unterzeichnen ist.
+
+	§ 13 Satzungsänderung
+
+Satzungsänderungen bedürfen der Zustimmung von mindestens 2/3 der anwesenden Mitglieder einer Hauptversammlung. Die Änderungsabsicht muß aus der rechtzeitig bekanntzugebenden Tagesordnung ersichtlich sein.
+
+	§ 14 Auflösung
+
+Zur Auflösung bedarf es einer eigens für diesen Zweck einberufenen, außerordentlichen Hauptversammlung, aus deren Tagesordnung der Antrag auf Auflösung klar erkenntlich sein muß. Zur Beschlussfassung in diesem Sinne ist eine Stimmenmehrheit von 2/3 der erschienen Mitglieder erforderlich. Bei Auflösung des Vereins wird das vorhandene Vermögen zu jagdkynologischen Zwecken zur Verfügung gestellt.
+
+Barver, im Januar 1972
+ 
+Die Satzung ist durch Beschluß der Generalversammlung vom 28. Februar 1972 neu gefasst und durch Beschluß der Generalversammlung vom 24. Januar 1975 hinsichtlich § 9 (Vorstand) geändert.
+Vorstand im Sinne der § 26 BGB ist der 1. Vorsitzende oder der Geschäftsführer. Jeder kann den Verein allein vertreten.
+
+Änderung 1975
+
+„Jagdgebrauchshundverein Grafschaft Diepholz von 1904 in Diepholz
+
+Änderung 1978
+§ 1 Name und Sitz des Vereins
+Letzten Satz, der Sitz richtet sich nach der jeweiligen Geschäftsstelle des Vereins, bitte streichen und einfügen: Sitz des Vereins ist Diepholz.
+
+§ 4 Mitgliedschaft
+Hier ist folgender Zusatz nach dem Wortlaut: Jedes Mitglied gehört auch dem Jagdgebrauchshundverband an aufzunehmen“ und unterwerfen sich der Ehrengerichtsbarkeit des Jagdgebrauchshundverbandes.
+
+Änderung 1994
+§ 4 Mitgliedschaft
+Es handelt sich um folgenden Wortlaut: Der Verein erkennt für sich und seine Mitglieder die Satzung, sowie die Diziplinar- und Verbandsordnung des Jagdgebrauchshundverbandes e.V. verbindlich an“.
+
+
+

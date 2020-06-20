@@ -10,4 +10,4 @@ heroSubHeading:
 heroBackground: 'services/wild-boar-4787576_1280.jpg'
 ---
 
-https://ljn.de/jaegerschaften/diepholz/
+[Jägerschaft Grafschaft Diepholz](https://ljn.de/jaegerschaften/diepholz/)

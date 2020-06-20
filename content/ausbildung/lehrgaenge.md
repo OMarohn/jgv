@@ -11,9 +11,10 @@ heroBackground: 'services/service1.jpg'
 ---
 Hundeausbildung
 
-Unter der Schirmherrschaft der Jägerschaft Grafschaft Diepholz findet unser Hundeführerlehrgang statt.  
+Unter der Schirmherrschaft der Jägerschaft Grafschaft Diepholz findet unser Hundeführerlehrgang statt. Lehrgangsleiter ist der Vorsitzende des JGV Diepholz und Hundeobmann der Jägerschaft Diepholz, Heinrich Tiedemann. 
 
 Beginnend mit der **Welpengruppe** werden unsere Jagdhunde auf die **Brauchbarkeitsprüfung** vorbereitet.  
+Der Lehrgang erstreckt sich über ca. 5 Monate. Nach erfolgreichem Ablegen der Brauchbarkeitsprüfung darf der Hundebesitzer seinen Hund jagdlich einsetzen, weiterhin ist der Hund dann über die jagdliche Haftpflichtversicherung mit versichert. 
 
 Im weiteren Verlauf kann der Lehrgang auf die Vorbereitung zu 
 folgenden Zuchtprüfungen ausgeweitet werden:
