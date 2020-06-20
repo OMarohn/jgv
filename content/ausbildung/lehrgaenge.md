@@ -9,27 +9,25 @@ heroHeading: 'Lehrgänge'
 heroSubHeading: 'Wir bieten Interessierten Hundeführen verschiedene Lehrgänge an'
 heroBackground: 'services/service1.jpg'
 ---
-## Hundeausbildung
+Hundeausbildung
 
-Unter der Schirmherrschaft der Jägerschaft Grafschaft Diepholz
-findet unser Hundeführerlehrgang statt.  
-Beginnend mit der Welpengruppe werden unsere Jagdhunde auf die 
-**Brauchbarkeitsprüfung** vorbereitet.  
+Unter der Schirmherrschaft der Jägerschaft Grafschaft Diepholz findet unser Hundeführerlehrgang statt.  
+
+Beginnend mit der **Welpengruppe** werden unsere Jagdhunde auf die **Brauchbarkeitsprüfung** vorbereitet.  
 
 Im weiteren Verlauf kann der Lehrgang auf die Vorbereitung zu 
 folgenden Zuchtprüfungen ausgeweitet werden:
 
-**HZP** (Herbstzuchtprüfung)
-**VGP** ( Verbandsgebrauchshundprüfung)
-**VPS** ( Verbandsprüfung nach dem Schuss)
+* **VJS** ( Verbandsjugendsuche )
+* **HZP** ( Herbstzuchtprüfung )
+* **VGP** ( Verbandsgebrauchshundprüfung )
+* **VPS** ( Verbandsprüfung nach dem Schuss )
 
-Termine finden Sie unter dem Button [Termine](#Termine)
+Termine finden Sie unter dem Button [Termine](/termine/)
   
   
-Ansprechpartner:
-Heinrich Tiedemann
+Ansprechpartner: **Heinrich Tiedemann**
 
 
 Für alle die sich schon mal anschauen wollen was auf sie zu kommt, hier ein Video von der Deutschen Jagdzeitung.
 {{< youtube hRSVXsAN0bA >}}
-...

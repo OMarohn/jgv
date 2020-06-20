@@ -18,12 +18,12 @@ theme = "hugo-hero-theme-master"
 
 
 [[menu.main]]
-	  name = "Der Verein"
+	name = "Der Verein"
     url = "/verein/"
     weight = 1
 
 [[menu.main]]
-  name = "Ausbildung"
+    name = "Ausbildung"
 	url = "/ausbildung/"
     weight = 2
 

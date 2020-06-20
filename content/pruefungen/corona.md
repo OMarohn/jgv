@@ -21,7 +21,7 @@ Nenngeld = Reuegeld 50 Euro/70 Euro für Mitglieder/Nichtmitglieder
 
 **Nennschluss 10.07.**
 
-Die Nennungen ist auf [Formblatt 1](https://www.jghv.de/images/Dokumente/2019/formblatt_1_2019_1.pdf) an die JGV-Geschäftsstelle, 
+Die Nennungen ist auf [Formblatt 1](https://www.jghv.de/images/Dokumente/2019/formblatt_1_2019_1.pdf 'Formblatt zur Meldung') an die JGV-Geschäftsstelle, 
 
 Dörrieloh 79  
 27259 Varrel  
@@ -35,4 +35,5 @@ Sollte eine Überweisung bis zum Nennschluss nicht eingegangen sein, so hat der 
 
 Das Nenngeld ist gleichzeitig mit der Nennung auf das Konto bei der Volksbank eG  
 IBAN DE51256916333588070800  
-BIC GENODEF1SUL zu überweisen. 
+BIC GENODEF1SUL  
+zu überweisen. 

@@ -12,7 +12,9 @@ heroBackground: 'services/service2.jpg'
 
 Herzlich Willkommen auf der Internetseite des Jagdgebrauchshundvereins Grafschaft Diepholz e. V.
 
-Unser Verein wurde 1904 gegründet und hat zurzeit 220 Mitglieder, davon sind 35 als Verbandsrichter tätig.  
+Unser Verein wurde 1904 gegründet und hat zurzeit 220 Mitglieder, davon sind 35 als Verbandsrichter tätig. 
+
+
 Ausgebildete und geprüfte Jagdhunde sind heute, wie auch vor über 100 Jahren zur Gründungszeit, unentbehrlich für eine waidgerechte Jagd.
 Aus diesem Grunde umfasst die Ausbildung und die unterschiedlichen 
 Prüfungen der Jagdhunde einen Schwerpunkt in unserer Vereinsarbeit.

@@ -5,7 +5,7 @@ icon: 'ausbildung/kurzhaar.svg'
 draft: false
 featured: true
 weight: 1
-heroHeading: 'Prüfungsordnungen der JGHV'
+heroHeading: 'Prüfungsordnungen des JGHV'
 heroSubHeading: 
 heroBackground: 'services/service1.jpg'
 ---
@@ -33,6 +33,6 @@ Leistungszeichen des JGHV sind:
 
 - das Armbruster Haltabzeichen (AH)
 - der Härtenachweis (/)
-- der Lautjagernachweis (\)
+- der Lautjagernachweis (\\)
 - der Verlorenbringernachweis (Vbr)
 - der Bringtreuenachweis (Btr)
