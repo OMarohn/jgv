@@ -16,11 +16,9 @@ Unser Verein wurde 1904 gegründet und hat zurzeit 220 Mitglieder, davon sind 35
 
 
 Ausgebildete und geprüfte Jagdhunde sind heute, wie auch vor über 100 Jahren zur Gründungszeit, unentbehrlich für eine waidgerechte Jagd.
-Aus diesem Grunde umfasst die Ausbildung und die unterschiedlichen 
-Prüfungen der Jagdhunde einen Schwerpunkt in unserer Vereinsarbeit.
+Aus diesem Grunde ist die Ausbildung und die unterschiedlichen Prüfungen der Jagdhunde ein Schwerpunkt in unserer Vereinsarbeit.
 
 Auf den nächsten Seiten werden Sie immer aktuell über das Geschehen im Verein, wie z.B. Hundeführerlehrgänge, Prüfungen, Prüfungsergebnisse usw. informiert.
 
-Wenn Sie Fragen oder auch Anregungen haben, dann nehmen Sie bitte direkt
-mit uns Kontakt auf.
+Wenn Sie Fragen oder auch Anregungen haben, nehmen Sie bitte direkt mit uns Kontakt auf.
  

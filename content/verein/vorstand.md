@@ -14,7 +14,7 @@ Hier finden Sie Ihren Ansprechpartner.
 Die Mitglieder des Vorstand des JGV Grafschaft-Diepholz stellt sich vor.
 
 
-{{<card bild="/verein/heiner.jpg" position="1. Vorsitzender" name="Heiner Tiedemann" strasse="Heerde 57" ort="27245 Kirchdorf" tel="04273/ 553" fax="04273/ 1809" mail="vorsitzender@jgv-diepholz.de">}}
+{{<card bild="/verein/heiner.jpg" position="1. Vorsitzender" name="Heinrich Tiedemann" strasse="Heerde 57" ort="27245 Kirchdorf" tel="04273/ 553" fax="04273/ 1809" mail="vorsitzender@jgv-diepholz.de">}}
 
 {{<card bild="/verein/ewald.jpg" position="2. Vorsitzender" name="Ewald Beuke" strasse="Alter Damm 9" ort="27245 Barenburg" tel="04273/1666">}}
 

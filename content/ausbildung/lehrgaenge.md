@@ -32,5 +32,5 @@ Termine finden Sie unter dem Button [Termine](/termine/)
 Ansprechpartner: **Heinrich Tiedemann**
 
 
-Für alle die sich schon mal anschauen wollen was auf sie zu kommt, hier ein Video von der Deutschen Jagdzeitung.
+Für alle die sich schon einmal anschauen wollen, was auf sie zu kommt, hier ein Video von der Deutschen Jagdzeitung.
 {{< youtube hRSVXsAN0bA >}}
