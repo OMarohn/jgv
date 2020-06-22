@@ -11,13 +11,10 @@ heroBackground: 'images/wasser002.jpg'
 ---
 Herzlich Willkommen!
 
-Wir freuen uns sehr, wenn wir Sie als neues Mitglied in unseren Verein aufnehmen dürfen. Die Aufnahme in unseren Verein ist in Paragraph 4 unserer
+Wir freuen uns sehr, wenn wir Sie als neues Mitglied in unserem Verein aufnehmen dürfen. Die Aufnahme in unserem Verein ist in Paragraph 4 unserer
 [Satzung](/verein/satzung/) geregelt.
 
 Der Jahresbeitrag beträgt nur **10€**, außerdem ist eine einmalige Aufnahmegebühr in Höhe von **100€** zu entrichten.  
 Jugendliche bis zum 18. Lebensjahr zahlen keine Aufnahmegebühr.
 
 [Aufnahmeantrag](mitgliedwerden.pdf "Der Antrag") 
-
-
-

@@ -34,11 +34,19 @@
 /* Add some padding inside the card container */
 .jgvcontainer {
     padding: 2px 16px;
-    min-height: 320px;
+    min-height: 350px;
 }
 
 .jgvcontainer h2 {
     color: $primary;
     font-weight: 600;
 }
-  
+ 
+.jgvcontainer > h3 > span {
+    font-size: 0.9rem;
+    color: $primary;
+}
+
+.kommunikation i {
+    min-width: 1rem;
+}

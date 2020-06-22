@@ -38,7 +38,7 @@ Mitglied des Vereins kann jeder Unbescholtene werden. Über die Aufnahme entsche
 
 	§ 5 Ehrenmitgliedschaft
 
-Zu Ehrenmitglieder können solche Personen durch Beschluß der Hauptversammlung ernannt werden, die siebenzig Jahre und älter sind und sofern sie mindestens 15 Jahre in ununterbrochener Reihenfolge dem Verein angehört haben. Außerdem können nach Vorschlag des Vorstandes durch die Generalversammlung, auch andere Personen Ehrenmitglieder werden. Eine evtl. Abweisung muß nicht begründet werden.
+Zu Ehrenmitglieder können solche Personen durch Beschluß der Hauptversammlung ernannt werden, die siebzig Jahre und älter sind und sofern sie mindestens 15 Jahre in ununterbrochener Reihenfolge dem Verein angehört haben. Außerdem können nach Vorschlag des Vorstandes durch die Generalversammlung, auch andere Personen Ehrenmitglieder werden. Eine evtl. Abweisung muß nicht begründet werden.
  
 	§ 6 Austritt
 
@@ -61,11 +61,13 @@ Beim Eintritt in den Verein hat das Mitglied den Jahresbeitrag im voraus zu entr
 	§ 9 Der Vorstand des Vereins
 
 Der geschäftsführende Vorstand setzt sich wie folgt zusammen:
-1.	Vorsitzender
+1.	Vorsitzende
 2.	Geschäftsführer (Schriftführer)
-3.	 Kassenführer
+3.	Kassenführer
+
 Vorstand des Vereins im Sinne des § 26 BGB ist der 1. Vorsitzender. Er vertritt den Verein gerichtlich und außergerichtlich und ist für die Überwachung der Geschäftsführung der übrigen Vorstandsmitglieder verantwortlich.
 Dem erweiterten Vorstand gehören an:
+
 1.	stellv. Vorsitzender
 2.	stellv. Schriftführer
 3.	stellv. Kassenführer

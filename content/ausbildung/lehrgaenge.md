@@ -21,7 +21,7 @@ Der Lehrgang erstreckt sich über ca. 5 Monate. Nach erfolgreichem Ablegen der B
 Im weiteren Verlauf kann der Lehrgang auf die Vorbereitung zu 
 folgenden Zuchtprüfungen ausgeweitet werden:
 
-* **VJS** ( Verbandsjugendsuche )
+* **VJP** ( Verbandsjugendprüfung )
 * **HZP** ( Herbstzuchtprüfung )
 * **VGP** ( Verbandsgebrauchshundprüfung )
 * **VPS** ( Verbandsprüfung nach dem Schuss )

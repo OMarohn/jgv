@@ -7,7 +7,11 @@ Anzeige einer karte mit Bildern und Informationen
   <img class="jgvimg" src="{{.}}" alt="Bild" >
   {{end}}
   <div class="jgvcontainer">
-    <h3>{{.Get "position" }}</h3>
+    <h3>{{.Get "position" }}
+      {{- if .Get "position2"}}
+      <span>{{.Get "position2"}}</span>
+      {{- end}}
+    </h3>
     <h2>{{.Get "name"}}</h2>
     <div class="anschrift">
       <p>{{.Get "strasse"}}</p>
@@ -16,6 +20,9 @@ Anzeige einer karte mit Bildern und Informationen
     <div class="kommunikation">
       {{- if .Get "tel"}}
       <p><i class="fa fa-phone" aria-hidden="true"></i> {{.Get "tel"}}</p>
+      {{- end}}
+      {{- if .Get "mob"}}
+      <p><i class="fa fa-mobile" aria-hidden="true"></i> {{.Get "mob"}}</p>
       {{- end}}
       {{- if .Get "fax"}}
       <p><i class="fa fa-fax" aria-hidden="true"></i> {{.Get "fax"}}</p>
