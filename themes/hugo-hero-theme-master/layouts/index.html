@@ -1,8 +1,9 @@
 {{ define "title" }}JGV Diepholz{{ end}}
-{{ define "header_css" }}{{ end }}
+{{ define "header_css" }}
+<!--<link rel="stylesheet" href='{{ relURL "css/styles.css" }}'>-->
+{{ end }}
 {{ define "body_classes" }}page-home{{ end }}
 {{ define "header_classes" }}header-transparent{{ end }}
-
 {{ define "meta_tags" }}
 <meta name="description" content="{{ .Site.Params.homepage_meta_tags.meta_description }}" />
 <meta property="og:title" content="{{ .Site.Params.homepage_meta_tags.meta_og_title }}" />
