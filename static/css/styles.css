@@ -1,0 +1,42 @@
+.ergebnis {
+    margin-bottom: 2rem;
+}
+
+.jgvcard {
+    /* Add shadows to create the "card" effect */
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    margin-bottom: 1.5rem;
+    margin-right: 0.3rem;
+    width: 49%;
+    display: inline-block;
+    vertical-align: top;
+}
+
+/*  Media */
+@media only screen and (max-width : 1024px )  {
+    .jgvcard { 
+        width: 100%;
+    }
+}
+
+.jgvcard img {
+    width: 100%;
+}
+
+/* On mouse-over, add a deeper shadow */
+.jgvcard:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+/* Add some padding inside the card container */
+.jgvcontainer {
+    padding: 2px 16px;
+    min-height: 320px;
+}
+
+.jgvcontainer h2 {
+    color: #0a551b;
+    font-weight: 600;
+}
+  

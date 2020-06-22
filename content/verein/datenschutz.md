@@ -3,7 +3,7 @@ title: 'Datenschutzerklärung'
 date: 2018-11-28T15:15:34+10:00
 icon: 'ausbildung/kurzhaar.svg'
 featured: true
-draft: false
+draft: true
 weight: 20
 heroHeading: 'Datenschutzerklärung'
 heroSubHeading: ''
