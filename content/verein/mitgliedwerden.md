@@ -1,13 +1,13 @@
 ---
 title: 'Mitglied werden'
 date: 2018-11-28T15:15:34+10:00
-icon: 'services/service-icon-4.png'
+icon: 'ausbildung/kurzhaar.svg'
 featured: true
 draft: false
 weight: 2
-heroHeading: 'Mitglied'
+heroHeading: 'Mitglied werden'
 heroSubHeading: ''
-heroBackground: 'services/service2.jpg'
+heroBackground: 'images/wasser002.jpg'
 ---
 Herzlich Willkommen!
 

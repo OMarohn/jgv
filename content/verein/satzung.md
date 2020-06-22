@@ -1,13 +1,13 @@
 ---
 title: 'Satzung'
 date: 2019-03-08T12:33:46+10:00
-icon: 'services/service-icon-6.png'
+icon: 'ausbildung/kurzhaar.svg'
 draft: false
 featured: true
 weight: 4
 heroHeading: 'Satzung '
 heroSubHeading: 'Die Satzung unseres vereins'
-heroBackground: 'services/service2.jpg'
+heroBackground: 'images/theo003.jpg'
 ---
 
 Jagdgebrauchshundverein              

@@ -1,7 +1,7 @@
 ---
 title: "Teichdienst"
 date: 2019-02-17T08:53:26+01:00
-icon: 'services/service-icon-4.png'
+icon: '/theo001.jpg'
 featured: true
 draft: true
 tags: ["termin", "Teich"]

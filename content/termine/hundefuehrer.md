@@ -8,9 +8,9 @@ tags: ["termin", "Lehrgang"]
 heroHeading: 'Hundeführerlehrgang'
 heroSubHeading: ''
 heroBackground: 'services/service2.jpg'
-tag: 1
+tag: 3
 wochentag: Mittwoch 
-monat: Juli
+monat: Juni
 ---
 
 Neuer Hundeführerlehrgang für Jagdhunde

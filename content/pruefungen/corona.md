@@ -15,7 +15,9 @@ wochentag: Samstag
 monat: Juli
 ---
 
-#### Notlösung Spurarbeit – Corona 2020
+####  Corona 2020
+Notlösung Spurarbeit
+
 am Samstag, den **18. Juli** in Kirchdorf. Treffpunkt wird noch bekannt gegeben.   
 Nenngeld = Reuegeld 50 Euro/70 Euro für Mitglieder/Nichtmitglieder  
 

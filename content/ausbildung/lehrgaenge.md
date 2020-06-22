@@ -7,7 +7,7 @@ featured: true
 weight: 1
 heroHeading: 'Lehrgänge'
 heroSubHeading: 'Wir bieten Interessierten Hundeführen verschiedene Lehrgänge an'
-heroBackground: 'services/service1.jpg'
+heroBackground: 'images/theo004.jpg'
 ---
 Hundeausbildung
 
@@ -15,6 +15,8 @@ Unter der Schirmherrschaft der Jägerschaft Grafschaft Diepholz findet unser Hun
 
 Beginnend mit der **Welpengruppe** werden unsere Jagdhunde auf die **Brauchbarkeitsprüfung** vorbereitet.  
 Der Lehrgang erstreckt sich über ca. 5 Monate. Nach erfolgreichem Ablegen der Brauchbarkeitsprüfung darf der Hundebesitzer seinen Hund jagdlich einsetzen, weiterhin ist der Hund dann über die jagdliche Haftpflichtversicherung mit versichert. 
+
+(Bereits bei der Hundeausbildung ist ein Jagdhund in der Regel über die Jagd-Haftpflichtversicherung mitversichert. Bitte informieren Sie sich bei Ihrer Versicherung. **Ein Versicherungsschutz über den JGV besteht nicht.**)
 
 Im weiteren Verlauf kann der Lehrgang auf die Vorbereitung zu 
 folgenden Zuchtprüfungen ausgeweitet werden:

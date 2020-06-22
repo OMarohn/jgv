@@ -1,7 +1,7 @@
 ---
 title: 'Impressum'
 date: 2019-03-08T15:14:54+10:00
-icon: 'services/service-icon-5.png'
+icon: 'ausbildung/kurzhaar.svg'
 featured: true
 weight: 30
 draft: false

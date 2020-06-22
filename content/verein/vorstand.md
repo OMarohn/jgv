@@ -5,13 +5,13 @@ icon: 'services/service-icon-1.png'
 draft: false
 featured: true
 weight: 3
-heroHeading: 'Vorstand'
-heroSubHeading: 'Der Vorstand des JGV Diephols stellt sich vor'
+icon: 'ausbildung/kurzhaar.svg'
+heroSubHeading: 'Der Vorstand stellt sich vor'
 heroBackground: 'services/service1.jpg'
 ---
 
 Hier finden Sie Ihren Ansprechpartner.  
-Die Mitglieder des Vorstand des JGV Diepholz stellt sich vor.
+Die Mitglieder des Vorstand des JGV Grafschaft-Diepholz stellt sich vor.
 
 
 {{<card bild="/verein/heiner.jpg" position="1. Vorsitzender" name="Heiner Tiedemann" strasse="Heerde 57" ort="27245 Kirchdorf" tel="04273/ 553" fax="04273/ 1809" mail="vorsitzender@jgv-diepholz.de">}}
