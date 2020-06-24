@@ -1,4 +1,19 @@
-email: 'vorsitzender@jgv-diepholz.de'
-phone: '(04273) 553'
-businessName: 'Heinrich Tiedemann'
-address: 'Heerde 57 - 27245 Kirchdorf'
+vorsitzender:
+  businessName: 'Heinrich Tiedemann'
+  address: 
+    street: 'Heerde 57'
+    city: '27245 Kirchdorf'
+  phone: '04273/553'
+  fax: '04273/1809'
+  mobile: '0172/2786638'
+  email: 'vorsitzender@jgv-diepholz.de'
+
+geschaeftsfueher:
+  businessName: 'Jörg Holthus'
+  address:
+    street: 'Dörrieloh 79'
+    city: '27259 Varrel'
+  mobile: '0175/4110058'
+  email: 'holthus-jgvdh@t-online.de'
+
+  

@@ -16,12 +16,28 @@
   <div class="row">
     <div class="col-12 col-md-8">
       {{ .Content }}
+
+      <div style="margin-bottom: 1rem;">
+        <strong>{{ .Site.Data.contact.geschaeftsfueher.businessName }}</strong>
+      </div>
       <ul>
-        <li><strong>Telefon: </strong>{{ .Site.Data.contact.phone }}</li>
-        <li><strong>Email: </strong><a href="mailto:{{ .Site.Data.contact.email }}">
-            {{ .Site.Data.contact.email }}</a></li>
-        {{ if .Site.Data.contact.address }}
-        <li><strong>Addresse: </strong>{{ .Site.Data.contact.address }}</li>
+        <li><strong>Telefon: </strong>{{ .Site.Data.contact.geschaeftsfueher.phone }}</li>
+        <li><strong>Email: </strong><a href="mailto:{{ .Site.Data.contact.vorsitzender.email }}">
+            {{ .Site.Data.contact.geschaeftsfueher.email }}</a></li>
+        {{ if .Site.Data.contact.geschaeftsfueher.address }}
+        <li><strong>Addresse: </strong>{{ .Site.Data.contact.geschaeftsfueher.address.street }} - {{.Site.Data.contact.geschaeftsfueher.address.city}}</li>
+        {{ end }}
+      </ul>
+
+      <div style="margin-top: 1.5rem;margin-bottom: 1rem;">
+        <strong>{{ .Site.Data.contact.vorsitzender.businessName }}</strong>
+      </div>
+      <ul>
+        <li><strong>Telefon: </strong>{{ .Site.Data.contact.vorsitzender.phone }}</li>
+        <li><strong>Email: </strong><a href="mailto:{{ .Site.Data.contact.vorsitzender.email }}">
+            {{ .Site.Data.contact.vorsitzender.email }}</a></li>
+        {{ if .Site.Data.contact.vorsitzender.address }}
+          <li><strong>Addresse: </strong>{{ .Site.Data.contact.vorsitzender.address.street }} - {{.Site.Data.contact.vorsitzender.address.city}}</li>
         {{ end }}
       </ul>
     </div>
