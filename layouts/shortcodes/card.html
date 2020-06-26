@@ -3,32 +3,33 @@ Anzeige einer karte mit Bildern und Informationen
 -->
 
 <div class="jgvcard">
+  {{$datum :=  index $.Page.Site.Data.contact (.Get "tag") }}
   {{- with .Get "bild"}}
   <img class="jgvimg" src="{{.}}" alt="Bild" >
   {{end}}
   <div class="jgvcontainer">
-    <h3>{{.Get "position" }}
-      {{- if .Get "position2"}}
-      <span>{{.Get "position2"}}</span>
+    <h3>{{$datum.position }}
+      {{- if $datum.position2}}
+      <span>{{$datum.position2}}</span>
       {{- end}}
     </h3>
-    <h2>{{.Get "name"}}</h2>
+    <h2>{{$datum.businessName}}</h2>
     <div class="anschrift">
-      <p>{{.Get "strasse"}}</p>
-      <p>{{.Get "ort"}}</p>
+      <p>{{$datum.address.street}}</p>
+      <p>{{$datum.address.city}}</p>
     </div>
     <div class="kommunikation">
-      {{- if .Get "tel"}}
-      <p><i class="fa fa-phone" aria-hidden="true"></i> {{.Get "tel"}}</p>
+      {{- if $datum.phone}}
+      <p><i class="fa fa-phone" aria-hidden="true"></i> {{$datum.phone}}</p>
       {{- end}}
-      {{- if .Get "mob"}}
-      <p><i class="fa fa-mobile" aria-hidden="true"></i> {{.Get "mob"}}</p>
+      {{- if $datum.mobile}}
+      <p><i class="fa fa-mobile" aria-hidden="true"></i> {{$datum.mobile}}</p>
       {{- end}}
-      {{- if .Get "fax"}}
-      <p><i class="fa fa-fax" aria-hidden="true"></i> {{.Get "fax"}}</p>
+      {{- if $datum.fax}}
+      <p><i class="fa fa-fax" aria-hidden="true"></i> {{$datum.fax}}</p>
       {{- end}}
-      {{- if .Get "mail"}}
-      <p><i class="fa fa-envelope" aria-hidden="true"></i> {{.Get "mail"}}</p>
+      {{- if $datum.email}}
+      <p><i class="fa fa-envelope" aria-hidden="true"></i> {{$datum.email}}</p>
       {{- end}}
     </div>
   </div>
