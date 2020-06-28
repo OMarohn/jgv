@@ -5,32 +5,34 @@ Anzeige einer karte mit Bildern und Informationen
 <div class="jgvcard">
   {{$datum :=  index $.Page.Site.Data.contact (.Get "tag") }}
   {{- with .Get "bild"}}
-  <img class="jgvimg" src="{{.}}" alt="Bild" >
+    <img class="jgvimg" src="{{.}}" alt="Bild" >
   {{end}}
-  <div class="jgvcontainer">
-    <h3>{{$datum.position }}
-      {{- if $datum.position2}}
-      <span>{{$datum.position2}}</span>
-      {{- end}}
-    </h3>
-    <h2>{{$datum.businessName}}</h2>
-    <div class="anschrift">
-      <p>{{$datum.address.street}}</p>
-      <p>{{$datum.address.city}}</p>
+  {{- with $datum}}
+    <div class="jgvcontainer">
+      <h3>{{.position }}
+        {{- if .position2}}
+          <span>{{.position2}}</span>
+        {{- end}}
+      </h3>
+      <h2>{{.businessName}}</h2>
+      <div class="anschrift">
+        <p>{{.address.street}}</p>
+        <p>{{.address.city}}</p>
+      </div>
+      <div class="kommunikation">
+        {{- if .phone}}
+          <p><i class="fa fa-phone" aria-hidden="true"></i> {{.phone}}</p>
+        {{- end}}
+        {{- if .mobile}}
+          <p><i class="fa fa-mobile" aria-hidden="true"></i> {{.mobile}}</p>
+        {{- end}}
+        {{- if .fax}}
+          <p><i class="fa fa-fax" aria-hidden="true"></i> {{.fax}}</p>
+        {{- end}}
+        {{- if .email}}
+          <p><i class="fa fa-envelope" aria-hidden="true"></i> {{.email}}</p>
+        {{- end}}
+      </div>
     </div>
-    <div class="kommunikation">
-      {{- if $datum.phone}}
-      <p><i class="fa fa-phone" aria-hidden="true"></i> {{$datum.phone}}</p>
-      {{- end}}
-      {{- if $datum.mobile}}
-      <p><i class="fa fa-mobile" aria-hidden="true"></i> {{$datum.mobile}}</p>
-      {{- end}}
-      {{- if $datum.fax}}
-      <p><i class="fa fa-fax" aria-hidden="true"></i> {{$datum.fax}}</p>
-      {{- end}}
-      {{- if $datum.email}}
-      <p><i class="fa fa-envelope" aria-hidden="true"></i> {{$datum.email}}</p>
-      {{- end}}
-    </div>
-  </div>
+  {{end}}
 </div>

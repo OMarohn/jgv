@@ -15,13 +15,7 @@ Betreiber dieser Webseite
 
 Vertreten durch den Vorsitzenden  
 
-Herr Heinrich Tiedemann  
-Heerde 57  
-
-27245 Kirchdorf  
-
-Tel: (04273) 553  
-Email: vorsitzender@jgv-diepholz.de
+{{<card bild="/verein/heiner.jpg" tag="vorsitzender">}}
 
 ## Haftungsausschluss
 

@@ -7,7 +7,7 @@ featured: true
 weight: 3
 icon: 'ausbildung/kurzhaar.svg'
 heroSubHeading: 'Der Vorstand stellt sich vor'
-heroBackground: 'services/service1.jpg'
+heroBackground: 'images/schweiss.jpg'
 ---
 
 Hier finden Sie Ihren Ansprechpartner.  

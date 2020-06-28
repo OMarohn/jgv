@@ -20,5 +20,5 @@ Aus diesem Grunde ist die Ausbildung und die unterschiedlichen Prüfungen der Ja
 
 Auf den nächsten Seiten werden Sie immer aktuell über das Geschehen im Verein, wie z.B. Hundeführerlehrgänge, Prüfungen, Prüfungsergebnisse usw. informiert.
 
-Wenn Sie Fragen oder auch Anregungen haben, nehmen Sie bitte direkt mit uns Kontakt auf.
+Wenn Sie Fragen oder auch Anregungen haben, nehmen Sie bitte direkt mit uns [Kontakt](/kontakt/) auf.
  
