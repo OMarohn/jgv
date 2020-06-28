@@ -7,7 +7,7 @@ draft: false
 tags: ["termin", "Lehrgang"]
 heroHeading: 'Hundeführerlehrgang'
 heroSubHeading: ''
-heroBackground: 'services/service2.jpg'
+heroBackground: 'images/ausbildungdackel.jpg'
 tag: 3
 wochentag: Mittwoch 
 monat: Juni
