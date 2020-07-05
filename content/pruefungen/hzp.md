@@ -8,6 +8,7 @@ tags: ["termin","pruefung","HZP"]
 heroHeading: 'Verbands Herbstzuchtprüfung'
 heroSubHeading: ''
 heroBackground: 'services/service2.jpg'
+onlineMeldung: 'https://nennung.japa4u.de/?nr=1018'
 
 termin: "2020-11-12"
 tag: 12
