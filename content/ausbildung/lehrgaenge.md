@@ -23,7 +23,7 @@ folgenden Zuchtprüfungen ausgeweitet werden:
 
 * **VJP** ( Verbandsjugendprüfung )
 * **HZP** ( Herbstzuchtprüfung )
-* **VGP** ( Verbandsgebrauchshundprüfung )
+* **VGP** ( Verbandsgebrauchsprüfung )
 * **VPS** ( Verbandsprüfung nach dem Schuss )
 
 Termine finden Sie unter dem Button [Termine](/termine/)
