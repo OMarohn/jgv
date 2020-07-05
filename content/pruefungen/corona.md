@@ -8,6 +8,7 @@ tags: ["termin","pruefung"]
 heroHeading: 'Spurarbeit 2020'
 heroSubHeading: ''
 heroBackground: 'services/service2.jpg'
+onlineMeldung: 'https://nennung.japa4u.de/?nr=1018'
 
 termin: "2020-07-18"
 tag: 18
@@ -23,15 +24,15 @@ Nenngeld = Reuegeld 50 Euro/70 Euro für Mitglieder/Nichtmitglieder
 
 **Nennschluss 10.07.**
 
-Die Nennungen ist auf [Formblatt 1](https://www.jghv.de/images/Dokumente/2019/formblatt_1_2019_1.pdf 'Formblatt zur Meldung') an die JGV-Geschäftsstelle, 
+Die Nennungen bitte Online, über den Klick auf den Button **Onlinemeldung** durchführen.  
+Die ausgefüllte Nennung bitte zusätzlich Ausdrucken und unterschreiben.  
+Weiterhin ist eine Kopie der Ahnentafel und Kopien **aller** früheren absolvierten Verbandsprüfungen beizufügen und an die Geschäftsstelle:   
 
 Dörrieloh 79  
 27259 Varrel  
 Tel. 0175/4110058 oder 04274/963961  
-holthus-jgvdh@t-online.de zu richten.
+holthus-jgvdh@t-online.de zu richten.  
 
-
-Weiterhin ist eine Kopie der Ahnentafel und Kopien **aller** früheren absolvierten Verbandsprüfungen beizufügen. 
 Nach Nennschluss eingehende Meldungen erfordern Mehrkosten von 30 Euro.
 Sollte eine Überweisung bis zum Nennschluss nicht eingegangen sein, so hat der Führer kein Anrecht auf Prüfung seines Hundes.
 
