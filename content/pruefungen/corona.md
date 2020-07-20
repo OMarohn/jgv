@@ -40,3 +40,7 @@ Das Nenngeld ist gleichzeitig mit der Nennung auf das Konto bei der Volksbank eG
 IBAN DE51256916333588070800  
 BIC GENODEF1SUL  
 zu überweisen. 
+
+
+{{< load-photoswipe >}}
+{{< gallery dir="images/galleries/corona2020"  thumb="-thumb" />}}
