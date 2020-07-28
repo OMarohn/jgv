@@ -8,7 +8,6 @@ tags: ["termin","pruefung"]
 heroHeading: 'Spurarbeit 2020'
 heroSubHeading: ''
 heroBackground: 'services/service2.jpg'
-onlineMeldung: 'https://nennung.japa4u.de/?nr=1018'
 
 termin: "2020-07-18"
 tag: 18
@@ -19,28 +18,29 @@ monat: Juli
 ####  Corona 2020
 Notlösung Spurarbeit
 
-am Samstag, den **18. Juli** in Kirchdorf. Treffpunkt wird noch bekannt gegeben.   
-Nenngeld = Reuegeld 50 Euro/70 Euro für Mitglieder/Nichtmitglieder  
+Am Samstag, den 18.7.2020 konnte der Geschäftsführer des JGV Grafschaft Diepholz e.V.  
+Jörg Holthus motivierte Hundeführer und sichtlich gut gelaunte Verbandsrichter am **Spargelhof Köper**
+begrüßen.   
+Nach kurzer Einweisung durch den Richterobmann Bernd Dittmar zum Thema Notlösung
+Spurarbeit Corona 2020 und Überprüfung der Chipnummern bei den anwesenden 4 Hunden ging es
+bei leicht bewölktem Wetter anschließend mit dem Revierführer und Richter Niko Köper ins Revier.
+Bei sehr gutem Hasenbesatz waren die Hunde in der Lage durchgängig sehr gute Leistungen mit
+Sicht- und/oder Spurlaut zu zeigen und diese Leistungen auch zu bestätigen. Nachdem die
+Schussfestigkeit ebenfalls geprüft worden war, konnten kurze Zeit später unter freiem Himmel die
+Prüfungsergebnisse mitgeteilt und übergeben werden.
+Der Vorstand gratuliert den Hundeführern und hofft auf ein Wiedersehen im Herbst auf einer HZP
+und/oder VGP.
 
-**Nennschluss 10.07.**
-
-Die Nennungen bitte Online, über den Klick auf den Button **Onlinemeldung** durchführen.  
-Die ausgefüllte Nennung bitte zusätzlich Ausdrucken und unterschreiben.  
-Weiterhin ist eine Kopie der Ahnentafel und Kopien **aller** früheren absolvierten Verbandsprüfungen beizufügen und an die Geschäftsstelle:   
-
-Dörrieloh 79  
-27259 Varrel  
-Tel. 0175/4110058 oder 04274/963961  
-holthus-jgvdh@t-online.de zu richten.  
-
-Nach Nennschluss eingehende Meldungen erfordern Mehrkosten von 30 Euro.
-Sollte eine Überweisung bis zum Nennschluss nicht eingegangen sein, so hat der Führer kein Anrecht auf Prüfung seines Hundes.
-
-Das Nenngeld ist gleichzeitig mit der Nennung auf das Konto bei der Volksbank eG  
-IBAN DE51256916333588070800  
-BIC GENODEF1SUL  
-zu überweisen. 
-
+Ergebnisse:  
+{{< table "table table-dark table-striped table-bordered" >}}
+ | Name                         | Rasse | gewölft    | Note                            | Bemerkung           |
+ | ---------------------------- | ----- | ---------- | ------------------------------- | ------------------- |
+ | Amy vom Schüttorferwald      | KlM   | 27.12.2018 | Spurarbeit 4 sehr gut           | Sicht- und Spurlaut |
+ | Chiva vom Keilerbruch        | KlM   | 10.08.2019 | Spurarbeit 4 sehr gut           | Spurlaut            |
+ | Qesra II aus der Wolfskammer | KlM   | 04.05.2019 | Spurarbeit 4           sehr gut | Spurlaut            |
+ | Milo von Kleinenkneten       | GM    | 03.10.2018 | Spurarbeit 4           sehr gut | Spurlaut            |
+{{< /table >}}
 
 {{< load-photoswipe >}}
 {{< gallery dir="images/galleries/corona2020"  thumb="-thumb" />}}
+
