@@ -35,10 +35,10 @@ Ergebnisse:
 {{< table "table table-dark table-striped table-bordered" >}}
  | Name                         | Rasse | gewölft    | Note                            | Bemerkung           |
  | ---------------------------- | ----- | ---------- | ------------------------------- | ------------------- |
- | Amy vom Schüttorferwald      | KlM   | 27.12.2018 | Spurarbeit 4 sehr gut           | Sicht- und Spurlaut |
- | Chiva vom Keilerbruch        | KlM   | 10.08.2019 | Spurarbeit 4 sehr gut           | Sichtlaut           |
- | Qesra II aus der Wolfskammer | KlM   | 04.05.2019 | Spurarbeit 4           sehr gut | Sichtlaut           |
- | Milo von Kleinenkneten       | GM    | 03.10.2018 | Spurarbeit 4           sehr gut | Sichtlaut           |
+ | Amy vom Schüttorferwald      | KlM   | 27.12.2018 | Spurarbeit 4 sehr gut           | sicht- und spurlaut |
+ | Chiva vom Keilerbruch        | KlM   | 10.08.2019 | Spurarbeit 4 sehr gut           | sichtlaut           |
+ | Qesra II aus der Wolfskammer | KlM   | 04.05.2019 | Spurarbeit 4           sehr gut | sichtlaut           |
+ | Milo von Kleinenkneten       | GM    | 03.10.2018 | Spurarbeit 4           sehr gut | sichtlaut           |
 {{< /table >}}
 
 {{< load-photoswipe >}}
