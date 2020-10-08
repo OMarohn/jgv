@@ -18,17 +18,17 @@ monat: September
 
 **HZP 2020**
 
-Zur HZP ohne Spurarbeit konnte am 12.09.2020 im Revier Groß-Lessen Suchenleiter Jörg Holthus 4 sehr gut vorbereitet Hunde mit ihren Führern begrüßen.   
+Zur HZP ohne Spurarbeit konnte am 12.09.2020 im Revier Groß-Lessen Suchenleiter Jörg Holthus 4 sehr gut vorbereitet Hunde mit ihren Führern begrüßen.  
 Bei sonnigem Wetter ging es mit dem Revierführer Wilfried Vallan ins Revier, welches sich durch sehr guten Federwild- und Haarwildbesatz auszeichnete. Zwei große Ketten Rebhühner waren für alle eine Augenweide.  
-Alle Hunde konnten sowohl in den Anlagefächern, als auch in den Abrichtefächern fast ausnahmslos sehr gute Leistungen zeigen.   
-Die Prüfung verlief sehr harmonisch und war am frühen Nachmittag beendet. 
+Alle Hunde konnten sowohl in den Anlagefächern, als auch in den Abrichtefächern fast ausnahmslos sehr gute Leistungen zeigen.  
+Die Prüfung verlief sehr harmonisch und war am frühen Nachmittag beendet.  
 **Wir bedanken uns beim Revier Groß Lessen und hoffen darauf die Hunde und ihre Führer bei einer weiteren Prüfung des JGV Grafschaft Diepholz e.V. wiederzusehen.**
 
 
 HZP am 12.09.2020 um Groß Lessen, gem. 4, ersch. 4, gepr. 4, präm. 4 Hunde
 
 Ergebnisse:  
-{{< table "table table-dark table-striped table-bordered" >}}
+{{<table "table table-dark table-striped table-bordered" >}}
   | Name | Rasse | # | gewölft | Führer | Ort | Punkte | Laut |
   | ---- | ----- |-|-------|------|---|------|----|
   |Lotte vom Maibrook|DD|240215|08.04.2019|André Küchhold|32479 Hille|190|fraglich|  
