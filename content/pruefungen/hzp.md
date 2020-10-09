@@ -16,7 +16,7 @@ wochentag: Samstag
 monat: September
 ---
 
-**HZP 2020**
+**HZP 2020 - 1. Termin**
 
 Zur HZP ohne Spurarbeit konnte am 12.09.2020 im Revier Groß-Lessen Suchenleiter Jörg Holthus 4 sehr gut vorbereitet Hunde mit ihren Führern begrüßen.  
 Bei sonnigem Wetter ging es mit dem Revierführer Wilfried Vallan ins Revier, welches sich durch sehr guten Federwild- und Haarwildbesatz auszeichnete. Zwei große Ketten Rebhühner waren für alle eine Augenweide.  
