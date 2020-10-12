@@ -12,13 +12,13 @@ onlineMeldung: 'http://japa4u.de/Events/?id=76'
 
 termin: "2020-11-22"
 tag: 22
-wochentag: Samstag
+wochentag: Sonntag
 monat: November
 ---
 
 #### Verbands-Stöberprüfung 
 
-am Samstag, den **22. November** Reviere rund um Kirchdorf.  
+am Sonntag, den **22. November** Reviere rund um Kirchdorf.  
 
 Treffpunkt:  
 **wird noch bekannt gegeben**. 
