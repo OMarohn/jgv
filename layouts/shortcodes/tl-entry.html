@@ -1,0 +1,13 @@
+<!--
+    Anzeigen einer Timeline 
+-->
+
+<li>
+    <div>
+        <h3>
+            {{- with .Get "head"}}
+            <i class="fa fa-calendar"></i>{{.}} {{- end}}
+        </h3>
+        <p>{{ .Inner }}</p>
+    </div>
+</li>
