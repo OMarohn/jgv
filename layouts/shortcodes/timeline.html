@@ -1,0 +1,14 @@
+<!--
+    Anzeigen einer Timeline 
+-->
+<!-- prevent this shortcode from being loaded more than once per page -->
+{{ if not ($.Page.Scratch.Get "timelineloaded") }}
+    {{ $.Page.Scratch.Set "timelineloaded" 1 }}
+    <link rel="stylesheet" href="/css/timeline.css" />
+    <section id="timeline"> 
+        <ul>         
+            {{ .Inner }}
+        </ul>
+    </section>
+    <script src="/js/timeline.js"></script>
+{{ end }}
