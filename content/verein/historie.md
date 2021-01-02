@@ -17,7 +17,7 @@ Die Entstehung und Historie des JGV Diepholz.
 {{</tl-entry>}}
 
 {{<tl-entry head="1904: Gründungsversammlung">}}
-    Auf Initiative des Amtsrichters am Königlichen Amtsgericht zu Diepholz, Herrn Richnow, fand am <span class="datum">14. August</span> die Gründungsversammlung Des <q>Vereins zur Hege der Jagd und Förderung des Gebrauchs reinrassiger Jagdhunde</q> statt. In den Vorstand des Vereins wurden gewählt die Herren:
+    Auf Initiative des Amtsrichters am Königlichen Amtsgericht zu Diepholz, <span class="name">Herrn Richnow</span>, fand am <span class="datum">14. August</span> die Gründungsversammlung Des <q>Vereins zur Hege der Jagd und Förderung des Gebrauchs reinrassiger Jagdhunde</q> statt. In den Vorstand des Vereins wurden gewählt die Herren:
     <section class='vstd01'>
     <p>Amtsrichter Richnow</p>
     <p>Lehrer Harling</p>
