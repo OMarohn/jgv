@@ -169,8 +169,9 @@ Die Entstehung und Historie des JGV Diepholz.
 {{</tl-entry>}}
 
 {{<tl-entry head="1978: Neuer Vorsitz">}}         
-    Am 27. Januar endet die Amtsperiode des Vorsitzenden Buschmeyer. Neuer 1. Vorsitzender wird Fritz Scheland.
-    Hundeführerlehrgänge werden zur Prüfungsvorbereitung vom JGV Diepholz unter Führung von Fritz Scheland angeboten. 
+    Am <span class="datum">27. Januar</span> endet die Amtsperiode des Vorsitzenden <span class="name">Buschmeyer</span>. 
+    Neuer 1. Vorsitzender wird <span class="name">Fritz Scheland</span>.
+    Hundeführerlehrgänge werden zur Prüfungsvorbereitung vom JGV Diepholz unter Führung von <span class="name">Fritz Scheland</span> angeboten. 
     Bildung eines erweiterten Vorstandes, der die umfangreiche Prüfungstätigkeit des Vereins vorbereitet.
 {{</tl-entry>}}
 
@@ -217,10 +218,6 @@ Die Entstehung und Historie des JGV Diepholz.
     Nach 33-jähriger aktiver Tätigkeit im Vorstand des JGV Diepholz scheidet <span class="name">Herbert Hollberg</span> aus der Funktion des Geschäftsführers aus. Neuer Geschäftsführer ist <span class="name">Helmut Schwope</span>. 
     Zur Vorbereitung der 100-Jahrfeier des JGV Diepholz wird die Gründung eines
     Festausschusses besprochen. Ein neues Teichvorhaben des Vereins soll in Kirchdorf entstehen.
-{{</tl-entry>}}
-
-{{<tl-entry head="2001: Verbandsschweißprüfung">}}         
-    Die erste Verbandsschweißprüfung wird in der staatlichen Forst „Rauer Busch“ Durchgeführt.
 {{</tl-entry>}}
 
 {{<tl-entry head="2004: Vorbereitung">}}         
