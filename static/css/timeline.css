@@ -59,6 +59,11 @@
     opacity: 0;
   }
   
+  /* Icon */
+  #timeline ul li div h3 i {
+    padding-right: 0.5rem;
+  }
+
   /* Right Side */
   #timeline ul li:nth-child(odd) div {
     left: 40px;

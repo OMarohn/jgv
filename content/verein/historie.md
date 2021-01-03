@@ -2,7 +2,7 @@
 title: 'Historie'
 date: 2021-01-01T12:33:46+10:00
 icon: 'ausbildung/kurzhaar.svg'
-draft: true
+draft: false
 featured: true
 weight: 4
 heroHeading: 'Timeline '
@@ -167,6 +167,67 @@ Die Entstehung und Historie des JGV Diepholz.
     Der Teichausbau wird mit vereinten Anstrengungen in Angriff genommen.
     Daneben werden auf Verbandsjugend-, Herbstzucht-, Verbandsgebrauchs- und Jagdeignungsprüfungen insgesamt 139 Hunde geprüft.
 {{</tl-entry>}}
+
+{{<tl-entry head="1978: Neuer Vorsitz">}}         
+    Am 27. Januar endet die Amtsperiode des Vorsitzenden Buschmeyer. Neuer 1. Vorsitzender wird Fritz Scheland.
+    Hundeführerlehrgänge werden zur Prüfungsvorbereitung vom JGV Diepholz unter Führung von Fritz Scheland angeboten. 
+    Bildung eines erweiterten Vorstandes, der die umfangreiche Prüfungstätigkeit des Vereins vorbereitet.
+{{</tl-entry>}}
+
+{{<tl-entry head="1979: 75 Jahre">}}         
+    75 Jahre JGV Diepholz. Gründung eines Festausschusses zur Vorbereitung der erfolgreichen Jubiläumsfeier.
+{{</tl-entry>}}
+
+{{<tl-entry head="1981: Ausbau der Teichanlage">}}         
+    Kauf eines weiteren Grundstückes für den Ausbau der Teichanlage. Erweiterung der Teichanlage, so dass der Verein seinen Mitgliedern und
+    anderen Teilnehmern an Hundeführerlehrgängen einen Übungs- und einen Prüfungsteich zur Verfügung stellen kann.
+{{</tl-entry>}}
+
+{{<tl-entry head="1987: Gedächtnis-VGP">}}         
+    Am <span class="datum">10. u. 11. Oktober</span> wird zu Ehren des langjährigen Schriftführers und Vorsitzenden die VGP als „Ernst-August-Schümann-Gedächtnis-VGP“ durchgeführt.
+{{</tl-entry>}}
+
+{{<tl-entry head="1995: Neu Prüfungsvorschriften">}}         
+    Aktuelle jagdpolitische Entwicklung fordert höhere Anforderungen an Prüfungstätigkeit und führt zur Änderung der Prüfungsvorschriften und zur
+    Richterfortbildung. Durch neue Gestaltung, gemeinschaftliche Wartung und Pflege entspricht die
+    Teichanlage neuen Anforderungen an die wichtige Wasserarbeit im Rahmen der Ausbildung der Jagdhunde.
+{{</tl-entry>}}
+
+{{<tl-entry head="1996: Umweltschutz">}}         
+    Erhöhung der Aufnahmegebühr für die Mitgliedschaft im Verein auf 200 DM bei Mitgliedern der Jägerschaft, auf 500 DM für andere.
+    Anlage eines Feuchtbiotops in Barver als weiterer Beitrag des JGV Diepholz zum Natur- und Umweltschutz.
+{{</tl-entry>}}
+
+{{<tl-entry head="1999: Neuer Vorsitz">}}         
+    Hier geht die 22-jährige Amtsperiode des Vorsitzenden <span class="name">Fritz Scheland</span> zu Ende.
+    <span class="name">Heinrich Tiedemann</span> wird nach Abstimmung über den weiteren Kandidaten <span class="name">Helmut Schwope</span> mit Stimmenmehrheit neuer 1. Vorsitzender.
+{{</tl-entry>}}
+
+{{<tl-entry head="2000: Kontinuität">}}         
+    Kontinuität in den Prüfungsaktivitäten des Vereins auch unter dem neuen Vorsitzenden. 
+    Die Neuerungen in den Prüfungsordnungen sind Gegenstand der Richterfortbildung. 
+    Jagdpolitische Themen bestimmten die noch stärkere Sorgfalt bei der Durchführung von Lehrgängen und Prüfungen.
+{{</tl-entry>}}
+
+{{<tl-entry head="2001: Verbandsschweißprüfung">}}         
+    Die erste Verbandsschweißprüfung wird in der staatlichen Forst „Rauer Busch“ Durchgeführt.
+{{</tl-entry>}}
+
+{{<tl-entry head="2002: Neuer Geschäftsführer">}}         
+    Nach 33-jähriger aktiver Tätigkeit im Vorstand des JGV Diepholz scheidet <span class="name">Herbert Hollberg</span> aus der Funktion des Geschäftsführers aus. Neuer Geschäftsführer ist <span class="name">Helmut Schwope</span>. 
+    Zur Vorbereitung der 100-Jahrfeier des JGV Diepholz wird die Gründung eines
+    Festausschusses besprochen. Ein neues Teichvorhaben des Vereins soll in Kirchdorf entstehen.
+{{</tl-entry>}}
+
+{{<tl-entry head="2001: Verbandsschweißprüfung">}}         
+    Die erste Verbandsschweißprüfung wird in der staatlichen Forst „Rauer Busch“ Durchgeführt.
+{{</tl-entry>}}
+
+{{<tl-entry head="2004: Vorbereitung">}}         
+    Neben der Prüfungstätigkeit laufen die Vorbereitungen für die 100-Jahrfeier. …..
+{{</tl-entry>}}
+
+
 
 {{</timeline>}}
 
