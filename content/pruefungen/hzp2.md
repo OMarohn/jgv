@@ -9,10 +9,10 @@ tags: ["termin","pruefung","HZP","2021"]
 heroHeading: 'Verbands Herbstzuchtprüfung'
 heroSubHeading: ''
 heroBackground: 'services/service2.jpg'
-onlineMeldung: 'https://japa4u.de/Events/?id=88'
+onlineMeldung: 'https://japa4u.de/Events/?id=89'
 
 termin: "2021-09-18"
-tag: 12
+tag: 18
 wochentag: Samstag
 monat: September
 ---

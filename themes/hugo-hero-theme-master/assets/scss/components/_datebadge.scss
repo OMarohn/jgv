@@ -94,6 +94,18 @@ time.icon em
   color: $primary;
 }
 
+time.icon.off em
+{
+  color: gray;
+}
+
+time.icon.off strong
+{
+  background-color: gray;
+  border-bottom: 1px dashed gray;
+  box-shadow: 0 2px 0 darkgray;
+}
+
 time.icon span
 {
   width: 100%;
