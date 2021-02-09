@@ -8,23 +8,15 @@ tags: ["termin", "Lehrgang"]
 heroHeading: 'Hundeführerlehrgang'
 heroSubHeading: ''
 heroBackground: 'images/ausbildungdackel.jpg'
-tag: 3
-wochentag: Mittwoch 
-monat: Juni
+tag: 1
+wochentag: Donnerstag 
+monat: April
 ---
 
 Neuer Hundeführerlehrgang für Jagdhunde
 
-Nach Lockerungen der Corona Pandemie wird nun auch wieder unter bestimmten Auflagen ein Hundeführerlehrgang der Jägerschaft Grafschaft Diepholz Anfang Juni angeboten. 
+**Voraussichtlicher Beginn im April 2021**
 
-Lehrgangsleiter ist der Vorsitzende des JGV Diepholz und Hundeobmann der Jägerschaft Diepholz, Heinrich Tiedemann.  
-
-
-Die Ausbildung findet in freier Landschaft statt. Es wird gewährleistet, dass der vorgeschriebene Sicherheitsabstand eingehalten wird.  
-Der Lehrgang erstreckt sich über ca. 4 Monate und endet mit der Brauchbarkeitsprüfung.  
-
-Der Kurs richtet sich auch an Teilnehmer, die ihre Hunde für die HZP und VGP vorbereiten möchten.   
-Hierzu treffen sich die Lehrgangsteilnehmer mit ihren Hunden einmal in der Woche. Nach erfolgreichem Ablegen der Brauchbarkeitsprüfung darf der Hundebesitzer seinen Hund jagdlich einsetzen, weiterhin ist der Hund dann über die jagdliche Haftpflichtversicherung mit versichert.  
-
-Nähere Informationenund Anmeldungern sind ab sofort bei Heinrich Tiedemann unter 0172 2786638 oder unter E-mail: tiedemann@t-online.de möglich.
+Interessierte werden gebeten sich telefonisch (0172/2786638) oder per Mail (tiedemannh@t-online.de) mit dem Lehrgangsleiter Heinrich Tiedemann in Verbindung zu setzen.  
+Nähere Informationen und Anmeldungern sind ab sofort bei Heinrich Tiedemann unter 0172 2786638 oder unter E-mail: tiedemann@t-online.de möglich.
 
