@@ -11,20 +11,20 @@ heroSubHeading: ''
 heroBackground: 'services/service2.jpg'
 onlineMeldung: 'https://japa4u.de/Events/?id=89'
 
-termin: "2021-09-18"
-tag: 18
+termin: "2021-10-02"
+tag: 02
 wochentag: Samstag
-monat: September
+monat: Oktober
 ---
 
 **HZP 2021 - ohne Spurarbeit**
 
-Am Samstag, den **18. September**  
+Am Samstag, den **02. Oktober**  
 Treffpunkt wird noch bekannt gegeben.  
 
 Nenngeld = Reuegeld 80 Euro/100 Euro für Mitglieder/Nichtmitglieder
 
-**Nennschluss 12.03.2021**
+**Nennschluss 10.09.2021**
 
 Die Nennungen bitte Online, über den Klick auf den Button **Onlinemeldung** durchführen.
 

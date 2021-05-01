@@ -26,8 +26,6 @@ Treffpunkt wird noch bekannt gegeben.
 
 Verbeller / Verweiser +40 €  
 
-Fuchshindernis gem. VGPO,§11(1)c)  
-
 Prüfungsleiter: Jörg Holthus, Dörrieloh 79, 27259 Varrel, Tel. 01754110058  
 
 Gerichtet wird nach der derzeit gültigen Prüfungsordnung des JGHV.  

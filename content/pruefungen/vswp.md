@@ -1,33 +1,29 @@
 ---
-title: 'VGP 2021'
+title: 'VSwP 2021'
 date: 2021-02-03T15:15:34+10:00
 icon: 'services/service-icon-4.png'
 featured: true
 draft: false
-tags: ["termin","pruefung", "vgp", "2021"]
+tags: ["termin","pruefung", "VSWP", "2021"]
 
-heroHeading: 'Verbandsgebrauchsprüfung mir Übernachtfährte'
+heroHeading: 'Verbandsschweißprüfung'
 heroSubHeading: ''
-heroBackground: 'images/pruefungen/vgp4.jpg'
-onlineMeldung: 'https://japa4u.de/Events/?id=90'
+heroBackground: 'images/gimli003.jpg'
+onlineMeldung: 'https://japa4u.de/Events/?id=100'
 
-termin: "2021-10-02"
-tag: 2
+termin: "2021-11-13"
+tag: 13
 wochentag: Samstag
-monat: Oktober
+monat: November
 
 ---
 
-**Verbandsgebrauchsprüfung mit Übernachtfährte**  
-am Samstag/ Sonntag den **02./03. Oktober**
+**Verbandsschweißprüfung 20- und 40 Stundenfährte**  
+am Samstag den **13. November**  
 
 Treffpunkt wird noch bekannt gegeben.  
-Übernachtfährte, Damwildschweiß getropft.  
-
-Verbeller / Verweiser +40 €  
-
-Fuchshindernis gem. VGPO,§11(1)c)  
-Stöbergelände gem. VGPO, §14(1)a  
+Damwildschweiß getropft.  
+Jeder Hund muss am Prüfungstag 24 Monate alt sein und den Nachweis der Schußfestigkeit und des lauten Jagens erbracht haben.
 
 Prüfungsleiter: Jörg Holthus, Dörrieloh 79, 27259 Varrel, Tel. 01754110058  
 
@@ -35,7 +31,7 @@ Gerichtet wird nach der derzeit gültigen Prüfungsordnung des JGHV.
 
 Nenngeld = Reuegeld 120 Euro/140 Euro für Mitglieder/Nichtmitglieder  
 
-**Nennschluss 10.09.2021**
+**Nennschluss 22.10.2021**
 
 Die Nennungen bitte Online, über den Klick auf den Button **Onlinemeldung** durchführen.
 

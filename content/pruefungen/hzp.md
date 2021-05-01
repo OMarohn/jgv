@@ -12,7 +12,7 @@ heroBackground: 'services/service2.jpg'
 onlineMeldung: 'https://japa4u.de/Events/?id=88'
 
 termin: "2021-09-18"
-tag: 12
+tag: 18
 wochentag: Samstag
 monat: September
 ---
@@ -24,7 +24,7 @@ Treffpunkt wird noch bekannt gegeben.
 
 Nenngeld = Reuegeld 80 Euro/100 Euro für Mitglieder/Nichtmitglieder
 
-**Nennschluss 12.03.2021**
+**Nennschluss 27.08.2021**
 
 Die Nennungen bitte Online, über den Klick auf den Button **Onlinemeldung** durchführen.
 

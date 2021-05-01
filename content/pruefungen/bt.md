@@ -1,41 +1,35 @@
 ---
-title: 'VGP 2021'
+title: 'BTr 2021'
 date: 2021-02-03T15:15:34+10:00
 icon: 'services/service-icon-4.png'
 featured: true
 draft: false
-tags: ["termin","pruefung", "vgp", "2021"]
+tags: ["termin","pruefung", "BTR", "2021"]
 
-heroHeading: 'Verbandsgebrauchsprüfung mir Übernachtfährte'
+heroHeading: 'Bringtreueprüfung'
 heroSubHeading: ''
-heroBackground: 'images/pruefungen/vgp4.jpg'
-onlineMeldung: 'https://japa4u.de/Events/?id=90'
+heroBackground: 'images/gimli003.jpg'
+onlineMeldung: 'https://japa4u.de/Events/?id=94'
 
-termin: "2021-10-02"
-tag: 2
+termin: "2021-10-17"
+tag: 17
 wochentag: Samstag
 monat: Oktober
 
 ---
 
-**Verbandsgebrauchsprüfung mit Übernachtfährte**  
-am Samstag/ Sonntag den **02./03. Oktober**
+**Bringtreueprüfung**  
+am Samstag den **13. November**  
 
 Treffpunkt wird noch bekannt gegeben.  
-Übernachtfährte, Damwildschweiß getropft.  
-
-Verbeller / Verweiser +40 €  
-
-Fuchshindernis gem. VGPO,§11(1)c)  
-Stöbergelände gem. VGPO, §14(1)a  
 
 Prüfungsleiter: Jörg Holthus, Dörrieloh 79, 27259 Varrel, Tel. 01754110058  
 
 Gerichtet wird nach der derzeit gültigen Prüfungsordnung des JGHV.  
 
-Nenngeld = Reuegeld 120 Euro/140 Euro für Mitglieder/Nichtmitglieder  
+Nenngeld = Reuegeld 40 Euro/50 Euro für Mitglieder/Nichtmitglieder  
 
-**Nennschluss 10.09.2021**
+**Nennschluss 24.09.2021**
 
 Die Nennungen bitte Online, über den Klick auf den Button **Onlinemeldung** durchführen.
 
