@@ -11,10 +11,10 @@ heroSubHeading: ''
 heroBackground: 'images/gimli003.jpg'
 onlineMeldung: 'https://japa4u.de/Events/?id=94'
 
-termin: "2021-10-17"
-tag: 17
+termin: "2021-11-13"
+tag: 13
 wochentag: Samstag
-monat: Oktober
+monat: November
 
 ---
 
