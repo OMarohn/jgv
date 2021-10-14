@@ -9,7 +9,7 @@ tags: ["termin","pruefung", "vgp", "2021"]
 heroHeading: 'Verbandsgebrauchsprüfung mir Übernachtfährte'
 heroSubHeading: ''
 heroBackground: 'images/pruefungen/vgp4.jpg'
-onlineMeldung: 'https://japa4u.de/Events/?id=90'
+#onlineMeldung: 'https://japa4u.de/Events/?id=90'
 
 termin: "2021-10-02"
 tag: 2
@@ -21,39 +21,15 @@ monat: Oktober
 **Verbandsgebrauchsprüfung mit Übernachtfährte**  
 am Samstag/ Sonntag den **02./03. Oktober**
 
-Treffpunkt wird noch bekannt gegeben.  
-Übernachtfährte, Damwildschweiß getropft.  
+VGP am 02.10.2021 bis 03.10.2021 um Kirchdorf, gem. 3, ersch. 3, gepr. 3, präm. 3 Hunde
+Wetter: bedeckt, feucht, um 17 Grad  Wildbesatz: Federwild: gut / Haarwild: gut
 
-Verbeller / Verweiser +40 €  
+Ergebnisse: 
 
-Fuchshindernis gem. VGPO,§11(1)c)  
-Stöbergelände gem. VGPO, §14(1)a  
-
-Prüfungsleiter: Jörg Holthus, Dörrieloh 79, 27259 Varrel, Tel. 01754110058  
-
-Gerichtet wird nach der derzeit gültigen Prüfungsordnung des JGHV.  
-
-Nenngeld = Reuegeld 120 Euro/140 Euro für Mitglieder/Nichtmitglieder  
-
-**Nennschluss 10.09.2021**
-
-Die Nennungen bitte Online, über den Klick auf den Button **Onlinemeldung** durchführen.
-
-Die ausgefüllte Nennung bitte zusätzlich Ausdrucken und unterschreiben.  
-
-Weiterhin ist eine Kopie der Ahnentafel und Kopien aller früheren absolvierten Verbandsprüfungen beizufügen und an die Geschäftsstelle:  
-
-Jörg Holthus  
-Dörrieloh 79  
-27259 Varrel  
-
-Tel. 0175/4110058 oder 04274/963961  
-holthus-jgvdh@t-online.de zu richten.
-
-
-Nach Nennschluss eingehende Meldungen erfordern Mehrkosten von 50 Euro. Sollte eine Überweisung bis zum Nennschluss nicht eingegangen sein, so hat der Führer kein Anrecht auf Prüfung seines Hundes.
-
-Das Nenngeld ist gleichzeitig mit der Nennung auf das Konto bei der Volksbank eG  
-IBAN DE51256916333588070800  
-BIC GENODEF1SUL  
-zu überweisen.
+{{<table "table table-dark table-striped table-bordered" >}}
+ | Name | Rasse | # | gewölft | Führer | Ort | Punkte | Preis |Laut |
+  | ---- | ----- |-|-------|------|---|------|---- |----|
+Fanny zu Barbrake| UK| 19-UK-6322| 03.02.2019| Dr. Nicolin Niebuhr| 27330 Asendorf| 321 P.| II.| fragl.
+Aiko vom Schiefer-Grund| DD| 230054| 08.01.2016| Canan Otto| 29699 Walsrode| 300 P.| II.| fragl.
+Eddy vom Rauhen Busch| UK| 18-UK-6284| 30.11.2018| Sebastian  Fellmann| 21386 Betzendorf| 312 P.| III.| fragl.
+{{</table>}}

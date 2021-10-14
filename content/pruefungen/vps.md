@@ -9,7 +9,7 @@ tags: ["termin","pruefung", "VPS", "2021"]
 heroHeading: 'Verbandsprüfung nach dem Schuß'
 heroSubHeading: ''
 heroBackground: 'images/gimli003.jpg'
-onlineMeldung: 'https://japa4u.de/Events/?id=92'
+#onlineMeldung: 'https://japa4u.de/Events/?id=92'
 
 termin: "2021-10-02"
 tag: 2
@@ -21,36 +21,14 @@ monat: Oktober
 **Verbandsprüfung nach dem Schuß mit und ohne Fuchs, Übernachtfährte**  
 am Samstag/ Sonntag den **02./03. Oktober**
 
-Treffpunkt wird noch bekannt gegeben.  
-Übernachtfährte, Damwildschweiß getropft.  
-
-Verbeller / Verweiser +40 €  
-
-Prüfungsleiter: Jörg Holthus, Dörrieloh 79, 27259 Varrel, Tel. 01754110058  
-
-Gerichtet wird nach der derzeit gültigen Prüfungsordnung des JGHV.  
-
-Nenngeld = Reuegeld 120 Euro/140 Euro für Mitglieder/Nichtmitglieder  
-
-**Nennschluss 10.09.2021**
-
-Die Nennungen bitte Online, über den Klick auf den Button **Onlinemeldung** durchführen.
-
-Die ausgefüllte Nennung bitte zusätzlich Ausdrucken und unterschreiben.  
-
-Weiterhin ist eine Kopie der Ahnentafel und Kopien aller früheren absolvierten Verbandsprüfungen beizufügen und an die Geschäftsstelle:  
-
-Jörg Holthus  
-Dörrieloh 79  
-27259 Varrel  
-
-Tel. 0175/4110058 oder 04274/963961  
-holthus-jgvdh@t-online.de zu richten.
+VPS am 02.10.2021 bis 03.10.2021 um Kirchdorf, gem. 1, ersch. 1, gepr. 0, präm. 0 Hunde
+Wetter: bedeckt, feucht, um 17 Grad  Wildbesatz: Federwild: gut / Haarwild: gut
 
 
-Nach Nennschluss eingehende Meldungen erfordern Mehrkosten von 50 Euro. Sollte eine Überweisung bis zum Nennschluss nicht eingegangen sein, so hat der Führer kein Anrecht auf Prüfung seines Hundes.
+Ergebnisse: 
 
-Das Nenngeld ist gleichzeitig mit der Nennung auf das Konto bei der Volksbank eG  
-IBAN DE51256916333588070800  
-BIC GENODEF1SUL  
-zu überweisen.
+{{<table "table table-dark table-striped table-bordered" >}}
+ | Name | Rasse | # | gewölft | Führer | Ort | Punkte | Preis |Laut |
+ | ---- | ----- |-|-------|------|---|------|---- |----|
+Pelle vom Bruchwald| PRT| 19242| 02.06.2019| Canan Otto| 29699 Walsrode| nicht bestanden | - | - 
+{{</table>}}
