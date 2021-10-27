@@ -9,7 +9,7 @@ tags: ["termin","pruefung", "vgp", "2021"]
 heroHeading: 'Verbandsgebrauchsprüfung mir Übernachtfährte'
 heroSubHeading: ''
 heroBackground: 'images/pruefungen/vgp4.jpg'
-onlineMeldung: 'https://japa4u.de/Events/?id=90'
+#onlineMeldung: 'https://japa4u.de/Events/?id=90'
 
 termin: "2021-10-16"
 tag: 16
@@ -21,39 +21,21 @@ monat: Oktober
 **Verbandsgebrauchsprüfung mit Übernachtfährte**  
 am Samstag/ Sonntag den **16./17. Oktober**
 
-Treffpunkt wird noch bekannt gegeben.  
-Übernachtfährte, Damwildschweiß getropft.  
+VGP am 16.10.2021 bis 17.10.2021 um Kirchdorf, gem. 6, ersch. 6, gepr. 6, präm. 6 Hunde
+Wetter: bedeckt, feucht, um 13 Grad  Wildbesatz: Federwild: sehr gut / Haarwild: sehr gut
 
-Verbeller / Verweiser +40 €  
-
-Fuchshindernis gem. VGPO,§11(1)c)  
-Stöbergelände gem. VGPO, §14(1)a  
-
-Prüfungsleiter: Jörg Holthus, Dörrieloh 79, 27259 Varrel, Tel. 01754110058  
-
-Gerichtet wird nach der derzeit gültigen Prüfungsordnung des JGHV.  
-
-Nenngeld = Reuegeld 120 Euro/140 Euro für Mitglieder/Nichtmitglieder  
-
-**Nennschluss 24.09.2021**
-
-Die Nennungen bitte Online, über den Klick auf den Button **Onlinemeldung** durchführen.
-
-Die ausgefüllte Nennung bitte zusätzlich Ausdrucken und unterschreiben.  
-
-Weiterhin ist eine Kopie der Ahnentafel und Kopien aller früheren absolvierten Verbandsprüfungen beizufügen und an die Geschäftsstelle:  
-
-Jörg Holthus  
-Dörrieloh 79  
-27259 Varrel  
-
-Tel. 0175/4110058 oder 04274/963961  
-holthus-jgvdh@t-online.de zu richten.
+Ergebnisse:  
+{{<table "table table-dark table-striped table-bordered" >}}
+  | Name | Rasse | # | gewölft | Führer | Ort | Punkte | Laut |
+  | ---- | ----- |-|-------|------|---|------|----|
+Cäthe vom Vernicher Feld| DD| 241388| 11.06.2019| Birgit Allkemper| 50389 Wesseling| 336 P.| I. Preis| fragl.
+Castor vom Vernicher Feld | DD| 241383| 11.06.2019| Bastian  Westhoven | 53619 Rheinbreitbach| 334 P.| I. Preis| fragl.
+Churchill vom Vernicher Feld| DD| 241384| 11.06.2019| Almut Teichmann| 36208 Wildeck| 332 P.| I. Preis| fragl.
+Okita vom Broel| DD| 239580| 05.02.2019| Simone Klingmüller| 53639 Königswinter| 317 P.| I. Preis| fragl.
+Hannes vom Lücken Reck| UK| 18-UK-6264| 29.10.2018| Sascha Schulte| 49586 Neuenkirchen| 324 P.| II. Preis| fragl.
+Eddy vom Dritten Herzog| UK| 19-UK-6378| 04.03.2019| Marion Ewers| 34396 Liebenau| 296 P.| II. Preis| fragl.
+{{</table>}}
 
 
-Nach Nennschluss eingehende Meldungen erfordern Mehrkosten von 50 Euro. Sollte eine Überweisung bis zum Nennschluss nicht eingegangen sein, so hat der Führer kein Anrecht auf Prüfung seines Hundes.
-
-Das Nenngeld ist gleichzeitig mit der Nennung auf das Konto bei der Volksbank eG  
-IBAN DE51256916333588070800  
-BIC GENODEF1SUL  
-zu überweisen.
+{{< load-photoswipe >}}
+{{< gallery dir="images/galleries/vgp2021_2"  thumb="-thumb" />}}

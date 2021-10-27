@@ -28,7 +28,7 @@ Ergebnisse:
   | ---- | ----- |-|-------|------|---|------|----|
   Bille von der Tüllheide|DL|101/20|12.02.2020|Uwe Schröder Sieck|49356 Diepholz|191 P.|fragl
   Jasper vom Wietensholt|DL|493/19|01.12.2019|Fiona Holthus|27259 Varrel|185 P.|fragl
-  Amie vom Homerfeld|DD|245183|28.11.2020|Cord-Hinrich Hespe|49406 Drentwede|183 P.|fragl
+  Amie vom Honerfeld|DD|245183|28.11.2020|Cord-Hinrich Hespe|49406 Drentwede|183 P.|fragl
   Fedor vom Rauhen-Busch|UK|20-UK-6743|14.04.2020|Jens-Hermann Laker|49356 Diepholz|178 P.|fragl
   Aron vom Lembrucher-Bruch|DD|242357|15.01.2020|Wilfried Ahrens|27249 Mellinghausen|178 P.|fragl
   Kyrago's Eden|UK|NHSB3209890|28.09.2020|Tom Kiewiet|9682RM Oostwold (NL)|nicht bestanden|-
