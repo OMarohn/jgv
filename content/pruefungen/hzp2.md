@@ -33,5 +33,4 @@ Frido vom Rauhen Busch| UK| 20-UK-6746| 14.04.2020| Marko Reinhold| 28816 Stuhr|
 {{</table>}}
 
 
-![Bild der Pruefung](/images/pruefungen/hzp2021-2.jpg)
-
+{{<figure class="no-photoswipe fullwidth" src="/images/pruefungen/hzp2021-2.jpg">}}

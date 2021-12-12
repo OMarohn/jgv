@@ -9,7 +9,7 @@ tags: ["termin","pruefung", "VSTP", "2021"]
 heroHeading: 'Verbandsstöberprüfung'
 heroSubHeading: ''
 heroBackground: 'images/gimli003.jpg'
-onlineMeldung: 'https://japa4u.de/Events/?id=101'
+#onlineMeldung: 'https://japa4u.de/Events/?id=101'
 
 termin: "2021-12-05"
 tag: 5
@@ -19,37 +19,22 @@ monat: Dezember
 ---
 
 **Verbandsstöberprüfung**  
-A: vom Stand geschnallt oder  
-B: vom Führer begleitet  
-am Sonntag den **05. Dezember**  
 
-Treffpunkt wird noch bekannt gegeben.  
+JGV Diepholz e.V.
 
-Prüfungsleiter: Jörg Holthus, Dörrieloh 79, 27259 Varrel, Tel. 01754110058  
+VStP am 05.12.2021 um Kirchdorf, gem. 4, ersch. 4, gepr. 4, präm. 4 Hunde
 
-Gerichtet wird nach der derzeit gültigen Prüfungsordnung des JGHV.  
+Wetter: bedeckt, feucht, um 5 Grad  Wildbesatz: Federwild: gut / Haarwild: gut
 
-Nenngeld = Reuegeld 120 Euro/140 Euro für Mitglieder/Nichtmitglieder  
-
-**Nennschluss 12.11.2021**
-
-Die Nennungen bitte Online, über den Klick auf den Button **Onlinemeldung** durchführen.
-
-Die ausgefüllte Nennung bitte zusätzlich Ausdrucken und unterschreiben.  
-
-Weiterhin ist eine Kopie der Ahnentafel und Kopien aller früheren absolvierten Verbandsprüfungen beizufügen und an die Geschäftsstelle:  
-
-Jörg Holthus  
-Dörrieloh 79  
-27259 Varrel  
-
-Tel. 0175/4110058 oder 04274/963961  
-holthus-jgvdh@t-online.de zu richten.
+Ergebnisse:  
+{{<table "table table-dark table-striped table-bordered" >}}
+  | Name | Rasse | # | gewölft | Führer | Ort | Punkte | Laut |
+  | ---- | ----- |-|-------|------|---|------|----|
+Espa vom Wolfethal| DL| 448/17| gew. 18.10.2017| Anja Jentsch| 38162 Cremlingen| 56 | spurlaut
+Fiete von der Moselhöhe| ECS| 0059/20| gew. 23.04.2020| Philipp Lehmkühler| 20251 Hamburg| 51  | spurlaut
+Henri von der Wehrquelle| PRT| 16080| gew. 07.03.2016 |Wolfgang-Bernd Josat| 49406 Eydelstedt| 46 | sichtlaut
+Erich vom Furlbachtal| UD| 20-UD-0916| gew. 01.07.2020 | Markus Sielbeck| 31613 Wietzen| 45 | sichtlaut
+{{</table>}}
 
 
-Nach Nennschluss eingehende Meldungen erfordern Mehrkosten von 50 Euro. Sollte eine Überweisung bis zum Nennschluss nicht eingegangen sein, so hat der Führer kein Anrecht auf Prüfung seines Hundes.
-
-Das Nenngeld ist gleichzeitig mit der Nennung auf das Konto bei der Volksbank eG  
-IBAN DE51256916333588070800  
-BIC GENODEF1SUL  
-zu überweisen.
+{{<figure class="no-photoswipe fullwidth" src="/images/pruefungen/vstp2021.jpg">}}

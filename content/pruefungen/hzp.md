@@ -37,5 +37,4 @@ Ergebnisse:
 {{</table>}}
 
 
- ![Bild der Pruefung](/images/pruefungen/hzp2021.jpg)
-
+{{<figure class="no-photoswipe fullwidth" src="/images/pruefungen/hzp2021.jpg">}}

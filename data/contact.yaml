@@ -8,15 +8,15 @@ vorsitzender:
   phone: '04273/553'
   fax: '04273/1809'
   mobile: '0172/2786638'
-  email: 'vorsitzender@jgv-diepholz.de'
+  email: 'tiedemann@t-online.de'
 
 vorsitzender2:
   position: '2. Vorsitzender'
-  businessName: 'Ewald Beuke'
+  businessName: 'Bernhard Winalke'
   address:
-    street: 'Alter Damm 9'
-    city: '27245 Barenburg'
-  phone: '04273/1666'
+    street: 'Am Speckenbach 59'
+    city: '27246 Borstel - Bockhop'
+  phone: '04276/ 223'
 
 geschaeftsfueher:
   position: 'Geschäftsführer'
