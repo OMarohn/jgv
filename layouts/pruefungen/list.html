@@ -17,6 +17,20 @@
 </div>
 {{ end }}
 
+<!-- @todo fixen: Auf dem einigen mobile devices nicht zusehen-->
+{{ if .Params.current}}
+<div class="container main-menu">
+  <ul >
+  {{ range .Params.current}}
+    <li class="menu-item">
+    <a href="{{.}}">
+      <span>{{ . }}</span>
+    </a>
+  </li>  {{ end }}
+  </div>
+</ul>
+{{ end }}
+
 
 <div class="container pb-6 pt-6 pb-md-10 pt-md-10">
   <div class="row">

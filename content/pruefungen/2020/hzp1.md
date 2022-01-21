@@ -4,7 +4,7 @@ date: 2019-03-08T15:15:34+10:00
 icon: 'services/service-icon-4.png'
 featured: true
 draft: false
-tags: ["termin","pruefung", "HZP"]
+tags: ["termin","pruefung", "HZP", "2020"]
 
 heroHeading: 'Verbands Herbstzuchtprüfung'
 heroSubHeading: ''

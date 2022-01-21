@@ -4,7 +4,7 @@ date: 2020-09-10T13:13:22+01:00
 icon: 'services/service-icon-4.png'
 featured: true
 draft: false
-tags: ["termin","pruefung","VSP"]
+tags: ["termin","pruefung","VSP", "2020"]
 heroHeading: 'Verbands Stöberprüfung'
 heroSubHeading: ''
 heroBackground: 'services/service2.jpg'

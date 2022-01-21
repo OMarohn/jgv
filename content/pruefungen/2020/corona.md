@@ -4,7 +4,7 @@ date: 2020-03-15T13:13:22+01:00
 icon: 'services/service-icon-4.png'
 featured: true
 draft: false
-tags: ["termin","pruefung"]
+tags: ["termin","pruefung", "2020"]
 heroHeading: 'Spurarbeit 2020'
 heroSubHeading: ''
 heroBackground: 'services/service2.jpg'

@@ -1,29 +1,29 @@
 ---
-title: "VJP 2022"
+title: "VJP 2021"
 date: 2021-02-03:13:22+01:00
 icon: 'services/service-icon-4.png'
 featured: true
 draft: false
-tags: ["termin","pruefung","VJP", "2022"]
+tags: ["termin","pruefung","VJP", "2021"]
 
 heroHeading: 'Verbandsjugendprüfung'
 heroSubHeading: ''
 heroBackground: 'services/service2.jpg'
-onlineMeldung: 'https://japa4u.de/Events/?id=104'
+onlineMeldung: 'https://japa4u.de/Events/?id=87'
 
-termin: "2022-04-09"
-tag: 09
+termin: "2021-04-03"
+tag: 03
 wochentag: Samstag
 monat: April
 ---
 
 **Verbandsjugendprüfung**  
 
-Am Samstag, den 09. April  
+Am Samstag, den 03. April  
 Treffpunkt wird noch bekannt gegeben.  
 
 Nenngeld = Reuegeld 70 Euro/90 Euro für Mitglieder/Nichtmitglieder  
-**Nennschluss 25.03.2022**  
+**Nennschluss 24.03.2021**  
 
 Die Nennungen bitte Online, über den Klick auf den Button **Onlinemeldung** durchführen.  
 
