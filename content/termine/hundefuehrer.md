@@ -8,15 +8,13 @@ tags: ["termin", "Lehrgang"]
 heroHeading: 'Hundeführerlehrgang'
 heroSubHeading: ''
 heroBackground: 'images/ausbildungdackel.jpg'
-tag: 1
-wochentag: Donnerstag 
+tag: 24
+wochentag: Sonntag 
 monat: April
 ---
 
 Neuer Hundeführerlehrgang für Jagdhunde
 
-**Voraussichtlicher Beginn im April 2022**
+**Anmeldung**
 
-Interessierte werden gebeten sich telefonisch (0172/2786638) oder per Mail (tiedemannh@t-online.de) mit dem Lehrgangsleiter Heinrich Tiedemann in Verbindung zu setzen.  
-Nähere Informationen und Anmeldungern sind ab sofort bei Heinrich Tiedemann unter 0172 2786638 oder unter E-mail: tiedemann@t-online.de möglich.
-
+Die Anmeldung zum Hundeführerlehrgang ist am 24.04.22 ab 10.00 Uhr im **Gasthaus zur Mühle in Kuppendorf**.
