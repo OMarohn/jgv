@@ -24,6 +24,8 @@ am Samstag/ Sonntag den **15./16. Oktober** um Kirchdorf
 
 Treffpunkt: Wird noch bekannt gegeben. 15.10.22  13.00 Uhr 
 
+Nenngeld Mitglieder/ Nicht Mitglieder: 120€ / 140€
+
 Übernachtfährte, Damwildschweiß getropft
 
 Verbeller / Verweiser +40 €

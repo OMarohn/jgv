@@ -22,6 +22,8 @@ monat: Dezember
 
 Treffpunkt: Wird noch bekannt gegeben
 
+Nenngeld Mitglieder/ Nicht Mitglieder: 120€ / 140€
+
 Prüfungsleiter: Jörg Holthus, Dörrieloh 79, 27259 Varrel, Tel. 01754110058
 
 Gerichtet wird nach der derzeit gültigen Prüfungsordnung des JGHV.  Vereinsmitglieder haben Vorrang.

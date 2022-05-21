@@ -23,6 +23,8 @@ am Samstag/ Sonntag den **08./09. Oktober**
 
 Treffpunkt: Wird noch bekannt gegeben 
 
+Nenngeld Mitglieder/ Nicht Mitglieder: 120€ / 140€
+
 Übernachtfährte, Damwildschweiß getropft
 
 Verbeller / Verweiser +40 €

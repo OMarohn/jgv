@@ -21,6 +21,8 @@ monat: September
 
 Treffpunkt: Wird noch bekannt gegeben.   7.00 Uhr
 
+Nenngeld Mitglieder/ Nicht Mitglieder: 100€ / 120€ 
+
 Prüfungsleiter: Jörg Holthus, Dörrieloh 79, 27259 Varrel, Tel. 01754110058
 
 Gerichtet wird nach der derzeit gültigen Prüfungsordnung des JGHV.  Vereinsmitglieder haben Vorrang.

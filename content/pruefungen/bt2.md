@@ -25,6 +25,8 @@ Btr am 16.10.22 um Kirchdorf
 
 Treffpunkt: wird noch bekannt gegeben.
 
+Nenngeld Mitglieder/ Nicht Mitglieder: 40€ / 50€
+
 Prüfungsleiter: Jörg Holthus, Dörrieloh 79, 27259 Varrel, Tel. 01754110058
 
 Gerichtet wird nach der derzeit gültigen Prüfungsordnung des JGHV. Nenngeld 40,00 Euro/50 Euro für Mitglieder/Nichtmitglieder. Mitglieder haben Vorrang.
