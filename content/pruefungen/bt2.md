@@ -22,10 +22,13 @@ monat: Oktober
 
 Btr am 16.10.22 um Kirchdorf
 
-
 Treffpunkt: wird noch bekannt gegeben.
 
 Nenngeld Mitglieder/ Nicht Mitglieder: 40€ / 50€
+
+Nennschluss: 24.09.2022
+
+2 - 8 Hunde
 
 Prüfungsleiter: Jörg Holthus, Dörrieloh 79, 27259 Varrel, Tel. 01754110058
 
@@ -35,4 +38,3 @@ Das Nenngeld ist gleichzeitig mit der Nennung auf das Konto bei der Volksbank eG
 IBAN DE51256916333588070800  
 BIC GENODEF1SUL  
 zu überweisen.  
-

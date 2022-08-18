@@ -18,14 +18,17 @@ monat: Oktober
 
 ---
 
-**Bringtreueprüfung**  
+**Bringtreueprüfung**
 
 Btr am 09.10.22 um Kirchdorf
-
 
 Treffpunkt: wird noch bekannt gegeben.
 
 Nenngeld Mitglieder/ Nicht Mitglieder: 40€ / 50€
+
+Nennschluss: 17.09.2022
+
+2 - 8 Hunde
 
 Prüfungsleiter: Jörg Holthus, Dörrieloh 79, 27259 Varrel, Tel. 01754110058
 

@@ -21,10 +21,13 @@ monat: Oktober
 **Verbandsgebrauchsprüfung mit Übernachtfährte**  
 am Samstag/ Sonntag den **08./09. Oktober** um Kirchdorf
 
-
-Treffpunkt: Wird noch bekannt gegeben. 08.10.22  08.00 Uhr 
+Treffpunkt: Wird noch bekannt gegeben. 08.10.22  08.00 Uhr
 
 Nenngeld Mitglieder/ Nicht Mitglieder: 120€ / 140€
+
+Nennschluss: 17.09.2022
+
+3 - 8 Hunde
 
 Übernachtfährte, Damwildschweiß getropft
 
@@ -32,7 +35,7 @@ Verbeller / Verweiser +40 €
 
 Stöbergelände gem. VGPO,§14(1)a)
 
-Fuchshindernis gem. VGPO,§11(1)c)       
+Fuchshindernis gem. VGPO,§11(1)c)
 
 Prüfungsleiter: Jörg Holthus, Dörrieloh 79, 27259 Varrel, Tel. 01754110058
 
@@ -41,4 +44,4 @@ Gerichtet wird nach der derzeit gültigen Prüfungsordnung des JGHV.  Vereinsmit
 Das Nenngeld ist gleichzeitig mit der Nennung auf das Konto bei der Volksbank eG  
 IBAN DE51256916333588070800  
 BIC GENODEF1SUL  
-zu überweisen.  
+zu überweisen.

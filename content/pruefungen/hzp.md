@@ -18,10 +18,13 @@ monat: September
 
 **HZP 2022**
 
-
 Treffpunkt: Wird noch bekannt gegeben.   7.00 Uhr
 
-Nenngeld Mitglieder/ Nicht Mitglieder: 100€ / 120€ 
+Nenngeld Mitglieder/ Nicht Mitglieder: 100€ / 120€
+
+Nennschluss: 03.09.2022
+
+3 - 12 Hunde
 
 Prüfungsleiter: Jörg Holthus, Dörrieloh 79, 27259 Varrel, Tel. 01754110058
 
@@ -30,4 +33,4 @@ Gerichtet wird nach der derzeit gültigen Prüfungsordnung des JGHV.  Vereinsmit
 Das Nenngeld ist gleichzeitig mit der Nennung auf das Konto bei der Volksbank eG  
 IBAN DE51256916333588070800  
 BIC GENODEF1SUL  
-zu überweisen.  
+zu überweisen.
