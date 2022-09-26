@@ -20,6 +20,20 @@
 
 {{ partial "hero-image-fullscreen.html" (dict "background" .Params.heroBackground "heading" .Params.heroHeading "subheading" .Params.heroSubHeading "content" .)}}
 
+{{ if .Params.heroToastMsg }}
+{{ $anzeigenBis := time .Params.heroToastUntil }}
+{{ if now.Before $anzeigenBis }}
+<div class="toastContainer">
+  <div class="toastHeadline">
+    {{ .Params.heroToastTitle | safeHTML}}
+    <div class="toastMessage"></div>
+      {{ .Params.heroToastMsg | safeHTML}}
+    </div>
+  </div>
+</div>
+{{ end }}
+{{end}} 
+
 {{ $headless := .Site.GetPage "/homepage" }}
 {{ $reusablePages := $headless.Resources.ByType "page" }}
 {{ $reusablePages := sort $reusablePages ".Params.weight" }}

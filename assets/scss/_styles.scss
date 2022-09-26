@@ -54,3 +54,53 @@
 .fullwidth img {
     width: 100%;
 }
+
+.toastContainer {
+    opacity: 1;
+    color: black;
+    background-color: rgba(200,50,50,0.5);
+    position: fixed;
+    bottom: 50%;
+    left: 50%;
+    border: 1px solid#130505;
+    border-radius: 0.25rem;
+    box-shadow: 0 0 0.75rem rgba(255, 245, 245, 0.2);
+
+    transform: translateX(-50%);
+
+    animation-name: fadeout;
+    animation-duration: 1s;
+    animation-timing-function: linear;
+    animation-fill-mode: forwards;
+    animation-delay: 10s;
+    animation-iteration-count:1;
+    animation-play-state: running;
+     
+    -webkit-animation-name: fadeout;
+    -webkit-animation-duration: 1s;
+    -webkit-animation-timing-function: linear;
+    -webkit-animation-fill-mode: forwards;
+    -webkit-animation-delay: 10s;
+    -webkit-animation-iteration-count: 1;
+    -webkit-animation-play-state: running;
+}
+
+.toastHeadline {
+    font-size: larger;
+}
+
+.toastMessage {
+    padding: 0.75rem;
+    display: block;
+    height: auto;
+}
+
+@keyframes fadeout{
+    from {opacity:1;height: auto;}
+    to {opacity:0;height: auto;}
+}
+    
+@-webkit-keyframes fadeout{
+    from {opacity:1;height: auto;}
+    to {opacity:0;height: auto;}
+}
