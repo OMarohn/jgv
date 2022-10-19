@@ -9,7 +9,7 @@ tags: ["termin","pruefung", "vgp", "2022"]
 heroHeading: 'Verbandsgebrauchsprüfung mir Übernachtfährte'
 heroSubHeading: ''
 heroBackground: 'images/pruefungen/vgp4.jpg'
-onlineMeldung: 'https://japa4u.de/Events/?id=110'
+#onlineMeldung: 'https://japa4u.de/Events/?id=110'
 
 termin: "2022-10-15"
 tag: 15
@@ -21,27 +21,22 @@ monat: Oktober
 **Verbandsgebrauchsprüfung mit Übernachtfährte**  
 am Samstag/ Sonntag den **15./16. Oktober** um Kirchdorf
 
-Treffpunkt: Wird noch bekannt gegeben. 15.10.22  13.00 Uhr
+VGP am 15.10.2022 bis 16.10.2022 um Kirchdorf, gem. 5, ersch. 5, gepr. 5, präm. 5 Hunde
 
-Nenngeld Mitglieder/ Nicht Mitglieder: 120€ / 140€
+Wetter: bedeckt, feucht, um 11 Grad
 
-Nennschluss: 24.09.2022
+Wildbesatz: Federwild: gut / Haarwild: gut
 
-3 - 8 Hunde
+Ergebnisse:  
+{{<table "table table-dark table-striped table-bordered" >}}
+  | Name | Rasse | # | gewölft | Führer | Ort | Punkte | Preis | Laut |
+  | ---- | ----- |-|-------|------|---|------|----|----|
+Dante von der Hahnenweide| UK| 19-UK-6347| 08.03.2019| Elias Kernetzky| 34513 Waldeck| 325 | I. | fragl.
+Reed von Neibur| UK| 21-UK-6966| 27.02.2021| Stefan Wille genannt Niebur| 19086 Plate| 326 | II. | fragl.
+Amie vom Honerfeld| DD| 245183| 28.11.2020| Cord-Hinrich Hespe| 49406 Drentwede| 323 | II. | fragl.
+Deks| UK| JR-73457 Mv| 30.04.2021| Linus Wille genannt Niebur| 19086 Plate| 319 | II. | fragl.
+Arko vom Lembrucher Bruch| DD| 242356| 15.01.2020| Erik Langhorst| 49459 Lembruch| 316 | II. | fragl.
+{{</table>}}
 
-Übernachtfährte, Damwildschweiß getropft
-
-Verbeller / Verweiser +40 €
-
-Stöbergelände gem. VGPO,§14(1)a)
-
-Fuchshindernis gem. VGPO,§11(1)c)
-
-Prüfungsleiter: Jörg Holthus, Dörrieloh 79, 27259 Varrel, Tel. 01754110058
-
-Gerichtet wird nach der derzeit gültigen Prüfungsordnung des JGHV.  Vereinsmitglieder haben Vorrang.
-
-Das Nenngeld ist gleichzeitig mit der Nennung auf das Konto bei der Volksbank eG  
-IBAN DE51256916333588070800  
-BIC GENODEF1SUL  
-zu überweisen.
+{{< load-photoswipe >}}
+{{< gallery dir="images/galleries/vgp2022_2"  thumb="_thumb" />}}

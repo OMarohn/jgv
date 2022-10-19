@@ -9,7 +9,7 @@ tags: ["termin","pruefung", "vgp", "2022"]
 heroHeading: 'Verbandsgebrauchsprüfung mir Übernachtfährte'
 heroSubHeading: ''
 heroBackground: 'images/pruefungen/vgp4.jpg'
-onlineMeldung: 'https://japa4u.de/Events/?id=107'
+#onlineMeldung: 'https://japa4u.de/Events/?id=107'
 
 termin: "2022-10-08"
 tag: 8
@@ -21,27 +21,16 @@ monat: Oktober
 **Verbandsgebrauchsprüfung mit Übernachtfährte**  
 am Samstag/ Sonntag den **08./09. Oktober** um Kirchdorf
 
-Treffpunkt: Wird noch bekannt gegeben. 08.10.22  08.00 Uhr
+VGP am 08.10.2022 bis 09.10.2022 um Kirchdorf, gem. 2, ersch. 2, gepr. 1, präm. 1 Hunde
 
-Nenngeld Mitglieder/ Nicht Mitglieder: 120€ / 140€
+Wetter: regnerisch, feucht, um 15 Grad  Wildbesatz: Federwild: sehr gut / Haarwild: gut
 
-Nennschluss: 17.09.2022
+Ergebnisse:  
+{{<table "table table-dark table-striped table-bordered" >}}
+  | Name | Rasse | # | gewölft | Führer | Ort | Punkte | Preis | Laut |
+  | ---- | ----- |-|-------|------|---|------|----|----|
+Utazo Opal| UK| PKR.VII-19182D| 12.08.2020 | Daniela Marks| 28844 Weyhe-Dreye| 319 | I. Preis| fragl.
+Ferro zu Barbrake| UK| 19-UK-6320| 03.02.2019 Holger Herde| 47877 Willich| - P.| nicht bestanden
+{{</table>}}
 
-3 - 8 Hunde
-
-Übernachtfährte, Damwildschweiß getropft
-
-Verbeller / Verweiser +40 €
-
-Stöbergelände gem. VGPO,§14(1)a)
-
-Fuchshindernis gem. VGPO,§11(1)c)
-
-Prüfungsleiter: Jörg Holthus, Dörrieloh 79, 27259 Varrel, Tel. 01754110058
-
-Gerichtet wird nach der derzeit gültigen Prüfungsordnung des JGHV.  Vereinsmitglieder haben Vorrang.
-
-Das Nenngeld ist gleichzeitig mit der Nennung auf das Konto bei der Volksbank eG  
-IBAN DE51256916333588070800  
-BIC GENODEF1SUL  
-zu überweisen.
+{{<figure class="no-photoswipe fullwidth" src="/images/pruefungen/vgp2022_1.jpg">}}

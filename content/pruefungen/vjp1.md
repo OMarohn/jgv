@@ -22,7 +22,6 @@ monat: April
 VJP am 09.04.2022 um Kirchdorf, gem. 11, ersch. 11, gepr. 11, präm. 11 Hunde
 Wetter: bedeckt, feucht, um 5 Grad  Wildbesatz: Federwild: gut / Haarwild: sehr gut
 
-
 {{<table "table table-dark table-striped table-bordered" >}}
  | Name | Rasse | # | gewölft | Führer | Ort | Punkte | Laut |
   | ---- | ----- |-|-------|------|---|------|----|

@@ -5,3 +5,5 @@ heroHeading: 'Termine'
 heroSubHeading: 'allgemeine Termine '
 heroBackground: 'images/wasser001.jpg'
 ---
+
+Zurzeit keine Termine bekannt.

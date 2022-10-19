@@ -3,7 +3,7 @@ title: "Hundeführerlehrgang"
 date: 2019-07-17T08:53:26+01:00
 icon: 'services/service-icon-4.png'
 featured: true
-draft: false
+draft: true
 tags: ["termin", "Lehrgang"]
 heroHeading: 'Hundeführerlehrgang'
 heroSubHeading: ''

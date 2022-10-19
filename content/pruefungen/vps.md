@@ -9,7 +9,7 @@ tags: ["termin","pruefung", "VPS", "2022"]
 heroHeading: 'Verbandsprüfung nach dem Schuß'
 heroSubHeading: ''
 heroBackground: 'images/gimli003.jpg'
-onlineMeldung: 'https://japa4u.de/Events/?id=108'
+#onlineMeldung: 'https://japa4u.de/Events/?id=108'
 
 termin: "2022-10-08"
 tag: 8
@@ -21,25 +21,17 @@ monat: Oktober
 **Verbandsprüfung nach dem Schuß**  
 am Samstag/ Sonntag den **08./09. Oktober**
 
-Treffpunkt: Wird noch bekannt gegeben
+VPS am 08.10.2022 um Kirchdorf, gem. 2, ersch. 2, gepr. 2, präm. 2 Hunde
 
-Nenngeld Mitglieder/ Nicht Mitglieder: 120€ / 140€
+Wetter: regnerisch, feucht, um 15 Grad  Wildbesatz: Federwild: sehr gut / Haarwild: gut
 
-Nennschluss: 24.09.2022
+Ergebnisse:  
+{{<table "table table-dark table-striped table-bordered" >}}
+  | Name | Rasse | # | gewölft | Führer | Ort | Punkte | Preis | Laut |
+  | ---- | ----- |-|-------|------|---|------|----|----|
+Fairbanks v. Hülser Bruch| LabR| VDH/LCD17/Y0959| 18.06.2017| Julia Albuschat| 23560 Lübeck| 190 | II. | fragl.
+Cerunnos Rollercoaster| ECS| 106/C21| 16.05.2021| Silke Warneke| 27232 Sulingen| 181 | II. | fragl.
+{{</table>}}
 
-3 - 8 Hunde
-
-Übernachtfährte, Damwildschweiß getropft
-
-Verbeller / Verweiser +40 €
-
-Stöbergelände gem. VPSO,§14(1)a)
-
-Prüfungsleiter: Jörg Holthus, Dörrieloh 79, 27259 Varrel, Tel. 01754110058
-
-Gerichtet wird nach der derzeit gültigen Prüfungsordnung des JGHV.  Vereinsmitglieder haben Vorrang.
-
-Das Nenngeld ist gleichzeitig mit der Nennung auf das Konto bei der Volksbank eG  
-IBAN DE51256916333588070800  
-BIC GENODEF1SUL  
-zu überweisen.
+{{< load-photoswipe >}}
+{{< gallery dir="images/galleries/vps2022_1"  thumb="_thumb" />}}
