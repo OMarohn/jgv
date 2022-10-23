@@ -9,7 +9,7 @@ tags: ["termin","pruefung", "VSTP", "2022"]
 heroHeading: 'Verbandsstöberprüfung'
 heroSubHeading: ''
 heroBackground: 'images/gimli003.jpg'
-onlineMeldung: 'https://japa4u.de/Events/?id=113'
+#onlineMeldung: 'https://japa4u.de/Events/?id=113'
 
 termin: "2022-12-04"
 tag: 4
@@ -25,6 +25,8 @@ Treffpunkt: Wird noch bekannt gegeben
 Nenngeld Mitglieder/ Nicht Mitglieder: 120€ / 140€
 
 Nennschluss: 12.11.2022
+
+{{<figure class="no-photoswipe" src="/images/pruefungen/ausgebucht.png">}}
 
 3 - 8 Hunde
 
