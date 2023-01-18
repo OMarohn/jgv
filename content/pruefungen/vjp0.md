@@ -1,43 +1,52 @@
 ---
-title: "VJP 2022"
+title: "VJP 2023"
 date: 2021-02-03:13:22+01:00
 icon: 'services/service-icon-4.png'
 featured: true
 draft: false
-tags: ["termin","pruefung","VJP", "2022"]
+tags: ["termin","pruefung","VJP", "2023"]
 
 heroHeading: 'Verbandsjugendprüfung'
 heroSubHeading: ''
 heroBackground: 'services/service2.jpg'
+onlineMeldung: 'https://japa4u.de/Events/?id=126'
 
-termin: "2022-03-27"
-tag: 27
+termin: "2023-04-15"
+tag: 15
 wochentag: Sonntag
-monat: März
+monat: April
 ---
+
 
 **Verbandsjugendprüfung**  
 
-VJP am 27.03.2022 um Kirchdorf, gem. 10, ersch. 10, gepr. 10, präm. 10 Hunde
-Wetter: bedeckt, feucht, um 6 Grad  Wildbesatz: Federwild: gut / Haarwild: gut
+Am Samstag, den 15. April  
 
+Treffpunkt wird noch bekannt gegeben.  
 
-{{<table "table table-dark table-striped table-bordered" >}}
- | Name | Rasse | # | gewölft | Führer | Ort | Punkte | Laut |
-  | ---- | ----- |-|-------|------|---|------|----|
-Rio von Neibur| UK| 21-UK-6968| 27.02.2021 | Michael Gettkant| 32479 Hille| 73 | fragl
-Carlo vom Ellerkhof| UK| 21-UK-7091| 14.06.2021 |Hilmar Meyer| 28844 Weyhe| 72 | fragl
-Gitta zu Barbrake gen. Gesa| UK| 20-UK-6848| 16.10.2020 |Dr. Nicolin Niebuhr| 27330 Asendorf| 71 | fragl
-Quina vom Westerbach| UK| 21-UK-6943| 23.02.2021 | Martin Thöben| 38154 Königslutter| 71 | fragl
-Anissa zum Franzosenstein| UD| 21-UD-1025| 23.04.2021 | Gerd Sandmann| 27259 Wehrbleck| 71 | fragl
-Elfi von der Bodenteicher Heide| UK| 21-UK-6898| 15.01.2021 |Marco Lüttgau| 38268 Lengede| 71 | fragl
-Duart vom Wohlenberg| W| 373/21| 25.05.2021 |Christina Law-McLean| 28844 Weyhe| 70 | fragl
-Gisca v. Rauhen-Busch| UK| 21-UK-7054| 24.05.2021 |Quinten Kröger| 27239 Twistringen| 70 | sil
-Gerry II vom Rauhen-Busch| UK| 21-UK-7052| 24.05.2021 | Oliver Marohn| 27254 Staffhorst| 70 | fragl
-Riane von Neibur (Rufnahme Lisbeth)| UK| 21-UK-6969| 27.02.2021 |Thomas Ammermann| 26802 Moormerland| 59 | fragl
-{{</table>}}
+Prüfungsleiter: Jörg Holthus
 
-Bei Punktgleichheit werden die Hunde in folgender Reihenfolge eingestuft:
-Härte - Laut (spurlaut – sichtlaut) – Gehorsam - Alter
+Gerichtet wird nach der derzeit gültigen Prüfungsordnung des JGHV.
 
-{{<figure class="no-photoswipe fullwidth" src="/images/pruefungen/vjp2022_0.jpg">}}
+Nenngeld = Reuegeld 70 Euro/90 Euro für Mitglieder/Nichtmitglieder  
+
+Nennungen werden erst mit Eingang des Nenngeldes berücksichtigt. Hundeführer, die **vor** Nennschluss zurück ziehen wird das Nenngeld erstattet.
+
+Die Nennungen bitte Online, über den Klick auf den Button **Onlinemeldung** durchführen.  
+
+Die ausgefüllte Nennung bitte zusätzlich Ausdrucken und unterschreiben.  
+
+Weiterhin ist eine Kopie der Ahnentafel und Kopien aller früheren absolvierten Verbandsprüfungen beizufügen und an die Geschäftsstelle:  
+
+Jörg Holthus  
+Dörrieloh 79  
+27259 Varrel  
+Tel. 0175/4110058 oder 04274/963961  
+holthus-jgvdh@t-online.de zu richten.  
+
+Nach Nennschluss eingehende Meldungen erfordern Mehrkosten von 50 Euro. Sollte eine Überweisung bis zum Nennschluss nicht eingegangen sein, so hat der Führer kein Anrecht auf Prüfung seines Hundes.  
+
+Das Nenngeld ist gleichzeitig mit der Nennung auf das Konto bei der Volksbank eG  
+IBAN DE51256916333588070800  
+BIC GENODEF1SUL  
+zu überweisen.  
