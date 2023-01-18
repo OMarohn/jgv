@@ -30,6 +30,8 @@ Gerichtet wird nach der derzeit gültigen Prüfungsordnung des JGHV.
 
 Nenngeld = Reuegeld 70 Euro/90 Euro für Mitglieder/Nichtmitglieder  
 
+**Nennschluss 24.03.2023**
+
 Nennungen werden erst mit Eingang des Nenngeldes berücksichtigt. Hundeführer, die **vor** Nennschluss zurück ziehen wird das Nenngeld erstattet.
 
 Die Nennungen bitte Online, über den Klick auf den Button **Onlinemeldung** durchführen.  
