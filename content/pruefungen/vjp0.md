@@ -28,7 +28,9 @@ Prüfungsleiter: Jörg Holthus
 
 Gerichtet wird nach der derzeit gültigen Prüfungsordnung des JGHV.
 
-Nenngeld = Reuegeld 70 Euro/90 Euro für Mitglieder/Nichtmitglieder  
+Nenngeld = Reuegeld 70 Euro/90 Euro für Mitglieder/Nichtmitglieder
+
+Für die Schussfestigkeit bitte **bleifreie** Schrotmunition mitbringen. 
 
 **Nennschluss 24.03.2023**
 

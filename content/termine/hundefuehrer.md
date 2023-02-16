@@ -3,7 +3,7 @@ title: "Hundeführerlehrgang"
 date: 2019-07-17T08:53:26+01:00
 icon: 'services/service-icon-4.png'
 featured: true
-draft: true
+draft: false
 tags: ["termin", "Lehrgang"]
 heroHeading: 'Hundeführerlehrgang'
 heroSubHeading: ''
@@ -17,4 +17,4 @@ Neuer Hundeführerlehrgang für Jagdhunde
 
 **Anmeldung**
 
-Die Anmeldung zum Hundeführerlehrgang ist am 24.04.22 ab 10.00 Uhr im **Gasthaus zur Mühle in Kuppendorf**.
+Die Anmeldung zum Hundeführerlehrgang ist am 30.04.23 ab 10.00 Uhr auf dem **Heideparkplatz, Kirchdorfer Heide**.
