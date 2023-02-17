@@ -20,6 +20,6 @@ monat: Oktober
 
 **Verbandsgebrauchsprüfung mit Übernachtfährte**
 
-am Samstag/ Sonntag den **15./15. Oktober**
+am Samstag/ Sonntag den **14./15. Oktober**
 
 **Weitere Informationen folgen!**
