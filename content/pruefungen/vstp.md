@@ -1,30 +1,26 @@
 ---
-title: 'VGP 2023'
+title: 'VStP 2023'
 date: 2021-02-03T15:15:34+10:00
 icon: 'services/service-icon-4.png'
 featured: true
 draft: false
-tags: ["termin","pruefung", "vgp", "2023"]
+tags: ["termin","pruefung", "VStP", "2023"]
 
-heroHeading: 'Verbandsgebrauchsprüfung mir Übernachtfährte'
+heroHeading: 'Verbandsstöberprüfung'
 heroSubHeading: ''
-heroBackground: 'images/pruefungen/vgp4.jpg'
-onlineMeldung: 'https://japa4u.de/Events/?id=212'
+heroBackground: 'images/gimli003.jpg'
+onlineMeldung: 'https://japa4u.de/Events/?id=221'
 
-termin: "2023-09-30"
-tag: 30
-wochentag: Samstag
-monat: September
+termin: "2023-12-03"
+tag: 03
+wochentag: Sonntag
+monat: Dezember
 
 ---
 
-**Fritz-Scheland-Gedächtnis Verbandsgebrauchsprüfung mit Übernachtfährte**
+**Verbandsstöberprüfung - vom Führer begleitet oder vom Stand geschnallt**
 
-am Samstag/ Sonntag den **30. September/01. Oktober**
-
-**HZP ohne Spurarbeit**
-
-Am Samstag, den 16. September  
+am Sonntag den **03. Dezember**
 
 Veranstaltungsort und Uhrzeit werden mit der Einladung zur Prüfung mitgeteilt.
 
@@ -32,17 +28,11 @@ Prüfungsleiter: Jörg Holthus
 
 Gerichtet wird nach der derzeit gültigen Prüfungsordnung des JGHV.
 
-§ 11 (1) c). Arbeit am geflügelten Huhn möglich.
-
-Damwildschweiß, getropft
-
 Nenngeld = Reuegeld 120 Euro/140 Euro für Mitglieder/Nichtmitglieder
-
-Verbeller/Verweise + 40 Euro
 
 Bitte **bleifreie** Schrotmunition mitbringen!
 
-**Nennschluss 01.09.2023**
+**Nennschluss 03.11.2023**
 
 Nennungen werden erst mit Eingang des Nenngeldes berücksichtigt. Hundeführer, die **vor** Nennschluss zurück ziehen wird das Nenngeld erstattet.
 
@@ -67,4 +57,4 @@ Nach Nennschluss eingehende Meldungen erfordern Mehrkosten von 50 Euro. Sollte e
 Das Nenngeld (Reuegeld) ist gleichzeitig mit der Nennung auf das Konto bei der Volksbank eG  
 IBAN DE51256916333588070800  
 BIC GENODEF1SUL  
-zu überweisen.
+zu überweisen.  
