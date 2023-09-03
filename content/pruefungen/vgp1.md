@@ -22,10 +22,6 @@ monat: September
 
 am Samstag/ Sonntag den **30. September/01. Oktober**
 
-**HZP ohne Spurarbeit**
-
-Am Samstag, den 16. September  
-
 Veranstaltungsort und Uhrzeit werden mit der Einladung zur Prüfung mitgeteilt.
 
 Prüfungsleiter: Jörg Holthus
