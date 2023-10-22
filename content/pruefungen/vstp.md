@@ -22,6 +22,9 @@ monat: Dezember
 
 am Sonntag den **03. Dezember**
 
+{{<figure class="no-photoswipe" src="/images/pruefungen/ausgebucht.png">}}
+
+
 Veranstaltungsort und Uhrzeit werden mit der Einladung zur Prüfung mitgeteilt.
 
 Prüfungsleiter: Jörg Holthus
