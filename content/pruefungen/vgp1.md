@@ -9,7 +9,7 @@ tags: ["termin","pruefung", "vgp", "2023"]
 heroHeading: 'Verbandsgebrauchsprüfung mir Übernachtfährte'
 heroSubHeading: ''
 heroBackground: 'images/pruefungen/vgp4.jpg'
-onlineMeldung: 'https://japa4u.de/Events/?id=212'
+#onlineMeldung: 'https://japa4u.de/Events/?id=212'
 
 termin: "2023-09-30"
 tag: 30
@@ -18,49 +18,20 @@ monat: September
 
 ---
 
-**Fritz-Scheland-Gedächtnis Verbandsgebrauchsprüfung mit Übernachtfährte**
+**Verbandsgebrauchsprüfung mir Übernachtfährte**
 
 am Samstag/ Sonntag den **30. September/01. Oktober**
 
-Veranstaltungsort und Uhrzeit werden mit der Einladung zur Prüfung mitgeteilt.
+VGP am 30.09.2022 bis 01.10.2022 um Kirchdorf, gem. 2, ersch. 2, gepr. 2, präm. 2 Hunde
 
-Prüfungsleiter: Jörg Holthus
+Wetter: regnerisch, feucht, um 15 Grad  Wildbesatz: Federwild: sehr gut / Haarwild: gut
 
-Gerichtet wird nach der derzeit gültigen Prüfungsordnung des JGHV.
+Ergebnisse:  
+{{<table "table table-dark table-striped table-bordered" >}}
+  | Name | Rasse | # | gewölft | Führer | Ort | Punkte | Preis | Laut |
+  | ---- | ----- |-|-------|------|---|------|----|----|
+Alisza  von Ostermühlen| UK| 20 - UK - 6776| 29.05.2020| Heinrich Tiedemann| 27245 Kirchdorf| 352 P.| I. Preis| fragl.
+Holly vom Roten Sonnentau| UK| 20-UK-6790| 30.05.2020 |Janika Henke| 27259 Varrel| 334 P.| II. Preis| fragl.
+{{</table>}}
 
-§ 11 (1) c). Arbeit am geflügelten Huhn möglich.
-
-Damwildschweiß, getropft
-
-Nenngeld = Reuegeld 120 Euro/140 Euro für Mitglieder/Nichtmitglieder
-
-Verbeller/Verweise + 40 Euro
-
-Bitte **bleifreie** Schrotmunition mitbringen!
-
-**Nennschluss 01.09.2023**
-
-Nennungen werden erst mit Eingang des Nenngeldes berücksichtigt. Hundeführer, die **vor** Nennschluss zurück ziehen wird das Nenngeld erstattet.
-
-Die Nennungen bitte Online, über den Klick auf den Button **Onlinemeldung** durchführen.  
-
-Die ausgefüllte Nennung bitte zusätzlich Ausdrucken und unterschreiben.  
-
-Für alle teilnehmenden Hunde muss ein ausreichender Impfschutz sowie Versicherungsschutz nachgewiesen werden.
-
-Der Verein behält sich außerdem eine Begrenzung der Prüfungsteilnehmer vor. Mitglieder haben Vorrang.
-
-Weiterhin ist eine Kopie der Ahnentafel und Kopien aller früheren absolvierten Verbandsprüfungen beizufügen und an die Geschäftsstelle:  
-
-Jörg Holthus  
-Dörrieloh 79  
-27259 Varrel  
-Tel. 0175/4110058 oder 04274/963961  
-holthus-jgvdh@t-online.de zu richten.  
-
-Nach Nennschluss eingehende Meldungen erfordern Mehrkosten von 50 Euro. Sollte eine Überweisung bis zum Nennschluss nicht eingegangen sein, so hat der Führer kein Anrecht auf Prüfung seines Hundes.  
-
-Das Nenngeld (Reuegeld) ist gleichzeitig mit der Nennung auf das Konto bei der Volksbank eG  
-IBAN DE51256916333588070800  
-BIC GENODEF1SUL  
-zu überweisen.
+{{<figure class="no-photoswipe fullwidth" src="/images/pruefungen/vgp2023_1.jpg">}}
