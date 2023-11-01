@@ -30,8 +30,8 @@ Ergebnisse:
 {{<table "table table-dark table-striped table-bordered" >}}
   | Name | Rasse | # | gewölft | Führer | Ort | Punkte | Preis | Laut |
   | ---- | ----- |-|-------|------|---|------|----|----|
-Alisza  von Ostermühlen| UK| 20 - UK - 6776| 29.05.2020| Heinrich Tiedemann| 27245 Kirchdorf| 352 P.| I. Preis| fragl.
-Holly vom Roten Sonnentau| UK| 20-UK-6790| 30.05.2020 |Janika Henke| 27259 Varrel| 334 P.| II. Preis| fragl.
+Alisza  von Ostermühlen| UK| 20 - UK - 6776| 29.05.2020| Heinrich Tiedemann| 27245 Kirchdorf| 352 | I.| fragl.
+Holly vom Roten Sonnentau| UK| 20-UK-6790| 30.05.2020 |Janika Henke| 27259 Varrel| 334| II.| fragl.
 {{</table>}}
 
 {{<figure class="no-photoswipe fullwidth" src="/images/pruefungen/vgp2023_1.jpg">}}

@@ -38,13 +38,5 @@ Siva von Neibur| UK| 22-UK-7331| 09.04.2022 | Stefan Wille gen. Niebur| 19086 Pl
 Aranka von Ostermühlen| UK| 20-UK-6778| 29.05.2020 | Gesa Eisele| 24568 Kattendorf| 301 P.| III. Preis| fragl.
 {{</table>}}
 
-Ergebnisse VPS:
-{{<table "table table-dark table-striped table-bordered" >}}
-  | Name | Rasse | # | gewölft | Führer | Ort | Punkte | Preis | Laut |
-  | ---- | ----- |-|-------|------|---|------|----|----|
-Carlo vom Ellerkhof| UK| 21-UK-7091| 14.06.2021 | Hilmar Meyer| 28844 Weyhe| 164 P.| III. Preis| fragl.
-{{</table>}}
-
-
 {{< load-photoswipe >}}
 {{< gallery dir="images/galleries/vgp2023_2"  thumb="_thumb" />}}
