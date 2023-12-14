@@ -9,7 +9,7 @@ tags: ["termin","pruefung", "VStP", "2023"]
 heroHeading: 'Verbandsstöberprüfung'
 heroSubHeading: ''
 heroBackground: 'images/gimli003.jpg'
-onlineMeldung: 'https://japa4u.de/Events/?id=221'
+#onlineMeldung: 'https://japa4u.de/Events/?id=221'
 
 termin: "2023-12-03"
 tag: 03
@@ -22,42 +22,24 @@ monat: Dezember
 
 am Sonntag den **03. Dezember**
 
-{{<figure class="no-photoswipe" src="/images/pruefungen/ausgebucht.png">}}
 
+VStP am 03.12.2023 um Kirchdorf, gem. 8, ersch. 6, gepr. 5, präm. 5 Hunde
 
-Veranstaltungsort und Uhrzeit werden mit der Einladung zur Prüfung mitgeteilt.
+Wetter: bedeckt, feucht, um -2 Grad  
 
-Prüfungsleiter: Jörg Holthus
+Wildbesatz: Federwild: gut / Haarwild: sehr gut
 
-Gerichtet wird nach der derzeit gültigen Prüfungsordnung des JGHV.
+Ergebnisse:
+{{<table "table table-dark table-striped table-bordered" >}}
+  | Name | Rasse | # | gewölft | Führer | Ort | Punkte | Laut |
+  | ---- | ----- |-|-------|------|---|------|----|
+Bärbel von der der Lüdgeneiche| DD| 251197| 25.05.2022| Michael Kubba| 32469 Petershagen| 56| spurlaut
+Bernhard vom Holzmichel| DJT| VDH/DJT 75155| 12.03.2021| Eric Bulmahn| 31719 Wiedensahl| 56| spurlaut
+Cara Piastowy Gon| GonP| PKR.KW.VI-1577/GP| 21.05.2020| Sven Haesloop| 28816 Stuhr| 56| fährtenlaut
+Flocki vom Warmser Moor| KlM| 20-0004| 04.01.2020| Anne Schäpsmeier| 32469 Petershagen| 54| spurlaut
+Noel vom Talbrunnen| ECS| 0041/22J| 07.04.2022| Manuela Heinecke| 49448 Quernheim| 51| fährtenlaut
+Quinn vom Wietzenbruch| PRT| 26/0009683/113| 01.07.2022| Wolfgang B. Josat| 49406 Eydelstedt| - | Konnte nach § 4, Absatz e nicht durchgeprüft werden. Laut: fragl.
+{{</table>}}
 
-Nenngeld = Reuegeld 120 Euro/140 Euro für Mitglieder/Nichtmitglieder
-
-Bitte **bleifreie** Schrotmunition mitbringen!
-
-**Nennschluss 03.11.2023**
-
-Nennungen werden erst mit Eingang des Nenngeldes berücksichtigt. Hundeführer, die **vor** Nennschluss zurück ziehen wird das Nenngeld erstattet.
-
-Die Nennungen bitte Online, über den Klick auf den Button **Onlinemeldung** durchführen.  
-
-Die ausgefüllte Nennung bitte zusätzlich Ausdrucken und unterschreiben.  
-
-Für alle teilnehmenden Hunde muss ein ausreichender Impfschutz sowie Versicherungsschutz nachgewiesen werden.
-
-Der Verein behält sich außerdem eine Begrenzung der Prüfungsteilnehmer vor. Mitglieder haben Vorrang.
-
-Weiterhin ist eine Kopie der Ahnentafel und Kopien aller früheren absolvierten Verbandsprüfungen beizufügen und an die Geschäftsstelle:  
-
-Jörg Holthus  
-Dörrieloh 79  
-27259 Varrel  
-Tel. 0175/4110058 oder 04274/963961  
-holthus-jgvdh@t-online.de zu richten.  
-
-Nach Nennschluss eingehende Meldungen erfordern Mehrkosten von 50 Euro. Sollte eine Überweisung bis zum Nennschluss nicht eingegangen sein, so hat der Führer kein Anrecht auf Prüfung seines Hundes.  
-
-Das Nenngeld (Reuegeld) ist gleichzeitig mit der Nennung auf das Konto bei der Volksbank eG  
-IBAN DE51256916333588070800  
-BIC GENODEF1SUL  
-zu überweisen.  
+{{< load-photoswipe >}}
+{{< gallery dir="images/galleries/vstp2023_1"  thumb="_thumb" />}}
