@@ -1,37 +1,64 @@
 ---
-title: 'VGP 2023'
-date: 2021-02-03T15:15:34+10:00
+title: 'VGP 2024'
+date: 2024-01-28T15:15:34+10:00
 icon: 'services/service-icon-4.png'
 featured: true
 draft: false
-tags: ["termin","pruefung", "VGP", "2023"]
+tags: ["termin","pruefung", "VGP", "2024"]
 
 heroHeading: 'Verbandsgebrauchsprüfung mit Übernachtfährte'
 heroSubHeading: ''
 heroBackground: 'images/pruefungen/vgp4.jpg'
-#onlineMeldung: 'https://japa4u.de/Events/?id=212'
+onlineMeldung: 'https://japa4u.de/Events/?id=285'
 
-termin: "2023-09-30"
-tag: 30
-wochentag: Samstag
-monat: September
+termin: "2024-10-04"
+tag: 04
+wochentag: Freitag
+monat: Oktober
 
 ---
 
 **Verbandsgebrauchsprüfung mit Übernachtfährte**
 
-am Samstag/ Sonntag den **30. September/01. Oktober**
+**Nennschluss 14.09.2024**
 
-VGP am 30.09.2022 bis 01.10.2022 um Kirchdorf, gem. 2, ersch. 2, gepr. 2, präm. 2 Hunde
+am Samstag/ Sonntag den **04. Oktober/05. Oktober**
 
-Wetter: regnerisch, feucht, um 15 Grad  Wildbesatz: Federwild: sehr gut / Haarwild: gut
+Treffpunkt wird noch bekannt gegeben.  
 
-Ergebnisse:  
-{{<table "table table-dark table-striped table-bordered" >}}
-  | Name | Rasse | # | gewölft | Führer | Ort | Punkte | Preis | Laut |
-  | ---- | ----- |-|-------|------|---|------|----|----|
-Alisza  von Ostermühlen| UK| 20 - UK - 6776| 29.05.2020| Heinrich Tiedemann| 27245 Kirchdorf| 352 | I.| fragl.
-Holly vom Roten Sonnentau| UK| 20-UK-6790| 30.05.2020 |Janika Henke| 27259 Varrel| 334| II.| fragl.
-{{</table>}}
+Prüfungsleiter: Jörg Holthus
 
-{{<figure class="no-photoswipe fullwidth" src="/images/pruefungen/vgp2023_1.jpg">}}
+Gerichtet wird nach der derzeit gültigen Prüfungsordnung des JGHV.
+
+Beschaffenheit Fuchshindernis gem. VGPO, § 11 (1) c). Arbeit am geflügelten Huhn möglich.
+
+Damwildschweiß, getropft
+
+Nenngeld = Reuegeld 160 Euro/180 Euro für Mitglieder/Nichtmitglieder  
+
+Verweiser/Verbeller +40€
+
+Nennungen werden erst mit Eingang des Nenngeldes berücksichtigt. Hundeführer, die **vor** Nennschluss zurück ziehen wird das Nenngeld erstattet.
+
+Die Nennungen bitte Online, über den Klick auf den Button **Onlinemeldung** durchführen.  
+
+Die ausgefüllte Nennung bitte zusätzlich Ausdrucken und unterschreiben.
+
+Bitte **bleifreie** Schrotmunition mitbringen!
+
+Für alle teilnehmenden Hunde muss ein ausreichender Impfschutz sowie Versicherungsschutz nachgewiesen werden.
+
+Weiterhin ist eine Kopie der Ahnentafel und Kopien aller früheren absolvierten Verbandsprüfungen beizufügen und an die Geschäftsstelle:  
+
+Jörg Holthus  
+Dörrieloh 79  
+27259 Varrel  
+Tel. 0175/4110058 oder 04274/963961  
+holthus-jgvdh@t-online.de zu richten.  
+
+Nach Nennschluss eingehende Meldungen erfordern Mehrkosten von 50 Euro. Sollte eine Überweisung bis zum Nennschluss nicht eingegangen sein, so hat der Führer kein Anrecht auf Prüfung seines Hundes.  
+
+Das Nenngeld ist gleichzeitig mit der Nennung auf das Konto bei der Volksbank eG  
+IBAN DE51256916333588070800  
+BIC GENODEF1SUL  
+zu überweisen.  

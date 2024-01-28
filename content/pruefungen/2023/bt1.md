@@ -1,42 +1,44 @@
 ---
-title: "HZP 2024"
-date: 2024-01-23T13:13:22+01:00
+title: 'Btr 2023'
+date: 2021-02-03T15:15:34+10:00
 icon: 'services/service-icon-4.png'
 featured: true
-draft: false
-tags: ["termin","pruefung","HZP","2024"]
-heroHeading: 'Verbands Herbstzuchtprüfung'
-heroSubHeading: ''
-heroBackground: 'services/service2.jpg'
-onlineMeldung: 'https://japa4u.de/Events/?id=289'
+draft: true
+tags: ["termin","pruefung", "BTR", "2023"]
 
-termin: "2024-09-28"
-tag: 28
-wochentag: Samstag
-monat: September
+heroHeading: 'Bringtreueprüfung'
+heroSubHeading: ''
+heroBackground: 'images/gimli003.jpg'
+onlineMeldung: 'https://japa4u.de/Events/?id=219'
+
+termin: "2023-10-01"
+tag: 01
+wochentag: Sonntag
+monat: Oktober
+
 ---
 
-**HZP ohne Spurarbeit**
+**Bringtreueprüfung**
 
-**Nennschluss 07.09.2024**
-
-Treffpunkt wird noch bekannt gegeben.  
+Veranstaltungsort und Uhrzeit werden mit der Einladung zur Prüfung mitgeteilt.
 
 Prüfungsleiter: Jörg Holthus
 
 Gerichtet wird nach der derzeit gültigen Prüfungsordnung des JGHV.
 
-Nenngeld = Reuegeld 120 Euro/140 Euro für Mitglieder/Nichtmitglieder  
+Nenngeld = Reuegeld 40 Euro/50 Euro für Mitglieder/Nichtmitglieder
+
+**Nennschluss 01.09.2023**
 
 Nennungen werden erst mit Eingang des Nenngeldes berücksichtigt. Hundeführer, die **vor** Nennschluss zurück ziehen wird das Nenngeld erstattet.
 
 Die Nennungen bitte Online, über den Klick auf den Button **Onlinemeldung** durchführen.  
 
-Die ausgefüllte Nennung bitte zusätzlich Ausdrucken und unterschreiben.
-
-Bitte **bleifreie** Schrotmunition mitbringen!
+Die ausgefüllte Nennung bitte zusätzlich Ausdrucken und unterschreiben.  
 
 Für alle teilnehmenden Hunde muss ein ausreichender Impfschutz sowie Versicherungsschutz nachgewiesen werden.
+
+Der Verein behält sich außerdem eine Begrenzung der Prüfungsteilnehmer vor. Mitglieder haben Vorrang.
 
 Weiterhin ist eine Kopie der Ahnentafel und Kopien aller früheren absolvierten Verbandsprüfungen beizufügen und an die Geschäftsstelle:  
 
@@ -48,7 +50,7 @@ holthus-jgvdh@t-online.de zu richten.
 
 Nach Nennschluss eingehende Meldungen erfordern Mehrkosten von 50 Euro. Sollte eine Überweisung bis zum Nennschluss nicht eingegangen sein, so hat der Führer kein Anrecht auf Prüfung seines Hundes.  
 
-Das Nenngeld ist gleichzeitig mit der Nennung auf das Konto bei der Volksbank eG  
+Das Nenngeld (Reuegeld) ist gleichzeitig mit der Nennung auf das Konto bei der Volksbank eG  
 IBAN DE51256916333588070800  
 BIC GENODEF1SUL  
 zu überweisen.  

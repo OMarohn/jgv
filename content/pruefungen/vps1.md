@@ -1,24 +1,28 @@
 ---
-title: "HZP 2024"
-date: 2024-01-23T13:13:22+01:00
+title: 'VPS 2024'
+date: 2024-01-28T15:15:34+10:00
 icon: 'services/service-icon-4.png'
 featured: true
 draft: false
-tags: ["termin","pruefung","HZP","2024"]
-heroHeading: 'Verbands Herbstzuchtprüfung'
-heroSubHeading: ''
-heroBackground: 'services/service2.jpg'
-onlineMeldung: 'https://japa4u.de/Events/?id=289'
+tags: ["termin","pruefung", "VPS", "2024"]
 
-termin: "2024-09-28"
-tag: 28
-wochentag: Samstag
-monat: September
+heroHeading: 'Verbandsprüfung nach dem Schuß'
+heroSubHeading: ''
+heroBackground: 'images/gimli003.jpg'
+onlineMeldung: 'https://japa4u.de/Events/?id=286'
+
+termin: "2024-10-04"
+tag: 04
+wochentag: Freitag
+monat: Oktober
+
 ---
 
-**HZP ohne Spurarbeit**
+**Verbandsprüfung nach dem Schuß - mit und ohne Fuchs**
 
-**Nennschluss 07.09.2024**
+**Nennschluss 14.09.2024**
+
+am Samstag/ Sonntag den **04. Oktober/05. Oktober**
 
 Treffpunkt wird noch bekannt gegeben.  
 
@@ -26,7 +30,13 @@ Prüfungsleiter: Jörg Holthus
 
 Gerichtet wird nach der derzeit gültigen Prüfungsordnung des JGHV.
 
-Nenngeld = Reuegeld 120 Euro/140 Euro für Mitglieder/Nichtmitglieder  
+Stöbergelände gem. VPSO, § 14 (1) a)
+
+Damwildschweiß, getropft
+
+Nenngeld = Reuegeld 160 Euro/180 Euro für Mitglieder/Nichtmitglieder  
+
+Verweiser/Verbeller +40€
 
 Nennungen werden erst mit Eingang des Nenngeldes berücksichtigt. Hundeführer, die **vor** Nennschluss zurück ziehen wird das Nenngeld erstattet.
 

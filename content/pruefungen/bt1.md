@@ -1,19 +1,19 @@
 ---
-title: 'Btr 2023'
-date: 2021-02-03T15:15:34+10:00
+title: 'Btr 2024'
+date: 2024-01-28T15:15:34+10:00
 icon: 'services/service-icon-4.png'
 featured: true
 draft: false
-tags: ["termin","pruefung", "BTR", "2023"]
+tags: ["termin","pruefung", "BTR", "2024"]
 
 heroHeading: 'Bringtreueprüfung'
 heroSubHeading: ''
 heroBackground: 'images/gimli003.jpg'
-onlineMeldung: 'https://japa4u.de/Events/?id=219'
+onlineMeldung: 'https://japa4u.de/Events/?id=287'
 
-termin: "2023-10-01"
-tag: 01
-wochentag: Sonntag
+termin: "2024-10-05"
+tag: 05
+wochentag: Samstag
 monat: Oktober
 
 ---
@@ -26,9 +26,9 @@ Prüfungsleiter: Jörg Holthus
 
 Gerichtet wird nach der derzeit gültigen Prüfungsordnung des JGHV.
 
-Nenngeld = Reuegeld 40 Euro/50 Euro für Mitglieder/Nichtmitglieder
+Nenngeld = Reuegeld 50 Euro/70 Euro für Mitglieder/Nichtmitglieder
 
-**Nennschluss 01.09.2023**
+**Nennschluss 14.09.2024**
 
 Nennungen werden erst mit Eingang des Nenngeldes berücksichtigt. Hundeführer, die **vor** Nennschluss zurück ziehen wird das Nenngeld erstattet.
 

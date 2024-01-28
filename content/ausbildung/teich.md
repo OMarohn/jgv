@@ -22,7 +22,7 @@ Der Schusswaffengebrauch ist nur gestattet am:
 
 Außerhalb des Teichgeländes sind die Hunde grundsätzlich an der Leine zu führen und ein jegliches Laufenlassen, sowie Arbeiten mit dem Hund ist untersagt.
 
-Beim Schießen auf Wasserwild sind nur Stahlschrote zu verwenden.  
+Beim Schießen auf sind **grundsätzlich** nur Stahlschrote zu verwenden.  
 
 Die Einhaltung der Vereinbarung zwischen den Niedersächsischen Ministerium für Ernährung, Landwirtschaft und Forsten und den Mitgliedsvereinen des JGHV müssen sichergestellt sein ( u. a. ist ein Ausbildungs- u. Prüfungsbuch ordnungsgemäß zu führen).
 
