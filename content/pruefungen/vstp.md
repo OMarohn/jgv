@@ -11,16 +11,16 @@ heroSubHeading: ''
 heroBackground: 'images/gimli003.jpg'
 onlineMeldung: 'https://japa4u.de/Events/?id=288'
 
-termin: "2024-12-03"
-tag: 03
-wochentag: Freitag
+termin: "2024-12-01"
+tag: 01
+wochentag: Sonntag
 monat: Dezember
 
 ---
 
 **Verbandsstöberprüfung - vom Führer begleitet oder vom Stand geschnallt**
 
-am Sonntag den **03. Dezember**
+am Sonntag den **01. Dezember**
 
 Veranstaltungsort und Uhrzeit werden mit der Einladung zur Prüfung mitgeteilt.
 
@@ -32,7 +32,7 @@ Nenngeld = Reuegeld 120 Euro/140 Euro für Mitglieder/Nichtmitglieder
 
 Bitte **bleifreie** Schrotmunition mitbringen!
 
-**Nennschluss 03.11.2024**
+**Nennschluss 09.11.2024**
 
 Nennungen werden erst mit Eingang des Nenngeldes berücksichtigt. Hundeführer, die **vor** Nennschluss zurück ziehen wird das Nenngeld erstattet.
 
