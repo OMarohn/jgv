@@ -9,20 +9,20 @@ tags: ["termin","pruefung", "VGP", "2024"]
 heroHeading: 'Verbandsgebrauchsprüfung mit Übernachtfährte'
 heroSubHeading: ''
 heroBackground: 'images/pruefungen/vgp4.jpg'
-onlineMeldung: 'https://japa4u.de/Events/?id=285'
+onlineMeldung: 'https://japa4u.de/Events/?id=330'
 
-termin: "2024-10-04"
-tag: 04
-wochentag: Freitag
+termin: "2024-10-19"
+tag: 19
+wochentag: Samstag
 monat: Oktober
 
 ---
 
 **Verbandsgebrauchsprüfung mit Übernachtfährte**
 
-**Nennschluss 14.09.2024**
+**Nennschluss 27.09.2024**
 
-am Freitag/ Samstag den **04. Oktober/05. Oktober**
+am Samstag/ Sonntag den **19. Oktober/20. Oktober**
 
 Treffpunkt wird noch bekannt gegeben.  
 
@@ -30,7 +30,7 @@ Prüfungsleiter: Jörg Holthus
 
 Gerichtet wird nach der derzeit gültigen Prüfungsordnung des JGHV.
 
-Beschaffenheit Fuchshindernis gem. VGPO, § 11 (1) c). Arbeit am geflügelten Huhn möglich.
+Beschaffenheit Fuchshindernis gem. VGPO, § 11 (1) c).
 
 Damwildschweiß, getropft
 
