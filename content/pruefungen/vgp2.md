@@ -7,7 +7,7 @@ draft: false
 tags: ["termin","pruefung", "VGP", "2024"]
 
 heroHeading: 'Verbandsgebrauchsprüfung mit Übernachtfährte'
-heroSubHeading: ''
+heroSubHeading: 'Jubiläums VGP 120 Jahre JGV Diepholz'
 heroBackground: 'images/pruefungen/vgp4.jpg'
 onlineMeldung: 'https://japa4u.de/Events/?id=330'
 
@@ -18,6 +18,8 @@ monat: Oktober
 
 ---
 
+**Jubiläums VGP 120 Jahre JGV Diepholz**
+
 **Verbandsgebrauchsprüfung mit Übernachtfährte**
 
 **Nennschluss 27.09.2024**
@@ -26,7 +28,7 @@ am Samstag/ Sonntag den **19. Oktober/20. Oktober**
 
 Treffpunkt wird noch bekannt gegeben.  
 
-Prüfungsleiter: Jörg Holthus
+Prüfungsleiter: Heiner Tiedemann
 
 Gerichtet wird nach der derzeit gültigen Prüfungsordnung des JGHV.
 
