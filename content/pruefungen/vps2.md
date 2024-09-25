@@ -1,15 +1,14 @@
 ---
-title: 'VGP 2024'
+title: 'VPS 2024'
 date: 2024-01-28T15:15:34+10:00
 icon: 'services/service-icon-4.png'
 featured: true
 draft: false
-tags: ["termin","pruefung", "VGP", "2024"]
+tags: ["termin","pruefung", "VPS", "2024"]
 
-heroHeading: 'Verbandsgebrauchsprüfung mit Übernachtfährte'
-heroSubHeading: 'Jubiläums VGP 120 Jahre JGV Diepholz'
-heroBackground: 'images/pruefungen/vgp4.jpg'
-onlineMeldung: 'https://japa4u.de/Events/?id=330'
+heroHeading: 'Verbandsprüfung nach dem Schuß'
+heroSubHeading: ''
+heroBackground: 'images/gimli003.jpg'
 
 termin: "2024-10-19"
 tag: 19
@@ -18,9 +17,7 @@ monat: Oktober
 
 ---
 
-**Jubiläums VGP 120 Jahre JGV Diepholz**
-
-**Verbandsgebrauchsprüfung mit Übernachtfährte**
+**Verbandsprüfung nach dem Schuß - mit und ohne Fuchs**
 
 **Nennschluss 27.09.2024**
 
@@ -32,7 +29,7 @@ Prüfungsleiter: Heiner Tiedemann
 
 Gerichtet wird nach der derzeit gültigen Prüfungsordnung des JGHV.
 
-Beschaffenheit Fuchshindernis gem. VGPO, § 11 (1) c).
+Stöbergelände gem. VPSO, § 14 (1) a)
 
 Damwildschweiß, getropft
 
