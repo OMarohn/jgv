@@ -19,45 +19,15 @@ monat: Oktober
 
 **Verbandsprüfung nach dem Schuß - mit und ohne Fuchs**
 
-**Nennschluss 27.09.2024**
 
-Prüfung am Samstag/ Sonntag den **19. Oktober/20. Oktober**
+PVPS am 20.10.2024 bis 20.10.2024 um Kirchdorf, gem. 1, ersch. 1, gepr. 1, präm. 1 Hunde
 
-Treffpunkt wird noch bekannt gegeben.  
+Wetter: sonnig, feucht, um 15 Grad  Wildbesatz: Federwild: gut / Haarwild: gut
 
-Prüfungsleiter: Heiner Tiedemann
+{{<table "table table-dark table-striped table-bordered" >}}
 
-Gerichtet wird nach der derzeit gültigen Prüfungsordnung des JGHV.
+  | Name | Rasse | # | gewölft | Führer | Ort | Punkte | Preis | Laut |
+  | ---- | ----- |-|-------|------|---|------|----|----|
+|Stawaskogens Irish Jamie| ECS| SE43041/2019| 27.06.2019| Silke Warneke| 27232 Sulingen| 218 | I. | fragl.|
 
-Stöbergelände gem. VPSO, § 14 (1) a)
-
-Damwildschweiß, getropft
-
-Nenngeld = Reuegeld 160 Euro/180 Euro für Mitglieder/Nichtmitglieder  
-
-Verweiser/Verbeller +40€
-
-Nennungen werden erst mit Eingang des Nenngeldes berücksichtigt. Hundeführer, die **vor** Nennschluss zurück ziehen wird das Nenngeld erstattet.
-
-Die Nennungen bitte Online, über den Klick auf den Button **Onlinemeldung** durchführen.  
-
-Die ausgefüllte Nennung bitte zusätzlich Ausdrucken und unterschreiben.
-
-Bitte **bleifreie** Schrotmunition mitbringen!
-
-Für alle teilnehmenden Hunde muss ein ausreichender Impfschutz sowie Versicherungsschutz nachgewiesen werden.
-
-Weiterhin ist eine Kopie der Ahnentafel und Kopien aller früheren absolvierten Verbandsprüfungen beizufügen und an die Geschäftsstelle:  
-
-Jörg Holthus  
-Dörrieloh 79  
-27259 Varrel  
-Tel. 0175/4110058 oder 04274/963961  
-holthus-jgvdh@t-online.de zu richten.  
-
-Nach Nennschluss eingehende Meldungen erfordern Mehrkosten von 50 Euro. Sollte eine Überweisung bis zum Nennschluss nicht eingegangen sein, so hat der Führer kein Anrecht auf Prüfung seines Hundes.  
-
-Das Nenngeld ist gleichzeitig mit der Nennung auf das Konto bei der Volksbank eG  
-IBAN DE51256916333588070800  
-BIC GENODEF1SUL  
-zu überweisen.  
+{{</table>}}
