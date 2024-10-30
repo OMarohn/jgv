@@ -12,9 +12,9 @@ heroBackground: 'images/gimli003.jpg'
 onlineMeldung: 'https://japa4u.de/Events/?id=359'
 
 termin: "2024-11-10"
-tag: 05
-wochentag: Samstag
-monat: Oktober
+tag: 10
+wochentag: Sonntag
+monat: November
 
 ---
 
