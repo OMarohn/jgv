@@ -1,36 +1,64 @@
 ---
-title: 'VGP 2024'
-date: 2024-01-28T15:15:34+10:00
+title: 'VGP 2025'
+date: 2025-01-28T15:15:34+10:00
 icon: 'services/service-icon-4.png'
 featured: true
 draft: false
-tags: ["termin","pruefung", "VGP", "2024"]
+tags: ["termin","pruefung", "VGP", "2025"]
 
 heroHeading: 'Verbandsgebrauchsprüfung mit Übernachtfährte'
-heroSubHeading: 'Jubiläums VGP 120 Jahre JGV Diepholz'
 heroBackground: 'images/pruefungen/vgp4.jpg'
+onlineMeldung: 'https://japa4u.de/Events/?id=405'
 
-termin: "2024-10-19"
-tag: 19
+termin: "2025-10-11"
+tag: 11
 wochentag: Samstag
 monat: Oktober
 
 ---
 
-**Jubiläums VGP 120 Jahre JGV Diepholz**
 
 **Verbandsgebrauchsprüfung mit Übernachtfährte**
 
-VGP am 19.10.2024 bis 20.10.2024 um Kirchdorf, gem. 2, ersch. 2, gepr. 2, präm. 2 Hunde
+**Nennschluss 20.09.2025**
 
-Wetter: sonnig, feucht, um 15 Grad  Wildbesatz: Federwild: gut / Haarwild: gut
+am Samstag/ Sonntag den **11. Oktober/12. Oktober**
 
-Ergebnisse:  
-{{<table "table table-dark table-striped table-bordered" >}}
+Treffpunkt wird noch bekannt gegeben.  
 
-  | Name | Rasse | # | gewölft | Führer | Ort | Punkte | Preis | Laut |
-  | ---- | ----- |-|-------|------|---|------|----|----|
-|Kaya II vom Forstweg| KlM| 22-0526| 10.04.2022|Lür Boisch| 28857 Syke| 334| I. | fragl.|
-|Diva vom Herzen Niederbayerns| UK| 22-UK-7463| 16.07.2022|Elvira Probst| 10779 Berlin| 324| I.| laut|
+Prüfungsleiter: Jörg Holthus
 
-{{</table>}}
+Gerichtet wird nach der derzeit gültigen Prüfungsordnung des JGHV.
+
+Beschaffenheit Fuchshindernis gem. VGPO, § 11 (1) c). Arbeit am geflügelten Huhn möglich.
+
+Damwildschweiß, getropft
+
+Nenngeld = Reuegeld 160 Euro/180 Euro für Mitglieder/Nichtmitglieder  
+
+Verweiser/Verbeller +40€
+
+Nennungen werden erst mit Eingang des Nenngeldes berücksichtigt. Hundeführer, die **vor** Nennschluss zurück ziehen wird das Nenngeld erstattet.
+
+Die Nennungen bitte Online, über den Klick auf den Button **Onlinemeldung** durchführen.  
+
+Die ausgefüllte Nennung bitte zusätzlich Ausdrucken und unterschreiben.
+
+Bitte **bleifreie** Schrotmunition mitbringen!
+
+Für alle teilnehmenden Hunde muss ein ausreichender Impfschutz sowie Versicherungsschutz nachgewiesen werden.
+
+Weiterhin ist eine Kopie der Ahnentafel und Kopien aller früheren absolvierten Verbandsprüfungen beizufügen und an die Geschäftsstelle:  
+
+Jörg Holthus  
+Dörrieloh 79  
+27259 Varrel  
+Tel. 0175/4110058 oder 04274/963961  
+holthus-jgvdh@t-online.de zu richten.  
+
+Nach Nennschluss eingehende Meldungen erfordern Mehrkosten von 50 Euro. Sollte eine Überweisung bis zum Nennschluss nicht eingegangen sein, so hat der Führer kein Anrecht auf Prüfung seines Hundes.  
+
+Das Nenngeld ist gleichzeitig mit der Nennung auf das Konto bei der Volksbank eG  
+IBAN DE51256916333588070800  
+BIC GENODEF1SUL  
+zu überweisen.  

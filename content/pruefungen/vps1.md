@@ -1,28 +1,28 @@
 ---
-title: 'VPS 2024'
-date: 2024-01-28T15:15:34+10:00
+title: 'VPS 2025'
+date: 2025-01-28T15:15:34+10:00
 icon: 'services/service-icon-4.png'
 featured: true
 draft: false
-tags: ["termin","pruefung", "VPS", "2024"]
+tags: ["termin","pruefung", "VPS", "2025"]
 
 heroHeading: 'Verbandsprüfung nach dem Schuß'
 heroSubHeading: ''
 heroBackground: 'images/gimli003.jpg'
 onlineMeldung: 'https://japa4u.de/Events/?id=286'
 
-termin: "2024-10-04"
-tag: 04
-wochentag: Freitag
-monat: Oktober
+termin: "2025-09-27"
+tag: 27
+wochentag: Samstag
+monat: September
 
 ---
 
 **Verbandsprüfung nach dem Schuß - mit und ohne Fuchs**
 
-**Nennschluss 14.09.2024**
+**Nennschluss 06.09.2025**
 
-am Samstag/ Sonntag den **04. Oktober/05. Oktober**
+am Samstag/ Sonntag den **27. September/28. September**
 
 Treffpunkt wird noch bekannt gegeben.  
 

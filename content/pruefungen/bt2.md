@@ -1,26 +1,26 @@
 ---
-title: 'Btr 2024'
-date: 2024-01-28T15:15:34+10:00
+title: 'Btr 2025'
+date: 2025-01-28T15:15:34+10:00
 icon: 'services/service-icon-4.png'
 featured: true
 draft: false
-tags: ["termin","pruefung", "BTR", "2024"]
+tags: ["termin","pruefung", "BTR", "2025"]
 
 heroHeading: 'Bringtreueprüfung'
 heroSubHeading: ''
 heroBackground: 'images/gimli003.jpg'
-onlineMeldung: 'https://japa4u.de/Events/?id=359'
+onlineMeldung: 'https://japa4u.de/Events/?id=406'
 
-termin: "2024-11-10"
-tag: 10
+termin: "2025-10-12"
+tag: 12
 wochentag: Sonntag
-monat: November
+monat: Oktober
 
 ---
 
 **Bringtreueprüfung**
 
-Veranstaltungsort: Spargelhof Köper, Heerde 50, 27259 Kirchdorf, 8:30 Uhr.
+Veranstaltungsort und Uhrzeit werden mit der Einladung zur Prüfung mitgeteilt.
 
 Prüfungsleiter: Jörg Holthus
 
@@ -28,7 +28,7 @@ Gerichtet wird nach der derzeit gültigen Prüfungsordnung des JGHV.
 
 Nenngeld = Reuegeld 50 Euro/70 Euro für Mitglieder/Nichtmitglieder
 
-**Nennschluss 05.11.2024**
+**Nennschluss 22.09.2025**
 
 Nennungen werden erst mit Eingang des Nenngeldes berücksichtigt. Hundeführer, die **vor** Nennschluss zurück ziehen wird das Nenngeld erstattet.
 

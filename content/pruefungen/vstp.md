@@ -1,42 +1,60 @@
 ---
-title: 'VStP 2024'
-date: 2024-01-28T15:15:34+10:00
+title: 'VStP 2025'
+date: 2025-01-28T15:15:34+10:00
 icon: 'services/service-icon-4.png'
 featured: true
 draft: false
-tags: ["termin","pruefung", "VStP", "2024"]
+tags: ["termin","pruefung", "VStP", "2025"]
 
 heroHeading: 'Verbandsstöberprüfung'
 heroSubHeading: ''
 heroBackground: 'images/gimli003.jpg'
-#onlineMeldung: 'https://japa4u.de/Events/?id=288'
+onlineMeldung: 'https://japa4u.de/Events/?id=408'
 
-termin: "2024-12-01"
-tag: 01
+termin: "2025-11-30"
+tag: 30
 wochentag: Sonntag
-monat: Dezember
+monat: November
 
 ---
 
 **Verbandsstöberprüfung - vom Führer begleitet oder vom Stand geschnallt**
 
-VStP am 01.12.2024 um Kirchdorf, gem. 8, ersch. 8, gepr. 6, präm. 6 Hunde
+am Sonntag den **30. November**
 
-Wetter: sonnig, gefroren, um 1 Grad Wildbesatz: Federwild: gut / Haarwild: gut
+Veranstaltungsort und Uhrzeit werden mit der Einladung zur Prüfung mitgeteilt.
 
-Ergebnisse:
+Prüfungsleiter: Jörg Holthus
 
-{{<table "table table-dark table-striped table-bordered">}}
-| Name | Rasse | # | gewölft | Führer | Ort | Punkte | Laut |
-| ---- | ----- |-|-------|------|---|------|----|
-|Wördens Grimm| PRT| VDH/PRTCD 23086| 13.03.2023|Florian Jessel| 19230 Hagenow| 54| fährtenlaut|
-|Bonny vom Kiebitzmoor| WDBr| 153-21| 30.05.2021|Sven Haesloop| 28816 Stuhr| 54| fährtenlaut|
-|Sepp vom Schossbach| DW| VDH / DW 23-259| 22.05.2023|Friedrich Grieme| 49406 Drentwede| 52| spurlaut|
-|Jaika vom Dreyer Wittsand| UK| 23-UK-7573| 08.02.2023|Daniela Marks| 28844 Weyhe-Dreye| 46| fährtenlaut|
-|Frieda vom Jägerborn| StBr| DBV02975R| 02.03.2020|Wolfgang Büttner| 32052 Herford| 46| sichtlaut|
-|Ole vom Spanger Forst| PRT| VDH/PRTCD 23133| 10.04.2023|Jakob Aundrup| 49326 Melle| 46| laut|
-|Cinny vom Kiebitzmoor| WDBr| 023-22| 02.04.2022|Elzbieta Tiesmeyer| 49078 Osnabrück| -|
-|Fancy von Holstein Land| ESS| 0066/21J| 03.10.2021|Manuel Koenig| 25524 Itzehoe| -|
-{{</table>}}
+Gerichtet wird nach der derzeit gültigen Prüfungsordnung des JGHV.
 
-{{<figure class="no-photoswipe fullwidth" src="/images/pruefungen/stoeber2024.jpg">}}
+Nenngeld = Reuegeld 140 Euro/160 Euro für Mitglieder/Nichtmitglieder
+
+Bitte **bleifreie** Schrotmunition mitbringen!
+
+**Nennschluss 08.11.2025**
+
+Nennungen werden erst mit Eingang des Nenngeldes berücksichtigt. Hundeführer, die **vor** Nennschluss zurück ziehen wird das Nenngeld erstattet.
+
+Die Nennungen bitte Online, über den Klick auf den Button **Onlinemeldung** durchführen.  
+
+Die ausgefüllte Nennung bitte zusätzlich Ausdrucken und unterschreiben.  
+
+Für alle teilnehmenden Hunde muss ein ausreichender Impfschutz sowie Versicherungsschutz nachgewiesen werden.
+
+Der Verein behält sich außerdem eine Begrenzung der Prüfungsteilnehmer vor. Mitglieder haben Vorrang.
+
+Weiterhin ist eine Kopie der Ahnentafel und Kopien aller früheren absolvierten Verbandsprüfungen beizufügen und an die Geschäftsstelle:  
+
+Jörg Holthus  
+Dörrieloh 79  
+27259 Varrel  
+Tel. 0175/4110058 oder 04274/963961  
+holthus-jgvdh@t-online.de zu richten.  
+
+Nach Nennschluss eingehende Meldungen erfordern Mehrkosten von 50 Euro. Sollte eine Überweisung bis zum Nennschluss nicht eingegangen sein, so hat der Führer kein Anrecht auf Prüfung seines Hundes.  
+
+Das Nenngeld (Reuegeld) ist gleichzeitig mit der Nennung auf das Konto bei der Volksbank eG  
+IBAN DE51256916333588070800  
+BIC GENODEF1SUL  
+zu überweisen.  
