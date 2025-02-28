@@ -23,7 +23,7 @@ monat: April
 
 Treffpunkt wird noch bekannt gegeben.  
 
-Prüfungsleiter: Jörg Holthus
+Prüfungsleiter: Heiner Tiedemann
 
 Gerichtet wird nach der derzeit gültigen Prüfungsordnung des JGHV.
 

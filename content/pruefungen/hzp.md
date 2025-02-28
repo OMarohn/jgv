@@ -18,7 +18,7 @@ monat: September
 
 **HZP ohne Spurarbeit**
 
-**Nennschluss 23.08.2024**
+**Nennschluss 23.08.2025**
 
 Treffpunkt wird noch bekannt gegeben.  
 
