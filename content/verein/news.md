@@ -14,6 +14,7 @@ heroBackground: 'services/impressum.jpg'
 ## Ehrungen
 
 Unser Mitglied **Nicolin Niebuhr** wurde vom JGV für ihre Hervorragenden Leistungen geehrt.
+
 Die Ehrung wurde von Heiner Tiedemann im Rahmen der Jahreshauptversammlung 2025 überreicht.
 
 {{<figure class="no-photoswipe fullwidth" src="/images/news/nicolineundheiner.jpg">}}
