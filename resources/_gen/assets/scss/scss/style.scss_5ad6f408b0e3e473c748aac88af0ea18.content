@@ -8718,4 +8718,21 @@ time.icon:hover, time.icon:focus {
     opacity: 0;
     height: auto; } }
 
+.banner {
+  background-color: #0a551b;
+  color: white;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  border-radius: 1rem;
+  position: sticky;
+  top: 0;
+  z-index: 1000; }
+
+.banner article {
+  text-align: left; }
+
+.banner a {
+  color: white;
+  text-decoration: underline; }
+
 /*# sourceMappingURL=style.css.map */

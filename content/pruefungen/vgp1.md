@@ -10,6 +10,7 @@ heroHeading: 'Verbandsgebrauchsprüfung mit Übernachtfährte'
 heroSubHeading: ''
 heroBackground: 'images/pruefungen/vgp4.jpg'
 onlineMeldung: 'https://japa4u.de/Events/?id=400'
+banner: ja
 
 termin: "2025-09-27"
 tag: 27

@@ -9,6 +9,7 @@ heroHeading: 'Verbands Herbstzuchtprüfung'
 heroSubHeading: ''
 heroBackground: 'services/service2.jpg'
 onlineMeldung: 'https://japa4u.de/Events/?id=402'
+banner: ja
 
 termin: "2025-09-13"
 tag: 13

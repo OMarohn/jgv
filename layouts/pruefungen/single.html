@@ -5,7 +5,27 @@ page-services-single
 {{ define "header_classes" }}{{end }}
 {{ define "main" }} 
 {{ partial "hero-image-setheight.html" (dict "background" .Params.heroBackground "heading" .Params.heroHeading "subheading" .Params.heroSubHeading "section" .Section "content" .)}}
+
+{{ if isset .Params "banner" }}
+<div class="container pt-4 pt-md-4 pb-4 pb-md-10">
+{{ else}}
 <div class="container pt-4 pt-md-10 pb-4 pb-md-10">
+  {{ end}}
+  {{ if isset .Params "banner" }} <!-- Geht vielleicht auch eleganter, aber als Schnellösung .... -->
+  <div class="row banner">
+    <div class="col-12">
+      <article>
+        <h3>Wichtiger Hinweis zum Ausfüllen der Nennung:</h3>
+        <div>
+        Die Mitgliedsnummer des JGV Grafschaft Diepholz im JGHV ist <b>1018</b>.<br/>
+        Bitte beachten Sie, dass Sie das Formblatt 1 direkt im Download Ordner des Programms Adobe Reader für Windows® öffnen.<br/> 
+        Vor den Prüfungsarten müssen Quadrate zum Ankreuzen sein und keine Kreise, nur dann ist es möglich die Nennung online zu verschicken.<br/>
+        Das Formblatt 1 schicken Sie außerdem unterschrieben mit Kopien von Ahnentafel, Jagdschein und evtl. Leistungsnachweisen an die Geschäftsstelle des JGV Grafschaft Diepholz e.V., Jörg Holthus, Dörrieloh 79, 27259 Varrel oder per Mail an <a href="mailto:holthus-jgvdh@t-online.de">holthus-jgvdh@t-online.de</a> (Bitte alle Unterlagen in einer Mail).
+      </div>
+      </article>
+    </div>
+  </div>
+  {{ end }}
   {{ if isset .Params "ergebnisse" }}
   <div class="row ergebnis">
     <div class="col-10 offset-2">

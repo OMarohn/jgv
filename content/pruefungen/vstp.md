@@ -10,6 +10,7 @@ heroHeading: 'Verbandsstöberprüfung'
 heroSubHeading: ''
 heroBackground: 'images/gimli003.jpg'
 onlineMeldung: 'https://japa4u.de/Events/?id=408'
+banner: ja
 
 termin: "2025-11-30"
 tag: 30

@@ -10,6 +10,7 @@ heroHeading: 'Bringtreueprüfung'
 heroSubHeading: ''
 heroBackground: 'images/gimli003.jpg'
 onlineMeldung: 'https://japa4u.de/Events/?id=406'
+banner: ja
 
 termin: "2025-10-12"
 tag: 12

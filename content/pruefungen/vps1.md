@@ -10,6 +10,7 @@ heroHeading: 'Verbandsprüfung nach dem Schuß'
 heroSubHeading: ''
 heroBackground: 'images/gimli003.jpg'
 onlineMeldung: 'https://japa4u.de/Events/?id=286'
+banner: ja
 
 termin: "2025-09-27"
 tag: 27
