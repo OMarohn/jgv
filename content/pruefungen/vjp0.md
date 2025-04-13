@@ -9,8 +9,8 @@ tags: ["termin","pruefung","VJP", "2025"]
 heroHeading: 'Verbandsjugendprüfung'
 heroSubHeading: ''
 heroBackground: 'services/service2.jpg'
-onlineMeldung: 'https://japa4u.de/Events/?id=401'
-banner: ja
+#onlineMeldung: 'https://japa4u.de/Events/?id=401'
+#banner: ja
 
 termin: "2025-04-12"
 tag: 12
@@ -20,37 +20,26 @@ monat: April
 
 **Verbandsjugendprüfung**
 
-**Nennschluss 22.03.2025**
+VJP am 12.04.2025 um Kirchdorf, gem. 12, ersch. 10, gepr. 9, präm. 9 Hunde
+Wetter: sonnig, feucht, um 8 Grad Wildbesatz: Federwild: gut / Haarwild: gut
 
-Treffpunkt wird noch bekannt gegeben.  
+**Ergebnisse:**
+{{<table "table table-dark table-striped table-bordered" >}}
 
-Prüfungsleiter: Heiner Tiedemann
+  | Name | Rasse | # | gewölft | Führer | Ort | Punkte | Laut |
+  | ---- | ----- |-|-------|------|---|------|----|
+|Bijou vom Wegenmoor| DD| 256678| 15.06.2024|Nils Ismer| 49419 Ströhen| 73| sil|
+|Joy ll vom Berkelsee| KlM| 24-0371| 04.04.2024|Heinfred Beck| 49419 Wagenfeld-Ströhen| 72| fragl|
+|Ainehtur Dagodax| DK| JR-743405-Nkd| 28.10.2023|Stefan Wille genannt Niebur| 19086 Plate| 72| fragl|
+|Insa vom Rhinluch| DSt| 10151| 18.03.2024|Thomas Klug| 49406 Eydelstedt-Wohlstreck| 70| fragl|
+|Bodo vom Wegenmoor| DD| 256672| 15.06.2024|Benjamin Stratmann| 27239 Twistringen| 68| sil|
+|Betsy II v.d. Hofmark| DD| 256457| 04.06.2024|Ute Kloth| 31636 Linsburg| 67| spl|
+|Hugo von der Wilhelmseiche| W| 25/24| 07.10.2023|Till Mues| 31604 Raddestorf| 65| fragl|
+|Utah von Neibur| UK| 23-UK-7824| 28.10.2023|Stefan Wille genannt Niebur| 19086 Plate| 60| sil|
+|Boss aus der Jagdliebe| W| 108/24| 04.01.2024|Johannes Leopold| 49453 Hemsloh| 58| fragl|
+|Enzo von Bero's Erben| DK| 0958/24| 29.05.2024|Eric Bulmahn| 31719 Wiedensahl| - P| - |
 
-Gerichtet wird nach der derzeit gültigen Prüfungsordnung des JGHV.
+{{</table>}}
 
-Nenngeld = Reuegeld 90 Euro/110 Euro für Mitglieder/Nichtmitglieder  
-
-Nennungen werden erst mit Eingang des Nenngeldes berücksichtigt. Hundeführer, die **vor** Nennschluss zurück ziehen wird das Nenngeld erstattet.
-
-Die Nennungen bitte Online, über den Klick auf den Button **Onlinemeldung** durchführen.  
-
-Bitte **bleifreie** Schrotmunition mitbringen!
-
-Die ausgefüllte Nennung bitte zusätzlich Ausdrucken und unterschreiben.
-
-Für alle teilnehmenden Hunde muss ein ausreichender Impfschutz sowie Versicherungsschutz nachgewiesen werden.
-
-Weiterhin ist eine Kopie der Ahnentafel und Kopien aller früheren absolvierten Verbandsprüfungen beizufügen und an die Geschäftsstelle:  
-
-Jörg Holthus  
-Dörrieloh 79  
-27259 Varrel  
-Tel. 0175/4110058 oder 04274/963961  
-holthus-jgvdh@t-online.de zu richten.  
-
-Nach Nennschluss eingehende Meldungen erfordern Mehrkosten von 50 Euro. Sollte eine Überweisung bis zum Nennschluss nicht eingegangen sein, so hat der Führer kein Anrecht auf Prüfung seines Hundes.  
-
-Das Nenngeld ist gleichzeitig mit der Nennung auf das Konto bei der Volksbank eG  
-IBAN DE51256916333588070800  
-BIC GENODEF1SUL  
-zu überweisen.  
+{{< load-photoswipe >}}
+{{< gallery dir="images/galleries/vjp2025"  thumb="_thumb" />}}
