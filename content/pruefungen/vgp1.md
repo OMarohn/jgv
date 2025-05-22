@@ -9,7 +9,7 @@ tags: ["termin","pruefung", "VGP", "2025"]
 heroHeading: 'Verbandsgebrauchsprüfung mit Übernachtfährte'
 heroSubHeading: ''
 heroBackground: 'images/pruefungen/vgp4.jpg'
-onlineMeldung: 'https://japa4u.de/Events/?id=400'
+onlineMeldung: 'https://online-nennung.japa4u.de/?edvnr=1018&eventid=400'
 banner: ja
 
 termin: "2025-09-27"

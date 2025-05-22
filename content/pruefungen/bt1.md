@@ -9,7 +9,7 @@ tags: ["termin","pruefung", "BTR", "2025"]
 heroHeading: 'Bringtreueprüfung'
 heroSubHeading: ''
 heroBackground: 'images/gimli003.jpg'
-onlineMeldung: 'https://japa4u.de/Events/?id=404'
+onlineMeldung: 'https://online-nennung.japa4u.de/?edvnr=1018&eventid=404'
 banner: ja
 
 

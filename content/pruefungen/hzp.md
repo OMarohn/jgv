@@ -8,7 +8,7 @@ tags: ["termin","pruefung","HZP","2025"]
 heroHeading: 'Verbands Herbstzuchtprüfung'
 heroSubHeading: ''
 heroBackground: 'services/service2.jpg'
-onlineMeldung: 'https://japa4u.de/Events/?id=402'
+onlineMeldung: 'https://online-nennung.japa4u.de/?edvnr=1018&eventid=402'
 banner: ja
 
 termin: "2025-09-13"
