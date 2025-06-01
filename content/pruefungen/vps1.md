@@ -10,7 +10,6 @@ heroHeading: 'Verbandsprüfung nach dem Schuß'
 heroSubHeading: ''
 heroBackground: 'images/gimli003.jpg'
 onlineMeldung: 'https://online-nennung.japa4u.de/?edvnr=1018&eventid=403'
-banner: ja
 
 termin: "2025-09-27"
 tag: 27

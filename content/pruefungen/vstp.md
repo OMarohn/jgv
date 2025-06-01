@@ -10,7 +10,6 @@ heroHeading: 'Verbandsstöberprüfung'
 heroSubHeading: ''
 heroBackground: 'images/gimli003.jpg'
 onlineMeldung: 'https://online-nennung.japa4u.de/?edvnr=1018&eventid=408'
-banner: ja
 
 termin: "2025-11-30"
 tag: 30

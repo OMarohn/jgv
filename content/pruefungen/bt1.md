@@ -10,8 +10,6 @@ heroHeading: 'Bringtreueprüfung'
 heroSubHeading: ''
 heroBackground: 'images/gimli003.jpg'
 onlineMeldung: 'https://online-nennung.japa4u.de/?edvnr=1018&eventid=404'
-banner: ja
-
 
 termin: "2025-09-28"
 tag: 28

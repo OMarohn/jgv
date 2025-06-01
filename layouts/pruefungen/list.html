@@ -32,7 +32,11 @@
 </div>
 {{ end }}
 
-<div class="container pb-6 pt-6 pb-md-10 pt-md-10">
+<div class="bannerContainer">
+  Die Mitgliedsnummer des JGV Grafschaft Diepholz im JGHV ist 1018
+</div>
+
+<div class="container pb-6 pt-3 pb-md-10 pt-md-3">
   <div class="row">
     {{ range (.RegularPages.ByParam "termin") }}
       <div class="col-12 col-md-6 mb-2 ">{{ .Render "summary" }}</div>

@@ -124,3 +124,12 @@
     color: white;
     text-decoration: underline;
 }
+
+.bannerContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-weight: 800;
+    color: $primary;
+}
