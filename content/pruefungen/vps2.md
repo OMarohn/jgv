@@ -27,7 +27,7 @@ am Samstag/ Sonntag den **11. Oktober/12. Oktober**
 
 Treffpunkt wird noch bekannt gegeben.  
 
-Prüfungsleiter: Jörg Holthus
+Prüfungsleiter: Bernhard Winalke
 
 Gerichtet wird nach der derzeit gültigen Prüfungsordnung des JGHV.
 
