@@ -8,7 +8,7 @@ tags: ["termin","pruefung","HZP","2025"]
 heroHeading: 'Verbands Herbstzuchtprüfung'
 heroSubHeading: ''
 heroBackground: 'services/service2.jpg'
-onlineMeldung: 'https://online-nennung.japa4u.de/?edvnr=1018&eventid=402'
+#onlineMeldung: 'https://online-nennung.japa4u.de/?edvnr=1018&eventid=402'
 
 termin: "2025-09-13"
 tag: 13
@@ -18,37 +18,22 @@ monat: September
 
 **HZP ohne Spurarbeit**
 
-**Nennschluss 23.08.2025**
+Am Samstag den 13. September
 
-Treffpunkt wird noch bekannt gegeben.  
+HZP am 13.09.2025 um Groß Lessen, gem. 7, ersch. 6, gepr. 5, präm. 5 Hunde
 
-Prüfungsleiter: Jörg Holthus
+Wetter: bedeckt, feucht, um 10 Grad Wildbesatz: Federwild: gut / Haarwild: gut
 
-Gerichtet wird nach der derzeit gültigen Prüfungsordnung des JGHV.
+Ergebnisse:  
+{{<table "table table-dark table-striped table-bordered" >}}
 
-Nenngeld = Reuegeld 120 Euro/140 Euro für Mitglieder/Nichtmitglieder  
+  | Name | Rasse | # | gewölft | Führer | Ort | Punkte | Laut |
+  | ---- | ----- |-|-------|------|---|------|----|
+|Joy II vom Berkelsee| KlM| 24-0371| 04.04.2024 | Heinfred Beck| 49419 Wagenfeld-Ströhen| 183| fragl|
+|Bijou vom Wegenmoor| DD| 256678| 15.06.2024 |Nils Ismer| 49419 Ströhen| 181| fragl|
+|Daja vom Hentkenhof| KlM| 24-0427| 06.04.2024 |Alex Weber| 31595 Steyerberg| 176| spl|
+|Bodo vom Wegenmoor| DD| 256672| 15.06.2024 |Benjamin Stratmann| 27239 Twistringen| 173| fragl|
+|Banja vom Wegenmoor| DD| 256674| 15.06.2024 |Heinnrich Gödeker| 27259 Varrel| 172| fragl|
+|Bobby aus der Jagdliebe| W| 107/24| 04.01.2024 |Karin Zeidler| 27257 Sudwalde| -| nicht bestanden|
 
-Nennungen werden erst mit Eingang des Nenngeldes berücksichtigt. Hundeführer, die **vor** Nennschluss zurück ziehen wird das Nenngeld erstattet.
-
-Die Nennungen bitte Online, über den Klick auf den Button **Onlinemeldung** durchführen.  
-
-Die ausgefüllte Nennung bitte zusätzlich Ausdrucken und unterschreiben.
-
-Bitte **bleifreie** Schrotmunition mitbringen!
-
-Für alle teilnehmenden Hunde muss ein ausreichender Impfschutz sowie Versicherungsschutz nachgewiesen werden.
-
-Weiterhin ist eine Kopie der Ahnentafel und Kopien aller früheren absolvierten Verbandsprüfungen beizufügen und an die Geschäftsstelle:  
-
-Jörg Holthus  
-Dörrieloh 79  
-27259 Varrel  
-Tel. 0175/4110058 oder 04274/963961  
-holthus-jgvdh@t-online.de zu richten.  
-
-Nach Nennschluss eingehende Meldungen erfordern Mehrkosten von 50 Euro. Sollte eine Überweisung bis zum Nennschluss nicht eingegangen sein, so hat der Führer kein Anrecht auf Prüfung seines Hundes.  
-
-Das Nenngeld ist gleichzeitig mit der Nennung auf das Konto bei der Volksbank eG  
-IBAN DE51256916333588070800  
-BIC GENODEF1SUL  
-zu überweisen.  
+{{</table>}}
