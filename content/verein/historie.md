@@ -211,7 +211,7 @@ Die Entstehung und Historie des JGV Diepholz.
 {{</tl-entry>}}
 
 {{<tl-entry head="2001: Verbandsschweißprüfung">}}         
-    Die erste Verbandsschweißprüfung wird in der staatlichen Forst „Rauer Busch“ Durchgeführt.
+    Die erste Verbandsschweißprüfung wird in der staatlichen Forst „Rauher Busch“ durchgeführt.
 {{</tl-entry>}}
 
 {{<tl-entry head="2002: Neuer Geschäftsführer">}}         
