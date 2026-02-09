@@ -3,7 +3,8 @@ title: 'Btr 2025'
 date: 2025-01-28T15:15:34+10:00
 icon: 'services/service-icon-4.png'
 featured: true
-draft: false
+draft: true
+
 tags: ["termin","pruefung", "BTR", "2025"]
 
 heroHeading: 'Bringtreueprüfung'

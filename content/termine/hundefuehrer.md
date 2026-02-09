@@ -8,7 +8,7 @@ tags: ["termin", "Lehrgang"]
 heroHeading: 'Hundeführerlehrgang'
 heroSubHeading: ''
 heroBackground: 'images/ausbildungdackel.jpg'
-tag: 27
+tag: 26
 wochentag: Sonntag 
 monat: April
 ---
@@ -17,6 +17,6 @@ Neuer Hundeführerlehrgang für Jagdhunde
 
 **Anmeldung**
 
-Die Anmeldung zum Hundeführerlehrgang ist am Sonntag den 27.04.25 um 10.00 Uhr auf dem **Heideparkplatz, Kirchdorfer Heide**.
+Die Anmeldung zum Hundeführerlehrgang ist am Sonntag den 26.04.26 um 10.00 Uhr auf dem **Heideparkplatz, Kirchdorfer Heide**.
 
 Interessiert werden gebeten sich telefonisch (0172/2786638) oder per Mail ( tiedemannh@t-online.de ) mit dem Lehrgangsleiter Heinrich Tiedemann in Verbindung zu setzen.

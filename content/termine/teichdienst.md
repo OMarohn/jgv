@@ -8,12 +8,12 @@ tags: ["termin", "Teich"]
 heroHeading: 'Teichpflege'
 heroSubHeading: ''
 heroBackground: 'services/service2.jpg'
-tag: 01
+tag: 28
 wochentag: Samstag
-monat: März
+monat: Februar
 ---
 
 
-Der Termin für einen Arbeitseinsatz am Teich (mit Frühstück) wäre am **01.03.25** ab 9.00 Uhr.
+Der Termin für einen Arbeitseinsatz am Teich (mit Frühstück) wäre am **28.02.26** ab 9.30 Uhr.
 
 Bitte vorhandenes Werkzeug mitbringen.

@@ -3,7 +3,7 @@ title: "Brauchbarkeit 2025"
 date: 2025-01-23T13:13:22+01:00
 icon: 'services/service-icon-4.png'
 featured: true
-draft: false
+draft: true
 tags: ["termin","pruefung","BP","2025"]
 heroHeading: 'Brauchbarkeit'
 heroSubHeading: ''
