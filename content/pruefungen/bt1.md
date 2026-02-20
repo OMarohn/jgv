@@ -1,37 +1,39 @@
 ---
-title: 'Btr 2025'
+title: 'Btr 2026'
 date: 2025-01-28T15:15:34+10:00
 icon: 'services/service-icon-4.png'
 featured: true
 draft: true
 
-tags: ["termin","pruefung", "BTR", "2025"]
+tags: ["termin","pruefung", "BTR", "2026"]
 
 heroHeading: 'Bringtreueprüfung'
 heroSubHeading: ''
 heroBackground: 'images/gimli003.jpg'
-onlineMeldung: 'https://online-nennung.japa4u.de/?edvnr=1018&eventid=404'
+onlineMeldung: 'https://japa4u.de/Events/?id=566&lang=de'
 
-termin: "2025-09-28"
-tag: 28
+termin: "2026-09-27"
+tag: 27
 wochentag: Sonntag
 monat: September
 
 ---
 
-**Bringtreueprüfung**
+## Bringtreueprüfung
 
-Veranstaltungsort und Uhrzeit werden mit der Einladung zur Prüfung mitgeteilt.
+Nenngeld Mitglieder/Nichtmitglieder: 50€/70€
 
-Prüfungsleiter: Jörg Holthus
+### Nennschluss 04.09.2026
+
+Anzahl der Nennungen min/max: 2/8
+
+Überweisung auf: Volksbank Sulingen, IBAN: DE51256916333588070800, BIC: GENODEF1SUL
+
+Treffpunkt: wird noch bekannt gegeben.
+
+Prüfungsleiter: Bernhard Winalke, Am Speckenbach 59, 27246 Borstel, Tel. 01713023158
 
 Gerichtet wird nach der derzeit gültigen Prüfungsordnung des JGHV.
-
-Nenngeld = Reuegeld 50 Euro/70 Euro für Mitglieder/Nichtmitglieder
-
-**Nennschluss 06.09.2025**
-
-Nennungen werden erst mit Eingang des Nenngeldes berücksichtigt. Hundeführer, die **vor** Nennschluss zurück ziehen wird das Nenngeld erstattet.
 
 Die Nennungen bitte Online, über den Klick auf den Button **Onlinemeldung** durchführen.  
 

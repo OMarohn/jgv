@@ -1,37 +1,35 @@
 ---
-title: 'Btr 2025'
+title: 'Btr 2026'
 date: 2025-01-28T15:15:34+10:00
 icon: 'services/service-icon-4.png'
 featured: true
 draft: true
 
-tags: ["termin","pruefung", "BTR", "2025"]
+tags: ["termin","pruefung", "BTR", "2026"]
 
 heroHeading: 'Bringtreueprüfung'
 heroSubHeading: ''
 heroBackground: 'images/gimli003.jpg'
-onlineMeldung: 'https://online-nennung.japa4u.de/?edvnr=1018&eventid=407'
+onlineMeldung: 'https://japa4u.de/Events/?id=572&lang=de'
 
-termin: "2025-10-12"
-tag: 12
+termin: "2026-10-11"
+tag: 11
 wochentag: Sonntag
 monat: Oktober
 
 ---
 
-**Bringtreueprüfung**
+## Bringtreueprüfung
 
-Veranstaltungsort und Uhrzeit werden mit der Einladung zur Prüfung mitgeteilt.
+Nenngeld Mitglieder/Nichtmitglieder: 50€/70€
 
-Prüfungsleiter: Jörg Holthus
+Anzahl der Nennungen min/max: 2/8
+
+Treffpunkt: wird noch bekannt gegeben
+
+Prüfungsleiter: Heinrich Tiedemann, Heerde 57, 27245 Kuppendorf, Tel. 01722786638
 
 Gerichtet wird nach der derzeit gültigen Prüfungsordnung des JGHV.
-
-Nenngeld = Reuegeld 50 Euro/70 Euro für Mitglieder/Nichtmitglieder
-
-**Nennschluss 22.09.2025**
-
-Nennungen werden erst mit Eingang des Nenngeldes berücksichtigt. Hundeführer, die **vor** Nennschluss zurück ziehen wird das Nenngeld erstattet.
 
 Die Nennungen bitte Online, über den Klick auf den Button **Onlinemeldung** durchführen.  
 
@@ -47,7 +45,7 @@ Jörg Holthus
 Dörrieloh 79  
 27259 Varrel  
 Tel. 0175/4110058 oder 04274/963961  
-holthus-jgvdh@t-online.de zu richten.  
+<holthus-jgvdh@t-online.de> zu richten.  
 
 Nach Nennschluss eingehende Meldungen erfordern Mehrkosten von 50 Euro. Sollte eine Überweisung bis zum Nennschluss nicht eingegangen sein, so hat der Führer kein Anrecht auf Prüfung seines Hundes.  
 
