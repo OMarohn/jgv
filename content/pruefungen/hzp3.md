@@ -3,7 +3,7 @@ title: "HZP 2026"
 date: 2025-01-23T13:13:22+01:00
 icon: 'services/service-icon-4.png'
 featured: true
-draft: true
+draft: false
 
 tags: ["termin","pruefung","HZP","2026"]
 heroHeading: 'Verbands Herbstzuchtprüfung'

@@ -3,7 +3,7 @@ title: 'VGP 2026'
 date: 2025-01-28T15:15:34+10:00
 icon: 'services/service-icon-4.png'
 featured: true
-draft: true
+draft: false
 
 tags: ["termin","pruefung", "VGP", "2026"]
 
