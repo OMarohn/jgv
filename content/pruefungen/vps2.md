@@ -52,11 +52,11 @@ Der Verein behält sich außerdem eine Begrenzung der Prüfungsteilnehmer vor. M
 
 Weiterhin ist eine Kopie der Ahnentafel und Kopien aller früheren absolvierten Verbandsprüfungen beizufügen und an die Geschäftsstelle:  
 
-Jörg Holthus  
-Dörrieloh 79  
-27259 Varrel  
-Tel. 0175/4110058 oder 04274/963961  
-<holthus-jgvdh@t-online.de> zu richten.  
+Silke Warneke  
+Nechtelsen 17  
+27232 Sulingen  
+Tel: 0172/2994352  
+<mail@silkewarneke.de> zu richten.  
 
 Nach Nennschluss eingehende Meldungen erfordern Mehrkosten von 50 Euro. Sollte eine Überweisung bis zum Nennschluss nicht eingegangen sein, so hat der Führer kein Anrecht auf Prüfung seines Hundes.  
 

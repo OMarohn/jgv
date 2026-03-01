@@ -18,19 +18,21 @@ vorsitzender2:
     city: '27246 Borstel - Bockhop'
   phone: '04276/ 223'
 
+
 geschaeftsfueher:
-  position: 'Geschäftsführer'
-  businessName: 'Jörg Holthus'
+  position: 'Geschäftsführerin'
+  businessName: 'Silke Warneke'
   address:
-    street: 'Dörrieloh 79'
-    city: '27259 Varrel'
-  mobile: '0175/4110058'
-  email: 'holthus-jgvdh@t-online.de'
+    street: 'Nechtelsen 17'
+    city: '27232 Sulingen'
+  mobile: '0172/2994352'
+  email: 'mail@silkewarneke.de'
 
 kassenwart:
-  position: 'Kassenwart'
-  businessName: 'Uwe Kassens'
+  position: 'Kassenwartin'
+  businessName: 'Janika Henke'
   address:
-    street: 'Seeufer 12'
-    city: '17209 Bad Stuer'
-  mobile: '039924/ 79630'
+    street: 'Oberdamm 1'
+    city: '27259 Varrel'
+  mobile: '0160/96201244'
+  email: 'janikahenke@hotmail.de'

@@ -18,7 +18,7 @@ Die Mitglieder des Vorstandes vom *JGV Grafschaft-Diepholz* stellen sich vor.
 
 {{<card bild="/verein/bernhard.jpg" tag="vorsitzender2">}}
 
-{{<card bild="/verein/joerg.jpg" tag="geschaeftsfueher">}}
+{{<card bild="/verein/silke.jpg" tag="geschaeftsfueher">}}
 
-{{<card bild="/verein/uwe.jpg" tag="kassenwart">}}
+{{<card bild="/verein/jannika.jpg" tag="kassenwart">}}
 

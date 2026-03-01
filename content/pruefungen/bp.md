@@ -1,17 +1,17 @@
 ---
-title: "Brauchbarkeit 2025"
+title: "Brauchbarkeit 2026"
 date: 2025-01-23T13:13:22+01:00
 icon: 'services/service-icon-4.png'
 featured: true
-draft: true
-tags: ["termin","pruefung","BP","2025"]
+draft: false
+tags: ["termin","pruefung","BP","2026"]
 heroHeading: 'Brauchbarkeit'
 heroSubHeading: ''
 
 heroBackground: 'services/service2.jpg'
 
-termin: "2025-09-06"
-tag: 06
+termin: "2026-09-05"
+tag: 05
 wochentag: Samstag
 monat: September
 ---
