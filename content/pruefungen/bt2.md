@@ -10,7 +10,7 @@ tags: ["termin","pruefung", "BTR", "2026"]
 heroHeading: 'Bringtreueprüfung'
 heroSubHeading: ''
 heroBackground: 'images/gimli003.jpg'
-onlineMeldung: 'https://japa4u.de/Events/?id=572&lang=de'
+#onlineMeldung: 'https://japa4u.de/Events/?id=572&lang=de'
 
 termin: "2026-10-11"
 tag: 11
@@ -31,7 +31,7 @@ Prüfungsleiter: Heinrich Tiedemann, Heerde 57, 27245 Kuppendorf, Tel. 017227866
 
 Gerichtet wird nach der derzeit gültigen Prüfungsordnung des JGHV.
 
-Die Nennungen bitte Online, über den Klick auf den Button **Onlinemeldung** durchführen.  
+**Die Nennungen ist Online aktuell leider nicht möglich, bitte melden Sie sich bei der Geschäftsstelle**
 
 Die ausgefüllte Nennung bitte zusätzlich Ausdrucken und unterschreiben.  
 

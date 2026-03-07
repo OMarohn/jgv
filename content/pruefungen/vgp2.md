@@ -9,7 +9,7 @@ tags: ["termin","pruefung", "VGP", "2026"]
 
 heroHeading: 'Verbandsgebrauchsprüfung mit Übernachtfährte'
 heroBackground: 'images/pruefungen/vgp4.jpg'
-onlineMeldung: 'https://japa4u.de/Events/?id=565&lang=de'
+#onlineMeldung: 'https://japa4u.de/Events/?id=565&lang=de'
 
 termin: "2026-10-10"
 tag: 10
@@ -45,7 +45,7 @@ Prüfungsleiter: Heinrich Tiedemann, Heerde 57, 27245 Kuppendorf, Tel. 017227866
 
 Gerichtet wird nach der derzeit gültigen Prüfungsordnung des JGHV.
 
-Die Nennungen bitte Online, über den Klick auf den Button **Onlinemeldung** durchführen.  
+**Die Nennungen ist Online aktuell leider nicht möglich, bitte melden Sie sich bei der Geschäftsstelle**  
 
 Die ausgefüllte Nennung bitte zusätzlich Ausdrucken und unterschreiben.  
 

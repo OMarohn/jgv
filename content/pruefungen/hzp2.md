@@ -9,7 +9,7 @@ tags: ["termin","pruefung","HZP","2026"]
 heroHeading: 'Verbands Herbstzuchtprüfung'
 heroSubHeading: ''
 heroBackground: 'services/service2.jpg'
-onlineMeldung:  'https://japa4u.de/Events/?id=568&lang=de'
+#onlineMeldung:  'https://japa4u.de/Events/?id=568&lang=de'
 
 
 termin: "2026-09-26"
@@ -22,7 +22,7 @@ monat: September
 
 Nenngeld Mitlieder/ Nichtmitglieder: 120€/140€.
 
-### Nennschluss 04.09.2036
+### Nennschluss 04.09.2026
 
 Nennungen werden erst mit Eingang des Nenngeldes berücksichtigt. Hundeführer, die vor Nennschluss zurück ziehen wird das Nenngeld erstattet.
 
@@ -36,7 +36,7 @@ Prüfungsleiter: Bernhard Winalke, Am Speckenbach 59, 27246 Borstel, Tel. 017130
 
 Gerichtet wird nach der derzeit gültigen Prüfungsordnung des JGHV.
 
-Die Nennungen bitte Online, über den Klick auf den Button **Onlinemeldung** durchführen.  
+**Die Nennungen ist Online aktuell leider nicht möglich, bitte melden Sie sich bei der Geschäftsstelle**  
 
 Die ausgefüllte Nennung bitte zusätzlich Ausdrucken und unterschreiben.  
 

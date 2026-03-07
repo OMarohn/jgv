@@ -11,7 +11,7 @@ heroBackground: 'services/impressum.jpg'
 ---
 
 
-## Ehrungen
+### 2025-02-27
 
 Unser Mitglied **Nicolin Niebuhr** wurde vom JGV für ihre Hervorragenden Leistungen geehrt.
 

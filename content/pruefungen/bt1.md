@@ -10,7 +10,7 @@ tags: ["termin","pruefung", "BTR", "2026"]
 heroHeading: 'Bringtreueprüfung'
 heroSubHeading: ''
 heroBackground: 'images/gimli003.jpg'
-onlineMeldung: 'https://japa4u.de/Events/?id=566&lang=de'
+#onlineMeldung: 'https://japa4u.de/Events/?id=566&lang=de'
 
 termin: "2026-09-27"
 tag: 27
@@ -35,7 +35,7 @@ Prüfungsleiter: Bernhard Winalke, Am Speckenbach 59, 27246 Borstel, Tel. 017130
 
 Gerichtet wird nach der derzeit gültigen Prüfungsordnung des JGHV.
 
-Die Nennungen bitte Online, über den Klick auf den Button **Onlinemeldung** durchführen.  
+**Die Nennungen ist Online aktuell leider nicht möglich, bitte melden Sie sich bei der Geschäftsstelle**
 
 Die ausgefüllte Nennung bitte zusätzlich Ausdrucken und unterschreiben.  
 

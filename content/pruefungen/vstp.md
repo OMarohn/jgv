@@ -10,7 +10,7 @@ tags: ["termin","pruefung", "VStP", "2026"]
 heroHeading: 'Verbandsstöberprüfung'
 heroSubHeading: ''
 heroBackground: 'images/gimli003.jpg'
-onlineMeldung: 'https://japa4u.de/Events/?id=573&lang=de'
+#onlineMeldung: 'https://japa4u.de/Events/?id=573&lang=de'
 
 termin: "2026-11-29"
 tag: 29
@@ -29,11 +29,11 @@ Anzahl der Nennungen min/max: 3/8
 
 Treffpunkt: wird noch bekannt gegeben.
 
-Prüfungsleiter: Jörg Holthus, Dörrieloh 79, 27259 Varrel, Tel. 01754110058
+Prüfungsleiter: Heinrich Tiedemann, Heerde 57, 27245 Kuppendorf, Tel. 01722786638
 
 Gerichtet wird nach der derzeit gültigen Prüfungsordnung des JGHV.
 
-Die Nennungen bitte Online, über den Klick auf den Button **Onlinemeldung** durchführen.  
+**Die Nennungen ist Online aktuell leider nicht möglich, bitte melden Sie sich bei der Geschäftsstelle**  
 
 Die ausgefüllte Nennung bitte zusätzlich Ausdrucken und unterschreiben.  
 

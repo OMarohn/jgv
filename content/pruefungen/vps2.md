@@ -10,7 +10,7 @@ tags: ["termin","pruefung", "VPS", "2026"]
 heroHeading: 'Verbandsprüfung nach dem Schuß'
 heroSubHeading: ''
 heroBackground: 'images/gimli003.jpg'
-onlineMeldung: 'https://japa4u.de/Events/?id=570&lang=de'
+#onlineMeldung: 'https://japa4u.de/Events/?id=570&lang=de'
 
 termin: "2026-10-11"
 tag: 11
@@ -41,8 +41,9 @@ Treffpunkt: wird noch bekannt gegeben
 
 Prüfungsleiter: Heinrich Tiedemann, Heerde 57, 27245 Kuppendorf, Tel. 01722786638
 
-Gerichtet wird nach der derzeit gültigen Prüfungsordnung des JGHV.
-Die Nennungen bitte Online, über den Klick auf den Button **Onlinemeldung** durchführen.  
+Gerichtet wird nach der derzeit gültigen Prüfungsordnung des JGHV.  
+
+**Die Nennungen ist Online aktuell leider nicht möglich, bitte melden Sie sich bei der Geschäftsstelle**  
 
 Die ausgefüllte Nennung bitte zusätzlich Ausdrucken und unterschreiben.  
 

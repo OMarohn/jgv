@@ -9,7 +9,7 @@ tags: ["termin","pruefung","HZP","2026"]
 heroHeading: 'Verbands Herbstzuchtprüfung'
 heroSubHeading: ''
 heroBackground: 'services/service2.jpg'
-onlineMeldung: 'https://japa4u.de/Events/?id=562&lang=de'
+#onlineMeldung: 'https://japa4u.de/Events/?id=562&lang=de'
 
 termin: "2026-09-12"
 tag: 12
@@ -31,11 +31,11 @@ Das Geld für die lebende Ente ist am Prüfungstag in bar zu entrichten.
 
 Treffpunkt: wird noch bekannt gegeben
 
-Prüfungsleiter: Jörg Holthus, Dörrieloh 79, 27259 Varrel, Tel. 01754110058
+Prüfungsleiter: Heinrich Tiedemann, Heerde 57, 27245 Kuppendorf, Tel. 01722786638  
 
 Gerichtet wird nach der derzeit gültigen Prüfungsordnung des JGHV.
 
-Die Nennungen bitte Online, über den Klick auf den Button **Onlinemeldung** durchführen.  
+**Die Nennungen ist Online aktuell leider nicht möglich, bitte melden Sie sich bei der Geschäftsstelle**  
 
 Die ausgefüllte Nennung bitte zusätzlich Ausdrucken und unterschreiben.  
 

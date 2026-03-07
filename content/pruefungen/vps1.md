@@ -10,7 +10,7 @@ tags: ["termin","pruefung", "VPS", "2026"]
 heroHeading: 'Verbandsprüfung nach dem Schuß'
 heroSubHeading: ''
 heroBackground: 'images/gimli003.jpg'
-onlineMeldung: 'https://online-nennung.japa4u.de/?edvnr=1018&eventid=403'
+#onlineMeldung: 'https://online-nennung.japa4u.de/?edvnr=1018&eventid=403'
 
 termin: "2026-09-27"
 tag: 27
@@ -41,8 +41,9 @@ Treffpunkt: wird noch bekannt gegeben
 
 Prüfungsleiter: Bernhard Winalke, Am Speckenbach 59, 27246 Borstel, Tel. 01713023158
 
-Gerichtet wird nach der derzeit gültigen Prüfungsordnung des JGHV.
-Die Nennungen bitte Online, über den Klick auf den Button **Onlinemeldung** durchführen.  
+Gerichtet wird nach der derzeit gültigen Prüfungsordnung des JGHV.  
+
+**Die Nennungen ist Online aktuell leider nicht möglich, bitte melden Sie sich bei der Geschäftsstelle**  
 
 Die ausgefüllte Nennung bitte zusätzlich Ausdrucken und unterschreiben.  
 
