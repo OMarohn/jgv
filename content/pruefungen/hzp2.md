@@ -20,7 +20,7 @@ monat: September
 
 ## HZP ohne Spurarbeit**
 
-Nenngeld Mitlieder/ Nichtmitglieder: 120€/140€.
+Nenngeld Mitglieder/Nichtmitglieder: 120€/140€.
 
 ### Nennschluss 04.09.2026
 
