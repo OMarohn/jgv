@@ -9,7 +9,7 @@ tags: ["termin","pruefung","HZP","2026"]
 heroHeading: 'Verbands Herbstzuchtprüfung'
 heroSubHeading: ''
 heroBackground: 'services/service2.jpg'
-#onlineMeldung:  'https://japa4u.de/Events/?id=568&lang=de'
+onlineMeldung:  'https://online-nennung.japa4u.de/?edvnr=1018'
 
 
 termin: "2026-09-26"

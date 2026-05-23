@@ -10,7 +10,7 @@ tags: ["termin","pruefung", "VPS", "2026"]
 heroHeading: 'Verbandsprüfung nach dem Schuß'
 heroSubHeading: ''
 heroBackground: 'images/gimli003.jpg'
-#onlineMeldung: 'https://online-nennung.japa4u.de/?edvnr=1018&eventid=403'
+onlineMeldung: 'https://online-nennung.japa4u.de/?edvnr=1018'
 
 termin: "2026-09-27"
 tag: 27

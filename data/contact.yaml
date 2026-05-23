@@ -36,3 +36,12 @@ kassenwart:
     city: '27259 Varrel'
   mobile: '0160/96201244'
   email: 'janikahenke@hotmail.de'
+
+website:
+  position: 'Website, interim stv. Geschäftsführer'
+  businessName: 'Oliver Marohn'
+  address:
+    street: 'Zur Fichtenkämpe 23'
+    city: '27254 Staffhorst'
+  mobile: '0151/16518099'
+  email: 'omarohn@gmail.com'

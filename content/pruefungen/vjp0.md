@@ -10,7 +10,7 @@ tags: ["termin","pruefung","VJP", "2026"]
 heroHeading: 'Verbandsjugendprüfung'
 heroSubHeading: ''
 heroBackground: 'services/service2.jpg'
-onlineMeldung:  'https://online-nennung.japa4u.de/?edvnr=1018&eventid=576&lang=de'
+onlineMeldung:  'https://online-nennung.japa4u.de/?edvnr=1018'
 
 termin: "2026-04-11"
 tag: 11

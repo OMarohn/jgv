@@ -10,7 +10,7 @@ tags: ["termin","pruefung", "BTR", "2026"]
 heroHeading: 'Bringtreueprüfung'
 heroSubHeading: ''
 heroBackground: 'images/gimli003.jpg'
-#onlineMeldung: 'https://japa4u.de/Events/?id=566&lang=de'
+onlineMeldung: 'https://online-nennung.japa4u.de/?edvnr=1018'
 
 termin: "2026-09-27"
 tag: 27

@@ -10,7 +10,7 @@ tags: ["termin","pruefung", "VGP", "2026"]
 heroHeading: 'Verbandsgebrauchsprüfung mit Übernachtfährte'
 heroSubHeading: ''
 heroBackground: 'images/pruefungen/vgp4.jpg'
-#onlineMeldung: 'https://japa4u.de/Events/?id=564&lang=de'
+onlineMeldung: 'https://online-nennung.japa4u.de/?edvnr=1018'
 
 termin: "2026-09-26"
 tag: 26

@@ -10,7 +10,7 @@ tags: ["termin","pruefung", "VStP", "2026"]
 heroHeading: 'Verbandsstöberprüfung'
 heroSubHeading: ''
 heroBackground: 'images/gimli003.jpg'
-#onlineMeldung: 'https://japa4u.de/Events/?id=573&lang=de'
+onlineMeldung: 'https://online-nennung.japa4u.de/?edvnr=1018'
 
 termin: "2026-11-29"
 tag: 29
