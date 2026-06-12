@@ -1,6 +1,6 @@
 ---
 title: "VJP 2021"
-date: 2021-02-03:13:22+01:00
+date: 2021-02-03T13:22:00+01:00
 icon: 'services/service-icon-4.png'
 featured: true
 draft: false

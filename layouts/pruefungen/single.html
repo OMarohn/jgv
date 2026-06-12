@@ -63,7 +63,5 @@ page-services-single
 {{ $library := resources.Get "js/libs/library.js" }} 
 {{ $services := resources.Get "js/pages/services.js"}} 
 {{ $servicesJS := slice $library $services | resources.Concat "js/services.js" }} 
-{{ if .Site.IsServer }}
-<script type="text/javascript" src="{{ $servicesJS.RelPermalink }}"></script> {{ else }}
-<script type="text/javascript" src="{{ ($servicesJS | minify | fingerprint).RelPermalink }}"></script> {{ end }} 
+<script type="text/javascript" src="{{ ($servicesJS | minify | fingerprint).RelPermalink }}"></script> 
 {{ end }}

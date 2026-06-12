@@ -1,11 +1,10 @@
 ---
 title: 'Vorstand'
 date: 2019-03-08T12:33:46+10:00
-icon: 'services/service-icon-1.png'
+icon: 'ausbildung/kurzhaar.svg'
 draft: false
 featured: true
 weight: 3
-icon: 'ausbildung/kurzhaar.svg'
 heroSubHeading: 'Der Vorstand stellt sich vor'
 heroBackground: 'images/schweiss.jpg'
 ---

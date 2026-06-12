@@ -1,5 +1,5 @@
 baseURL = "https://jgv-diepholz.de/"
-languageCode = "de-DE"
+locale = "de-DE"
 title = "JGV Diepholz"
 themesDir = "themes"
 theme = "hugo-hero-theme-master"
@@ -69,4 +69,4 @@ anchor = "smart"
 
 [permalinks]
   post = "/:year/:month/:day/:slug/"
-  pages = "/:filename/"
+  pages = "/:contentbasename/"

@@ -1,6 +1,6 @@
 ---
 title: "VJP 2025"
-date: 2025-01-28:13:22+01:00
+date: 2025-01-28T13:22:00+01:00
 icon: 'services/service-icon-4.png'
 featured: true
 draft: false
