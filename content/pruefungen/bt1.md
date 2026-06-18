@@ -35,7 +35,7 @@ Prüfungsleiter: Bernhard Winalke, Am Speckenbach 59, 27246 Borstel, Tel. 017130
 
 Gerichtet wird nach der derzeit gültigen Prüfungsordnung des JGHV.
 
-**Die Nennungen ist Online aktuell leider nicht möglich, bitte melden Sie sich bei der Geschäftsstelle**
+Die Nennungen bitte Online, über den Klick auf den Button **Onlinemeldung** durchführen.  
 
 Die ausgefüllte Nennung bitte zusätzlich Ausdrucken und unterschreiben.  
 
