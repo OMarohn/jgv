@@ -21,7 +21,7 @@ monat: September
 
 Nenngeld Mitglieder/Nichtmitglieder: 120€/140€.
 
-### Nennschluss 20.03.2026
+### Nennschluss 22.08.2026
 
 Nennungen werden erst mit Eingang des Nenngeldes berücksichtigt. Hundeführer, die vor Nennschluss zurück ziehen wird das Nenngeld erstattet.
 
