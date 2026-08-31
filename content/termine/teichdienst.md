@@ -3,7 +3,7 @@ title: "Teichdienst"
 date: 2025-01-28T08:53:26+01:00
 icon: '/theo001.jpg'
 featured: true
-draft: false
+draft: true
 tags: ["termin", "Teich"]
 heroHeading: 'Teichpflege'
 heroSubHeading: ''

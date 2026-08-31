@@ -3,7 +3,7 @@ title: "Haupversammlung"
 date: 2024-01-28T08:45:07+01:00
 icon: 'services/service-icon-4.png'
 featured: true
-draft: false
+draft: true
 tags: ["termin", "Hauptversammlung"]
 heroHeading: 'Jahreshauptversammlung'
 heroSubHeading: ''

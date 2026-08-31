@@ -133,3 +133,57 @@
     font-weight: 800;
     color: $primary;
 }
+
+.announcement-banner {
+    background-color: $primary;
+    color: #ffffff;
+    margin-top: 60px;
+    overflow: hidden;
+    padding: 0.75rem 0;
+    position: relative;
+    z-index: 10;
+}
+
+.announcement-banner__track {
+    display: flex;
+    width: max-content;
+    will-change: transform;
+}
+
+.announcement-banner__track--ready {
+    animation: announcement-scroll 24s linear infinite;
+}
+
+.announcement-banner__group {
+    display: flex;
+    flex: 0 0 auto;
+}
+
+.announcement-banner__group p {
+    flex: 0 0 auto;
+    margin: 0;
+    padding-right: 4rem;
+    white-space: nowrap;
+}
+
+.announcement-banner a {
+    color: #ffffff;
+    text-decoration: underline;
+}
+
+@keyframes announcement-scroll {
+    from { transform: translate3d(0, 0, 0); }
+    to { transform: translate3d(-50%, 0, 0); }
+}
+
+@media (prefers-reduced-motion: reduce) {
+    .announcement-banner__track {
+        animation: none;
+        width: auto;
+    }
+
+    .announcement-banner__group[aria-hidden="true"],
+    .announcement-banner__group p[aria-hidden="true"] {
+        display: none;
+    }
+}
