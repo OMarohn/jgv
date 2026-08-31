@@ -5,7 +5,7 @@ heroHeading: 'JGV Diepholz'
 heroSubHeading: 'Herzlich willkommen auf der Webseite des JGV Diepholz'
 heroBackground: 'images/main2.jpg'
 announcementEnabled: true
-announcementText: 'Der erste Teich ist wieder befüllt und zum Übern freigegeben. Bitte **nur** den ersten Teich benutzen!! '
+announcementText: 'Der erste Teich ist wieder befüllt, und zum Üben freigegeben. Bitte **nur** den ersten Teich benutzen!! '
 announcementStart: 2026-08-31T00:00:00+02:00
 announcementEnd: 2026-10-30T23:59:59+02:00
 ---
