@@ -12,9 +12,6 @@ heroBackground: 'services/service2.jpg'
 #onlineMeldung: 'https://japa4u.de/Events/?id=104'
 
 termin: "2022-04-09"
-tag: 09
-wochentag: Samstag
-monat: April
 ---
 
 **Verbandsjugendprüfung**  

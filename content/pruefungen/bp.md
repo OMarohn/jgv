@@ -11,9 +11,6 @@ heroSubHeading: ''
 heroBackground: 'services/service2.jpg'
 
 termin: "2026-09-05"
-tag: 05
-wochentag: Samstag
-monat: September
 ---
 
 **Brauchbarkeit**

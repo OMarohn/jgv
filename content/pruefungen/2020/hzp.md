@@ -11,9 +11,6 @@ heroBackground: 'services/service2.jpg'
 #onlineMeldung: 'https://nennung.japa4u.de/?nr=1018'
 
 termin: "2020-09-12"
-tag: 12
-wochentag: Samstag
-monat: September
 ---
 
 **HZP 2020 - 1. Termin**

@@ -13,9 +13,6 @@ heroBackground: 'images/pruefungen/vgp4.jpg'
 onlineMeldung: 'https://online-nennung.japa4u.de/?edvnr=1018'
 
 termin: "2026-09-26"
-tag: 26
-wochentag: Samstag
-monat: September
 
 ---
 

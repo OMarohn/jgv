@@ -11,9 +11,6 @@ heroSubHeading: ''
 heroBackground: 'services/service2.jpg'
 
 termin: "2022-03-27"
-tag: 27
-wochentag: Sonntag
-monat: März
 ---
 
 **Verbandsjugendprüfung**  

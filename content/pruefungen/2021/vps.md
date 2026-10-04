@@ -12,9 +12,6 @@ heroBackground: 'images/gimli003.jpg'
 #onlineMeldung: 'https://japa4u.de/Events/?id=92'
 
 termin: "2021-10-02"
-tag: 2
-wochentag: Samstag
-monat: Oktober
 
 ---
 

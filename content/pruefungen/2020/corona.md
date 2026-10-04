@@ -10,9 +10,6 @@ heroSubHeading: ''
 heroBackground: 'services/service2.jpg'
 
 termin: "2020-07-18"
-tag: 18
-wochentag: Samstag
-monat: Juli
 ---
 
 ####  Corona 2020

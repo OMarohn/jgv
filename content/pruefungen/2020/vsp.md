@@ -11,9 +11,6 @@ heroBackground: 'services/service2.jpg'
 onlineMeldung: 'http://japa4u.de/Events/?id=76'
 
 termin: "2020-11-22"
-tag: 22
-wochentag: Sonntag
-monat: November
 ---
 
 #### Verbands-Stöberprüfung 

@@ -12,9 +12,6 @@ heroBackground: 'images/pruefungen/vgp4.jpg'
 #onlineMeldung: 'https://japa4u.de/Events/?id=285'
 
 termin: "2024-10-04"
-tag: 04
-wochentag: Freitag
-monat: Oktober
 
 ---
 

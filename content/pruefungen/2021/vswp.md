@@ -12,9 +12,6 @@ heroBackground: 'images/gimli003.jpg'
 # onlineMeldung: 'https://japa4u.de/Events/?id=100'
 
 termin: "2021-11-13"
-tag: 13
-wochentag: Samstag
-monat: November
 
 ---
 

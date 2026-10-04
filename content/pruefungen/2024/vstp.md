@@ -12,9 +12,6 @@ heroBackground: 'images/gimli003.jpg'
 #onlineMeldung: 'https://japa4u.de/Events/?id=288'
 
 termin: "2024-12-01"
-tag: 01
-wochentag: Sonntag
-monat: Dezember
 
 ---
 

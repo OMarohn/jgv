@@ -11,9 +11,6 @@ heroSubHeading: 'Jubiläums VGP 120 Jahre JGV Diepholz'
 heroBackground: 'images/pruefungen/vgp4.jpg'
 
 termin: "2024-10-19"
-tag: 19
-wochentag: Samstag
-monat: Oktober
 
 ---
 

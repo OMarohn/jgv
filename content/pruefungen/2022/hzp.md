@@ -11,9 +11,6 @@ heroBackground: 'services/service2.jpg'
 #onlineMeldung: 'https://japa4u.de/Events/?id=106'
 
 termin: "2022-09-24"
-tag: 24
-wochentag: Samstag
-monat: September
 ---
 
 **HZP 2022**

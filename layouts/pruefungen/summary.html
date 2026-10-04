@@ -1,15 +1,16 @@
 <div class="service service-summary">
   <div class="service-image">
-    {{ $myYear := substr .Params.Termin 0 4}}
+    {{ $termin := time.AsTime .Params.termin }}
+    {{ $myYear := $termin.Format "2006" }}
     {{ $thisYear := now.Format "2006" }}
     {{- if lt $myYear $thisYear}}
       <time class="icon off">
     {{ else }}
       <time class="icon">
     {{- end}}
-      <em>{{.Params.wochentag}}</em>
-      <strong>{{.Params.monat}}</strong>
-      <span>{{.Params.tag}}</span>
+      <em>{{ $termin | time.Format "Monday" }}</em>
+      <strong>{{ $termin | time.Format "January" }}</strong>
+      <span>{{ $termin | time.Format "2" }}</span>
     </time>
   </div>
 

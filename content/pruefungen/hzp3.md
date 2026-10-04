@@ -12,9 +12,6 @@ heroBackground: 'services/service2.jpg'
 onlineMeldung: 'https://online-nennung.japa4u.de/?edvnr=1018'
 
 termin: "2026-10-11"
-tag: 11
-wochentag: Samstag
-monat: Oktober
 ---
 
 ## HZP ohne Spurarbeit**

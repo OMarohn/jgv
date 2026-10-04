@@ -11,9 +11,6 @@ heroSubHeading: ''
 heroBackground: 'images/gimli003.jpg'
 
 termin: "2023-10-14"
-tag: 14
-wochentag: Samstag
-monat: Oktober
 
 ---
 

@@ -12,9 +12,6 @@ heroBackground: 'images/gimli003.jpg'
 #onlineMeldung: 'https://japa4u.de/Events/?id=101'
 
 termin: "2021-12-05"
-tag: 5
-wochentag: Sonntag
-monat: Dezember
 
 ---
 

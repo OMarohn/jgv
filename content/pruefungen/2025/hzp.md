@@ -11,9 +11,6 @@ heroBackground: 'services/service2.jpg'
 #onlineMeldung: 'https://online-nennung.japa4u.de/?edvnr=1018&eventid=402'
 
 termin: "2025-09-13"
-tag: 13
-wochentag: Samstag
-monat: September
 ---
 
 **HZP ohne Spurarbeit**

@@ -12,9 +12,6 @@ heroBackground: 'images/pruefungen/vgp4.jpg'
 #onlineMeldung: 'https://japa4u.de/Events/?id=110'
 
 termin: "2022-10-15"
-tag: 15
-wochentag: Samstag
-monat: Oktober
 
 ---
 

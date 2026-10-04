@@ -10,9 +10,6 @@ heroSubHeading: ''
 heroBackground: 'services/service2.jpg'
 
 termin: "2025-10-11"
-tag: 11
-wochentag: Samstag
-monat: Oktober
 ---
 
 **HZP ohne Spurarbeit**

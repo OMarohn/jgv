@@ -12,9 +12,6 @@ heroBackground: 'images/pruefungen/vgp4.jpg'
 #onlineMeldung: 'https://online-nennung.japa4u.de/?edvnr=1018&eventid=400'
 
 termin: "2025-09-27"
-tag: 27
-wochentag: Samstag
-monat: September
 
 ---
 

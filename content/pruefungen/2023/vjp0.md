@@ -12,9 +12,6 @@ heroBackground: 'services/service2.jpg'
 #onlineMeldung: 'https://japa4u.de/Events/?id=126'
 
 termin: "2023-04-15"
-tag: 15
-wochentag: Samstag
-monat: April
 ---
 
 

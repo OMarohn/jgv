@@ -12,9 +12,6 @@ heroBackground: 'images/pruefungen/vgp4.jpg'
 onlineMeldung: 'https://online-nennung.japa4u.de/?edvnr=1018'
 
 termin: "2026-10-10"
-tag: 10
-wochentag: Samstag
-monat: Oktober
 
 ---
 

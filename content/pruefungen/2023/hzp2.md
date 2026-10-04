@@ -11,9 +11,6 @@ heroSubHeading: ''
 heroBackground: 'images/pruefungen/vgp4.jpg'
 
 termin: "2023-09-30"
-tag: 30
-wochentag: Samstag
-monat: September
 
 ---
 

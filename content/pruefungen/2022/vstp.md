@@ -12,9 +12,6 @@ heroBackground: 'images/gimli003.jpg'
 #onlineMeldung: 'https://japa4u.de/Events/?id=113'
 
 termin: "2022-12-04"
-tag: 4
-wochentag: Sonntag
-monat: Dezember
 
 ---
 

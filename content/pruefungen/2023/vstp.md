@@ -12,9 +12,6 @@ heroBackground: 'images/gimli003.jpg'
 #onlineMeldung: 'https://japa4u.de/Events/?id=221'
 
 termin: "2023-12-03"
-tag: 03
-wochentag: Sonntag
-monat: Dezember
 
 ---
 

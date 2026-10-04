@@ -12,10 +12,7 @@ heroSubHeading: ''
 heroBackground: 'images/gimli003.jpg'
 onlineMeldung: 'https://online-nennung.japa4u.de/?edvnr=1018'
 
-termin: "2026-10-11"
-tag: 11
-wochentag: Samstag
-monat: Oktober
+termin: "2026-10-10"
 
 ---
 

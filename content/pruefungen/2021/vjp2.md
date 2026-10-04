@@ -12,9 +12,6 @@ heroBackground: 'services/service2.jpg'
 onlineMeldung: 'https://japa4u.de/Events/?id=86'
 
 termin: "2021-03-27"
-tag: 27
-wochentag: Samstag
-monat: März
 ---
 
 **Verbandsjugendprüfung**  

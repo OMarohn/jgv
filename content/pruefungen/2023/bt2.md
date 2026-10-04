@@ -12,9 +12,6 @@ heroBackground: 'images/gimli003.jpg'
 onlineMeldung: 'https://japa4u.de/Events/?id=220'
 
 termin: "2023-10-15"
-tag: 15
-wochentag: Sonntag
-monat: Oktober
 
 ---
 

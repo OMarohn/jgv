@@ -12,9 +12,6 @@ heroBackground: 'images/pruefungen/vgp4.jpg'
 #onlineMeldung: 'https://japa4u.de/Events/?id=212'
 
 termin: "2023-09-30"
-tag: 30
-wochentag: Samstag
-monat: September
 
 ---
 

@@ -13,9 +13,6 @@ heroBackground: 'services/service2.jpg'
 onlineMeldung:  'https://online-nennung.japa4u.de/?edvnr=1018'
 
 termin: "2026-04-11"
-tag: 11
-wochentag: Samstag
-monat: April
 ---
 
 ## Verbandsjugendprüfung

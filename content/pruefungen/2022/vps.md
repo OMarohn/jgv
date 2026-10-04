@@ -12,9 +12,6 @@ heroBackground: 'images/gimli003.jpg'
 #onlineMeldung: 'https://japa4u.de/Events/?id=108'
 
 termin: "2022-10-08"
-tag: 8
-wochentag: Samstag
-monat: Oktober
 
 ---
 

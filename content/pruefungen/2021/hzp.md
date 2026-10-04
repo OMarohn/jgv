@@ -11,9 +11,6 @@ heroBackground: 'services/service2.jpg'
 #onlineMeldung: 'https://japa4u.de/Events/?id=88'
 
 termin: "2021-09-18"
-tag: 18
-wochentag: Samstag
-monat: September
 ---
 
 **HZP 2021 - ohne Spurarbeit**

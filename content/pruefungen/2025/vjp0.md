@@ -12,9 +12,6 @@ heroBackground: 'services/service2.jpg'
 #onlineMeldung: 'https://japa4u.de/Events/?id=401'
 
 termin: "2025-04-12"
-tag: 12
-wochentag: Samstag
-monat: April
 ---
 
 **Verbandsjugendprüfung**

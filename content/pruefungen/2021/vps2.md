@@ -12,9 +12,6 @@ heroBackground: 'images/gimli003.jpg'
 onlineMeldung: 'https://japa4u.de/Events/?id=98'
 
 termin: "2021-10-16"
-tag: 16
-wochentag: Samstag
-monat: Oktober
 
 ---
 

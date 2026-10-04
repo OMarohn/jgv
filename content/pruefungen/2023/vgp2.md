@@ -12,9 +12,6 @@ heroBackground: 'images/pruefungen/vgp4.jpg'
 #onlineMeldung: 'https://japa4u.de/Events/?id=213'
 
 termin: "2023-10-14"
-tag: 14
-wochentag: Samstag
-monat: Oktober
 
 ---
 
