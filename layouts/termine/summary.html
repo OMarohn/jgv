@@ -1,9 +1,10 @@
 <div class="service service-summary">
   <div class="service-image">
+    {{ $termin := time.AsTime .Params.termin }}
     <time class="icon">
-      <em>{{.Params.wochentag}}</em>
-      <strong>{{.Params.monat}}</strong>
-      <span>{{.Params.tag}}</span>
+      <em>{{ $termin | time.Format "Monday" }}</em>
+      <strong>{{ $termin | time.Format "January" }}</strong>
+      <span>{{ $termin | time.Format "2" }}</span>
     </time>
   </div>
 

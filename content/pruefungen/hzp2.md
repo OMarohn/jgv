@@ -9,49 +9,26 @@ tags: ["termin","pruefung","HZP","2026"]
 heroHeading: 'Verbands Herbstzuchtprüfung'
 heroSubHeading: ''
 heroBackground: 'services/service2.jpg'
-onlineMeldung:  'https://online-nennung.japa4u.de/?edvnr=1018'
+#onlineMeldung:  'https://online-nennung.japa4u.de/?edvnr=1018'
 
 
-termin: "2026-09-26"
+termin: "2026-09-27"
 ---
 
-## HZP ohne Spurarbeit**
+**HZP ohne Spurarbeit**
 
-Nenngeld Mitglieder/Nichtmitglieder: 120€/140€.
+Am Sonntag den 27. September
 
-### Nennschluss 04.09.2026
+HZP am 27.09.2026 um Kirchdorf, gem. 2, ersch. 2, gepr. 1, präm. 2 Hunde
 
-Nennungen werden erst mit Eingang des Nenngeldes berücksichtigt. Hundeführer, die vor Nennschluss zurück ziehen wird das Nenngeld erstattet.
+Wetter: sonnig, feucht, um 10 Grad Wildbesatz: Federwild: sehr gut / Haarwild: gut
 
-Das Geld für die lebende Ente ist am Prüfungstag in bar zu entrichten.
+Ergebnisse:  
+{{<table "table table-dark table-striped table-bordered" >}}
 
-Überweisung auf: Volksbank Sulingen, IBAN: DE51256916333588070800, BIC: GENODEF1SUL
+  | Name | Rasse | # | gewölft | Führer | Ort | Punkte | Laut |
+  | ---- | ----- |-|-------|------|---|------|----|
+|Ina vom Rauhen Busch| UK| 24-UK-8092| 04.12.2024| Daniel Nickel| 27211 Bassum| 184| fragl|
+|Anu vom Dreieckswald| P| PP16540| 21.03.2025| Klaus Book| 27249 Mellinghausen| 180| fragl|
 
-Treffpunkt: wird noch bekannt gegeben
-
-Prüfungsleiter: Bernhard Winalke, Am Speckenbach 59, 27246 Borstel, Tel. 01713023158
-
-Gerichtet wird nach der derzeit gültigen Prüfungsordnung des JGHV.
-
-Die Nennungen bitte Online, über den Klick auf den Button **Onlinemeldung** durchführen.  
-
-Die ausgefüllte Nennung bitte zusätzlich Ausdrucken und unterschreiben.  
-
-Für alle teilnehmenden Hunde muss ein ausreichender Impfschutz sowie Versicherungsschutz nachgewiesen werden.
-
-Der Verein behält sich außerdem eine Begrenzung der Prüfungsteilnehmer vor. Mitglieder haben Vorrang.
-
-Weiterhin ist eine Kopie der Ahnentafel und Kopien aller früheren absolvierten Verbandsprüfungen beizufügen und an die Geschäftsstelle:  
-
-Silke Warneke  
-Nechtelsen 17  
-27232 Sulingen  
-Tel: 0172/2994352  
-<mail@silkewarneke.de> zu richten.  
-
-Nach Nennschluss eingehende Meldungen erfordern Mehrkosten von 50 Euro. Sollte eine Überweisung bis zum Nennschluss nicht eingegangen sein, so hat der Führer kein Anrecht auf Prüfung seines Hundes.  
-
-Das Nenngeld (Reuegeld) ist gleichzeitig mit der Nennung auf das Konto bei der Volksbank eG  
-IBAN DE51256916333588070800  
-BIC GENODEF1SUL  
-zu überweisen.
+{{</table>}}

@@ -8,9 +8,7 @@ tags: ["termin", "Teich"]
 heroHeading: 'Teichpflege'
 heroSubHeading: ''
 heroBackground: 'services/service2.jpg'
-tag: 28
-wochentag: Samstag
-monat: Februar
+termin: "2026-02-28"
 ---
 
 

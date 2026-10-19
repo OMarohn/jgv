@@ -9,48 +9,26 @@ tags: ["termin","pruefung","HZP","2026"]
 heroHeading: 'Verbands Herbstzuchtprüfung'
 heroSubHeading: ''
 heroBackground: 'services/service2.jpg'
-onlineMeldung: 'https://online-nennung.japa4u.de/?edvnr=1018'
+#onlineMeldung: 'https://online-nennung.japa4u.de/?edvnr=1018'
 
-termin: "2026-10-11"
+termin: "2026-10-10"
 ---
 
-## HZP ohne Spurarbeit**
+**HZP ohne Spurarbeit**
 
-Nenngeld Mitglieder/Nichtmitglieder: 120€/140€.
+Am Samstag den 10. Oktober
 
-### Nennschluss 18.09.2026
+HZP am 10.10.2026 um Kuppendorf/Kirchdorf, gem. 3, ersch. 3, gepr. 3, präm. 3 Hunde
 
-Nennungen werden erst mit Eingang des Nenngeldes berücksichtigt. Hundeführer, die vor Nennschluss zurück ziehen wird das Nenngeld erstattet.
+Wetter: sonnig, feucht, um 14 Grad Wildbesatz: Federwild: gut / Haarwild: gut
 
-Das Geld für die lebende Ente ist am Prüfungstag in bar zu entrichten.
+Ergebnisse:  
+{{<table "table table-dark table-striped table-bordered" >}}
 
-Überweisung auf: Volksbank Sulingen, IBAN: DE51256916333588070800, BIC: GENODEF1SUL
+  | Name | Rasse | # | gewölft | Führer | Ort | Punkte | Laut |
+  | ---- | ----- |-|-------|------|---|------|----|
+|Ilena vom Rauhen-Busch| UK| 24-UK-8091| 04.12.2024| Carolin Kaiser| 93491 Stamsried| 184| fragl|
+|Birke von der Tautropfenwiese| SlowRb| VDH 25/223 00187| 07.01.2025| Maike Goebel| 31174 Schellerten| 180| fragl|
+|Udine vom Buntenbrook| UK| 25-UK-8271| 22.04.2025| Helge Tienken| 27616 Wellen| 169| fragl|
 
-Treffpunkt: wird noch bekannt gegeben
-
-Prüfungsleiter: Heinrich Tiedemann, Heerde 57, 27245 Kuppendorf, Tel. 01722786638
-
-Gerichtet wird nach der derzeit gültigen Prüfungsordnung des JGHV.
-
-Die Nennungen bitte Online, über den Klick auf den Button **Onlinemeldung** durchführen.  
-
-Die ausgefüllte Nennung bitte zusätzlich Ausdrucken und unterschreiben.  
-
-Für alle teilnehmenden Hunde muss ein ausreichender Impfschutz sowie Versicherungsschutz nachgewiesen werden.
-
-Der Verein behält sich außerdem eine Begrenzung der Prüfungsteilnehmer vor. Mitglieder haben Vorrang.
-
-Weiterhin ist eine Kopie der Ahnentafel und Kopien aller früheren absolvierten Verbandsprüfungen beizufügen und an die Geschäftsstelle:  
-
-Silke Warneke  
-Nechtelsen 17  
-27232 Sulingen  
-Tel: 0172/2994352  
-<mail@silkewarneke.de> zu richten.  
-
-Nach Nennschluss eingehende Meldungen erfordern Mehrkosten von 50 Euro. Sollte eine Überweisung bis zum Nennschluss nicht eingegangen sein, so hat der Führer kein Anrecht auf Prüfung seines Hundes.  
-
-Das Nenngeld (Reuegeld) ist gleichzeitig mit der Nennung auf das Konto bei der Volksbank eG  
-IBAN DE51256916333588070800  
-BIC GENODEF1SUL  
-zu überweisen.
+{{</table>}}

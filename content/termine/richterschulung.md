@@ -8,9 +8,7 @@ tags: ["termin", "Fortbildung"]
 heroHeading: 'Richterfortbildung Sonderrichter Schweiß'
 heroSubHeading: ''
 heroBackground: 'images/schweiss.jpg'
-tag: 22
-wochentag: Sonntag
-monat: Mai
+termin: "2022-05-22"
 ---
 
 

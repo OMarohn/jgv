@@ -8,9 +8,7 @@ tags: ["termin", "Lehrgang"]
 heroHeading: 'Hundeführerlehrgang'
 heroSubHeading: ''
 heroBackground: 'images/ausbildungdackel.jpg'
-tag: 26
-wochentag: Sonntag 
-monat: April
+termin: "2026-04-26"
 ---
 
 Neuer Hundeführerlehrgang für Jagdhunde

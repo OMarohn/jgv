@@ -8,9 +8,7 @@ tags: ["termin", "Hauptversammlung"]
 heroHeading: 'Jahreshauptversammlung'
 heroSubHeading: ''
 heroBackground: 'services/service2.jpg'
-tag: 27
-wochentag: Freitag
-monat: Februar
+termin: "2026-02-27"
 ---
 
 Die Mitgliederversammlung

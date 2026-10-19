@@ -9,58 +9,29 @@ tags: ["termin","pruefung", "VGP", "2026"]
 
 heroHeading: 'Verbandsgebrauchsprüfung mit Übernachtfährte'
 heroBackground: 'images/pruefungen/vgp4.jpg'
-onlineMeldung: 'https://online-nennung.japa4u.de/?edvnr=1018'
+#onlineMeldung: 'https://online-nennung.japa4u.de/?edvnr=1018'
 
 termin: "2026-10-10"
 
 ---
 
+**Verbandsgebrauchsprüfung mit Übernachtfährte**
 
-## Verbandsgebrauchsprüfung mit Übernachtfährte
+Am Samstag den 10. Oktober
 
-Nenngeld Mitglieder/Nichtmitglieder:160/180€
+VGP am 10.10.2026 bis 11.10.2026 um Kuppendorf/Kirchdorf
 
-### Nennschluss 18.09.2026
+gem. 5, ersch. 3, gepr. 3, präm. 3 Hunde
 
-Verbeller/ Verweiser 40€
+Wetter: bedeckt, feucht, um 12 Grad Wildbesatz: Federwild: gut / Haarwild: gut
 
-Anzahl der Nennungen min/max: 3/8
+Ergebnisse:  
+{{<table "table table-dark table-striped table-bordered" >}}
 
-Beschaffenheit Fuchshindernis gem. VGPO, §11 (1) c).
+  | Name | Rasse | # | gewölft | Führer | Ort | Punkte | Preis | Laut |
+  | ---- | ----- |-|-------|------|---|------|----|----|
+|Bodo vom Wegenmoor| DD| 256672| 15.06.2024| Benjamin Stratmann| 27239 Twistringen| 327| I.| fragl.|
+|Compatriota di Bonfini Ulti| UK| MET.MV.6208-22| 19.09.2022| Christina Petzoldt| 28355 Bremen| 324| I.| fragl.|
+|Alba von der Rissener Heide| UK| 24-UK-8004| 31.05.2024| Sebastian Fellmann| 21386 Betzendorf| 319| I.| fragl.|
 
-Beschaffenheit Stöbergelände gem. VPSO, §14 (1) a).
-
-Arbeit am geflügelten Huhn möglich.
-
-Damwildschweiß, getropft.
-
-Überweisung auf: Volksbank Sulingen, IBAN: DE51256916333588070800, BIC: GENODEF1SUL
-
-Treffpunkt: wird noch bekannt gegeben 13.00 Uhr
-
-Prüfungsleiter: Heinrich Tiedemann, Heerde 57, 27245 Kuppendorf, Tel. 01722786638
-
-Gerichtet wird nach der derzeit gültigen Prüfungsordnung des JGHV.
-
-Die Nennungen bitte Online, über den Klick auf den Button **Onlinemeldung** durchführen.  
-
-Die ausgefüllte Nennung bitte zusätzlich Ausdrucken und unterschreiben.  
-
-Für alle teilnehmenden Hunde muss ein ausreichender Impfschutz sowie Versicherungsschutz nachgewiesen werden.
-
-Der Verein behält sich außerdem eine Begrenzung der Prüfungsteilnehmer vor. Mitglieder haben Vorrang.
-
-Weiterhin ist eine Kopie der Ahnentafel und Kopien aller früheren absolvierten Verbandsprüfungen beizufügen und an die Geschäftsstelle:  
-
-Silke Warneke  
-Nechtelsen 17  
-27232 Sulingen  
-Tel: 0172/2994352  
-<mail@silkewarneke.de> zu richten.  
-
-Nach Nennschluss eingehende Meldungen erfordern Mehrkosten von 50 Euro. Sollte eine Überweisung bis zum Nennschluss nicht eingegangen sein, so hat der Führer kein Anrecht auf Prüfung seines Hundes.  
-
-Das Nenngeld (Reuegeld) ist gleichzeitig mit der Nennung auf das Konto bei der Volksbank eG  
-IBAN DE51256916333588070800  
-BIC GENODEF1SUL  
-zu überweisen.
+{{</table>}}

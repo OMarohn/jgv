@@ -10,55 +10,26 @@ tags: ["termin","pruefung", "VPS", "2026"]
 heroHeading: 'Verbandsprüfung nach dem Schuß'
 heroSubHeading: ''
 heroBackground: 'images/gimli003.jpg'
-onlineMeldung: 'https://online-nennung.japa4u.de/?edvnr=1018'
+#onlineMeldung: 'https://online-nennung.japa4u.de/?edvnr=1018'
 
-termin: "2026-09-27"
+termin: "2026-09-26"
 
 ---
 
-## Verbandsprüfung nach dem Schuß - mit und ohne Fuchs
+**Verbandsprüfung nach dem Schuß - mit und ohne Fuchs**
 
-Nenngeld Mitglieder/Nichtmitglieder:160€/180€
+Am Samstag den 26. September
 
-### Nennschluss 04.09.2026
+VPS am 26.09.2026 um Kirchdorf, gem. 2, ersch. 2, gepr. 2, präm. 2 Hunde
 
-Verbeller/ Verweiser 40€
+Wetter: sonnig, feucht, um 10 Grad Wildbesatz: Federwild: sehr gut / Haarwild: gut
 
-Anzahl der Nennungen min/max: 3/8
+Ergebnisse:  
+{{<table "table table-dark table-striped table-bordered" >}}
 
-Beschaffenheit Fuchshindernis gem. VGPO, §11(1)c).
+  | Name | Rasse | # | gewölft | Führer | Ort | Punkte | Preis | Laut |
+  | ---- | ----- |-|-------|------|---|------|----|----|
+|Noel vom Talbrunnen| ECS| VDH/JSPK/0041/| 07.04.2022| Manuela Heinecke| 49448 Quernheim| 195| I.| fragl.|
+|Caipirinha vom Nikolausberg| ESS| VDH/SCD/ES 23/105| 26.09.2023| Dörthe Karrasch| 27254 Staffhorst| 179| II.| fragl.|
 
-Beschaffenheit Stöbergelände gem. VPSO, §14(1)a).
-
-Damwildschweiß, getropft.
-
-Überweisung auf: Volksbank Sulingen, IBAN: DE51256916333588070800, BIC: GENODEF1SUL
-
-Treffpunkt: wird noch bekannt gegeben
-
-Prüfungsleiter: Bernhard Winalke, Am Speckenbach 59, 27246 Borstel, Tel. 01713023158
-
-Gerichtet wird nach der derzeit gültigen Prüfungsordnung des JGHV.  
-
-Die Nennungen bitte Online, über den Klick auf den Button **Onlinemeldung** durchführen.  
-
-Die ausgefüllte Nennung bitte zusätzlich Ausdrucken und unterschreiben.  
-
-Für alle teilnehmenden Hunde muss ein ausreichender Impfschutz sowie Versicherungsschutz nachgewiesen werden.
-
-Der Verein behält sich außerdem eine Begrenzung der Prüfungsteilnehmer vor. Mitglieder haben Vorrang.
-
-Weiterhin ist eine Kopie der Ahnentafel und Kopien aller früheren absolvierten Verbandsprüfungen beizufügen und an die Geschäftsstelle:  
-
-Silke Warneke  
-Nechtelsen 17  
-27232 Sulingen  
-Tel: 0172/2994352  
-<mail@silkewarneke.de> zu richten.  
-
-Nach Nennschluss eingehende Meldungen erfordern Mehrkosten von 50 Euro. Sollte eine Überweisung bis zum Nennschluss nicht eingegangen sein, so hat der Führer kein Anrecht auf Prüfung seines Hundes.  
-
-Das Nenngeld (Reuegeld) ist gleichzeitig mit der Nennung auf das Konto bei der Volksbank eG  
-IBAN DE51256916333588070800  
-BIC GENODEF1SUL  
-zu überweisen.
+{{</table>}}
