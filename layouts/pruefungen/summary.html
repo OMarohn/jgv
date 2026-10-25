@@ -1,4 +1,5 @@
-<div class="service service-summary">
+<div class="service service-summary{{ if .Params.ausgebucht }} ausgebucht-wrapper{{ end }}">
+  {{ if .Params.ausgebucht }}{{ partial "ausgebucht.html" . }}{{ end }}
   <div class="service-image">
     {{ $termin := time.AsTime .Params.termin }}
     {{ $myYear := $termin.Format "2006" }}

@@ -4,6 +4,7 @@ date: 2025-01-28T15:15:34+10:00
 icon: 'services/service-icon-4.png'
 featured: true
 draft: false
+ausgebucht: true
 
 tags: ["termin","pruefung", "VStP", "2026"]
 

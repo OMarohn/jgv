@@ -33,7 +33,8 @@ page-services-single
     </div>
   </div>
   {{ end }} 
-  <div class="row ">
+  <div class="row {{ if .Params.ausgebucht }}ausgebucht-wrapper{{ end }}">
+    {{ if .Params.ausgebucht }}{{ partial "ausgebucht.html" . }}{{ end }}
     <div class="col-2">
       {{ $termin := time.AsTime .Params.termin }}
       <time class="icon">
@@ -51,7 +52,11 @@ page-services-single
   {{ if isset .Params "onlinemeldung" }}
   <div class="row ergebnis">
     <div class="col-10 offset-2">
+      {{ if .Params.ausgebucht }}
+      <span class="button disabled" aria-disabled="true">Onlinemeldung</span>
+      {{ else }}
       <a class="button" href="{{ .Params.onlinemeldung }}" target="_blank">Onlinemeldung</a>
+      {{ end }}
     </div>
   </div>
   {{ end }}

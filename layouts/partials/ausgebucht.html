@@ -1,0 +1,34 @@
+{{ $id := printf "ab-%s" (md5 .Permalink) }}
+<div class="ausgebucht-overlay" aria-label="Ausgebucht" role="img">
+  <svg viewBox="0 0 400 400" xmlns="http://www.w3.org/2000/svg" class="ausgebucht-stamp">
+    <defs>
+      <path id="{{ $id }}-top" d="M 48,200 A 152,152 0 0 1 352,200" />
+      <path id="{{ $id }}-bottom" d="M 19,200 A 181,181 0 0 0 381,200" />
+      <!-- Lücke im Ring rund um das Band -->
+      <mask id="{{ $id }}-ring" maskUnits="userSpaceOnUse" x="0" y="0" width="400" height="400">
+        <rect width="400" height="400" fill="#fff" />
+        <rect x="-60" y="128" width="520" height="144" fill="#000" transform="rotate(-12 200 200)" />
+      </mask>
+      <!-- Text im Band wird ausgestanzt (transparent) -->
+      <mask id="{{ $id }}-band" maskUnits="userSpaceOnUse" x="-100" y="0" width="600" height="400">
+        <rect x="-100" width="600" height="400" fill="#fff" />
+        <text x="200" y="224" text-anchor="middle" font-family="Impact, 'Arial Black', sans-serif" font-weight="900" font-size="78" textLength="360" lengthAdjust="spacingAndGlyphs" fill="#000" transform="rotate(-12 200 200)">AUSGEBUCHT</text>
+      </mask>
+    </defs>
+    <g mask="url(#{{ $id }}-ring)" fill="currentColor" font-family="Impact, 'Arial Black', sans-serif" font-weight="900">
+      <circle cx="200" cy="200" r="192" fill="none" stroke="currentColor" stroke-width="8" />
+      <circle cx="200" cy="200" r="145" fill="none" stroke="currentColor" stroke-width="4" />
+      <text font-size="40" letter-spacing="10" text-anchor="middle"><textPath href="#{{ $id }}-top" startOffset="50%">LEIDER</textPath></text>
+      <text font-size="40" letter-spacing="10" text-anchor="middle"><textPath href="#{{ $id }}-bottom" startOffset="50%">VOLL</textPath></text>
+      <text font-size="26" text-anchor="middle" x="160" y="120">★</text>
+      <text font-size="26" text-anchor="middle" x="200" y="112">★</text>
+      <text font-size="26" text-anchor="middle" x="240" y="120">★</text>
+      <text font-size="26" text-anchor="middle" x="160" y="300">★</text>
+      <text font-size="26" text-anchor="middle" x="200" y="308">★</text>
+      <text font-size="26" text-anchor="middle" x="240" y="300">★</text>
+    </g>
+    <g mask="url(#{{ $id }}-band)">
+      <rect x="-60" y="140" width="520" height="120" rx="8" fill="currentColor" transform="rotate(-12 200 200)" />
+    </g>
+  </svg>
+</div>
