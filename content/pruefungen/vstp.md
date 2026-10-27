@@ -4,7 +4,7 @@ date: 2025-01-28T15:15:34+10:00
 icon: 'services/service-icon-4.png'
 featured: true
 draft: false
-ausgebucht: true
+ausgebucht: false
 
 tags: ["termin","pruefung", "VStP", "2026"]
 
@@ -17,7 +17,7 @@ termin: "2026-11-29"
 
 ---
 
-## Verbandsstöberprüfung - vom Führer begleitet oder vom Stand geschnallt
+## Verbandsstöberprüfung - vom Führer begleitet oder vom Stand geschnallt - Wieder 2 Plätze frei!
 
 Nenngeld Mitglieder/Nichtmitglieder:140€/160€
 
